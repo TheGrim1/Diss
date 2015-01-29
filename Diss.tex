@@ -1,0 +1,61 @@
+\documentclass[11pt,
+paper=a4,				
+DIV=calc,		  % führt die Satzspiegelberechnung neu aus
+%oneside,		  % einseitiger Druck
+%BCOR=16mm,	  % Bindekorrektur
+headinclude,
+%footinclude
+]{scrbook}
+
+\usepackage[utf8]{inputenc}
+\usepackage{color}
+
+
+\bibliographystyle{alpha} 
+\newcommand{\fett}[1]{{\bf #1}}
+\newcommand{\TODO}[1]{{\LARGE{\textcolor{red}{\emph {#1 }}}}}
+\clubpenalty10000
+\widowpenalty10000
+
+\makeindex
+\begin{document}
+
+\titlehead{Friedrich Schiller Universität Jena\\
+PAF}
+\subject{Dissertation}
+\title{Hochfluenz Ionenbestrahlung nanostrukturierter Materie}
+\author{Andreas Johannes}
+\date{März 2015}
+\maketitle
+
+
+%\renewcommand{\abstractname}{Zusammenfassung}
+
+\chapter*{Zusammenfassung}
+
+Hier alles Bla
+
+
+\tableofcontents
+
+\chapter{Einleitung}
+
+\chapter{Methoden}
+
+Ausgiebige Verwendung von \emph{iradina} \cite{borschel_ion_2011}
+
+\chapter{Sputtern von Nanostrukturen}
+
+\chapter{Hohe Konzentrationen von Dotanten in Nanostrukturen}
+
+\chapter{Plastisches Fließen bei der Ionenimplantation}
+
+\chapter{Zusammenfassung und Ausblick}
+
+
+\TODO{test}
+
+
+\bibliography{DissBib}
+
+\end{document}
