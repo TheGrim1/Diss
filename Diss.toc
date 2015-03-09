@@ -1,6 +1,6 @@
-\contentsline {chapter}{\numberline {1}Einleitung}{7}
-\contentsline {chapter}{\numberline {2}Methoden}{9}
-\contentsline {chapter}{\numberline {3}Sputtern von Nanostrukturen}{11}
-\contentsline {chapter}{\numberline {4}Hohe Konzentrationen von Dotanten in Nanostrukturen}{13}
-\contentsline {chapter}{\numberline {5}Plastisches Flie\IeC {\ss }en bei der Ionenimplantation}{15}
-\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{17}
+\contentsline {chapter}{\numberline {1}Introduction}{7}
+\contentsline {chapter}{\numberline {2}Methods}{9}
+\contentsline {chapter}{\numberline {3}Sputtering of Nanostructures}{11}
+\contentsline {chapter}{\numberline {4}High Doping Concentrations in Nanostructures}{13}
+\contentsline {chapter}{\numberline {5}Plastic Flow in Nanostructured Silicon}{15}
+\contentsline {chapter}{\numberline {6}Summary and Outlook}{17}
