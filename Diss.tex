@@ -1,18 +1,22 @@
-\documentclass[11pt,
+\documentclass[12pt,
 paper=a4,				
 DIV=calc,		  % führt die Satzspiegelberechnung neu aus
 %oneside,		  % einseitiger Druck
-%BCOR=16mm,	  % Bindekorrektur
+BCOR=16mm,	  % Bindekorrektur
 headinclude,
-%footinclude
+%footinclude,
+openany
 ]{scrbook}
 
 \include{PDFAstuff}
- 
+
 
 \usepackage[utf8]{inputenc}
 \usepackage{color}
-
+\usepackage{graphicx}
+\setcapindent{1em}
+%\usepackage{wrapfig}
+\usepackage{sidecap}
 
 \bibliographystyle{alpha} 
 \newcommand{\fett}[1]{{\bf #1}}
@@ -23,40 +27,81 @@ headinclude,
 \makeindex
 \begin{document}
 
-\titlehead{Friedrich Schiller Universität Jena\\
-PAF}
-\subject{Dissertation}
-\title{High-Fluence Ion Irradiation of Nanostructured Semiconductors}
-\author{Andreas Johannes}
-\date{März 2015}
-\maketitle
-
-
-%\renewcommand{\abstractname}{Zusammenfassung}
-
-\chapter*{Abstract}
-
-Hier alles Bla
-
+\input{title_abstract}
 
 \tableofcontents
 
 \chapter{Introduction}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+%\let\clearpage\relax
 
+\input{Introduction}
 
-Unser Zeitalter wird definierend durch Technologien der elektronischen Datenverarbeitung (EDV). Die EDV schlägt sich in vielen Bereichen nieder da sie umfangreiche Datenverarbeitung und Sammlung ermöglicht. Die Implantationen in dieser Arbeit hätte man noch auf einem analog gesteuerten Beschleuniger machen können, ein Rasterelektronenmikroskop (REM) ist auch noch analog vorstellbar, die Auswertung von hunderten REM Bildern ist jedoch schon an der Grenze des Möglichen. Des Weiteren ist die Möglichkeit ein Experiment wie dieses am Rechner zu simulieren grundlegend neu und aus der Wissenschaft nicht mehr wegzudenken. Des Weiteren hat die EDV schnelle Kommunikation über lange Strecken ermöglicht. Allein das Internet hat einen direkten und einschneidenden Einfluss auf alles, von den makroökonomischen Zusammenhängen, bis in das tägliche Lebens eines Einzelnen. Zwar ist der Welthandel v.A. durch den unwahrscheinlich ausgebauten Flug und Schiffsverkehr globalisiert, jedoch ist diese Globalisierung undenkbar ohne ein gleichzeitiges Entstehen eines globalen Informationsaustauschsystems. Über das Internet ist möglich sich \emph{zu Hause} über ein Reiseziel so gut wie irgendwo auf der Welt umfassend zu informieren, einen Flug in das entsprechende Land zu buchen, dort ein Hotel zu buchen, ein Taxi für den Ankunftszeitpunkt zu bestellen und im Restaurant das vegetarische Menü zu reservieren; und das alles gleich zu bezahlen. Vor zwei Generationen alles noch völlig undenkbar. Solche Beispiele lassen sich beliebig zusammenstellen und das Internet ist auch nur ein Teil der EDV, zu der auch andere prägende 
-
-Die Größe der kleinsten strukturierten Bereiche in aktuellen integrierten Schaltkreisen wurde kontinuierlich reduziert und ist aktuell bei $22\,nm$.  , die 
 
 \chapter{Methods}
+
 
 Ausgiebige Verwendung von \emph{iradina} \cite{borschel_ion_2011}
 
 \chapter{Sputtering of Nanostructures}
 
+
+When an energetic ion hits a solid target the ensuing collision cascade will displace some of the target atoms from their original positions. The energy lost by the ion in these collisions is called ``nuclear'' energy loss. A displaced target atom can either become an interstitial, if it stays within the target volume, or be sputtered if it has sufficient energy to leave the solid. The energy required to leave the target is the surface-binding-energy.
+
 \chapter{High Doping Concentrations in Nanostructures}
 
+
 \chapter{Plastic Flow in Nanostructured Silicon}
+
+It was mentioned before that within the ``wiring quantum dots'' project $Si$ nanowires where irradiated with $As^+$ and $In^+$ and/or $Ga^+$ so that in a subsequent annealing step $Si-GaAs$ or $Si-InGaAs$ hetero-structures could be formed. Markus Glaser the Ph.D. student responsible for this part of the project had developed a good habit of making SEM images of the same individual wires after each process step. We thus noticed, that the $Si$ nanowires shrank quite dramatically during the irradiation with $\approx 100\,keV$ $In^+$, $Ga^+$ and $As^+$ at room temperature. Two examples of this can be seen in figure \TODO{Figure}\ref{deformSEM}. A quick look into literature revealed that this behavior has not been observed at such low ion energies. A thorough investigation might be worthwhile. Similar $Si$ nanowire arrays as the ones used for the sputtering experiment were thus systematically irradiated with $Ar^+$ to avoid any chemical effects, making SEM images after each irradiated fluence to observe and quantify the deformation.
+
+\begin{SCfigure}
+	\centering
+		\includegraphics[width=.48\textwidth]{images/deformationprofile.jpg}
+	\caption{Graphs of the diameter over height of a single $Si$ nanowire irradiated with increasing fluences of $100\,keV Ar^+$ ions. The black insets show the profiles of the nanowire after the respective fluences extracted from SEM images. In both illustrations the shrinking and widening of the wire is clearly visible.} 
+	\label{deformationprofile}
+\end{SCfigure}
+
+Using the algorithm described in the sputter yield chapter, the profiles for the irradiated nanowires could be extracted. In figure \ref{deformationprofile} the black, red, green and blue lines indicate the height dependent diameter of a single wire before and after irradiation with $100\,keV Ar^+$ up to fluences of 1, 3 and $5 \times 10^{16}\,cm^{-2}$ respectively. In this graph, as well as in the inset black profiles, the reduction of the height by $\approx 500\,nm$ and an increase of the diameter, especially at the base, can be clearly seen.
+
+In the collision cascade following an energetic ion impinging a solid will preferentially knock-on atoms along the propagation direction of the impinging ion. This causes an inhomogeneous distribution of interstitials and vacancies and effectively mass is transported `downstream' along the ion beam. In an amorphous material it is not clear what constitutes an `interstitial' or a `vacancy', but a local excess of vacancies can be understood as a locally decreased density, while an interstitial excess corresponds to an increased density. A local density gradient is not stable, since the density of amorphous $Si$ before and after irradiation is not significantly different \cite{pelaz_ion-beam-induced_2004}. Therefore the density gradient introduces stress in the material which can relax by plastic deformation, possibly enabled by a decreased viscosity due to further ion irradiation. 
+
+As it was shown in the previous chapters that the BCA simulation software can accurately reproduce the collision cascades, let us see whether the deformation observed in the experiment can be accounted for with this knock-on mass transport. Figure \ref{deformationBCA}a) shows the simulation volume implemented in \emph{iradina} with $2\times2\times2\,nm^3$ voxels as a $600\,nm$ long $Si$ cylinder with a diameter of $200\,nm$. The $100\,keV\,\,Ar^+$ ions impinge at an angle of $45^\circ$ to the $z$-axis. They striking the cylinder distributed uniformly along the $y$-direction at height $z=0$. Figure \ref{deformationBCA}d) shows the resulting distribution of interstitials on the cross-sectional slice through the middle of the nanowire along the $xz$ plane. This can be seen as an approximation for the distribution of the nuclear energy loss and shows the mean extent of collision cascade. Figure \ref{deformationBCA}e)shows the same cross-section after subtracting the distribution of the vacancies. The excess of vacancies along the impinging plane (blue line in the cross section) enveloped by two red planes of excess interstitials shows that there is a high probability for the ions to hit a target atom with a large impact parameter. This changes the ions path only little and displaces the target atom in an direction perpendicular to the ion beam. Superimposing many collisions along the y direction leads to the formation of two interstitial rich and one vacancy rich planes. The $xy$-plane in \ref{deformationBCA}b) shows the sum over the height $z$ of the difference between interstitials and vacancies plotted to the same color scale. The illustration is dominated by vacancies at the surface of the cylinder which are left behind by sputtered atoms. 
+
+The height distribution (summing over the radial $xy$ plane) of the interstitials, vacancies and leaving atoms is shown in \ref{deformationBCA}c). As expected, the majority of sputtered atoms originate near the impact height. The lines showing the interstitials and vacancies overlap in this illustration. Subtracting the vacancies from the sum of interstitials and leaving atoms and their the distribution along the height is plotted in f). As a displaced atom which is either sputtered or becomes an interstitial always leaves behind a vacancy, the sum over all heights of this plot is zero. The strong oscillation around $z=0$ is caused by the previously discussed perpendicular displacement of target atoms for large impact parameters. This oscillation is very sensitive to the voxel-size as interstitial and vacancy rich regions are superimposed for larger voxels. The excess of vacancies near the impact point ($\le 70\,nm$) and of interstitials further down along the ion's path ($\approx 100\,nm$) is not sensitive to the voxel size. It can be used to quantify the knock-on mass transport by multiplying the plotted values by their height and integrating over all heights. At this point the influence of the short range oscillation immediately around the impact point disappears as here $z$ is small. The value obtained from this analysis is $78\pm1\,atoms \cdot nm /ion$.
+
+
+BCA software typically checks at each collision whether the target atom acquires more energy than the ``displacement energy'' which is a material specific parameter. If the displaced atoms has less than the displacement energy, it is assumed, that it remains bound in its place, and that the energy is converted into lattice vibrations ($=$ heat).
+
+
+\clearpage
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=.9\textwidth]{images/deformationBCA.jpg}
+		\caption{a) Illustration of the simulated irradiation geometry. All $Ar^+$ ions of $100\,keV$ energy hit the nanowire volume at the same height and at an angle of $45^\circ$ with respect to the wire axis $z$. The created interstitials in the radial cross-section through the middle of the simulated nanowire is shown in d). This distribution is effectively an illustration of the nuclear energy loss. In e) the vacancies are subtracted from the interstitials for the same cross-section. Summing this difference over all heights gives the radial distribution shown in b). The clear dominance of vacancies near the surface is caused by sputtering. The axial profile of the interstitials, vacancies and leaving (sputtered) atoms plotted in c) over the height relative to the impact plane shows, that most atoms are sputtered at the impact height. Note that the plots of vacancies and interstitials overlap. The vacancies subtracted from the sum of interstitials and sputtered atoms plotted over the height in f) shows mass transport along the ions path. Apart from the strong oscillation at the impact height, there is a deficiency of atoms close to the impact height ($\le 70\,nm$) and an excess centered around $100\,nm$ down from the impact height.} 
+	\label{deformationBCA}	
+\end{figure}
+
+\clearpage
+test
+
+
+
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=8cm]{images/deformationmodel.jpg}
+	\caption{a) - c) Illustration of an deformation model analogous to ion hammering. a) The collision cascade from a single impinging ion heats an approximately ellipsoidal volume of the target material. The internal pressure will lead to an expansion towards a more spherical shape, which is retained upon cooling. b) The net effect of many ions is thus a contraction parallel to and an expansion perpendicular to the ion beam. For no change in density $\epsilon_\parallel = -2\epsilon_\perp$ has to hold. c) Under rotational symmetry this deformation translates to a contraction in the rotational axis $z$ and an expansion in the perpendicular $x-y$ plane with $\epsilon_{zz} = -2\epsilon_{xx} = -\epsilon_\perp$. In d) - f) the alternative, surface tension driven deformation is illustrated. The collision-heated volume of target material shown in d). A significant slice of the wire shown in e) thus has a reduced viscosity. The surface energy is reduced by an increase in the local diameter of the wire, leading to a shortened and thickened wire segment shown in f).} 
+	\label{deformationmodel}
+\end{figure}
+
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=8cm]{images/reverseangle.jpg}
+	\caption{ a) Illustration of the nanowire-on-microwire irradiation setup. b) - f) SEM images of the same nanowire as-mounted (left SEM images), after irradiation with $1\times10^{16}\,cm^{-2}$  (center images), and $3\times10^{16}\,cm^{-2}$ (right images) $\,100\,keV Ar^+$ ions. The SEM images where taken with the nanowire rotated by the indicated angle from an angle perpendicular to the angle of rotation. The length of the nanowire after irradiation is determined in b) and f) along the dashed lines.}
+	\label{reverseangle}
+\end{figure}
+
 
 \chapter{Summary and Outlook}
 

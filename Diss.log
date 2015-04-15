@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  5 MAR 2015 12:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  15 APR 2015 16:04
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -41,16 +41,22 @@ Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 119.
 Package tocbasic Info: defining new hook before heading of `' on input line 1118.
-Package scrbook Info: You've used standard option `11pt'.
+Package scrbook Info: You've used standard option `12pt'.
 (scrbook)             This is correct!
-(scrbook)             Internally I'm using `fontsize=11pt'.
+(scrbook)             Internally I'm using `fontsize=12pt'.
 (scrbook)             If you'd like to set the option with \KOMAoptions,
-(scrbook)             you'd have to use `fontsize=11pt' there
-(scrbook)             instead of `11pt', too.
-Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input line 1655.
+(scrbook)             you'd have to use `fontsize=12pt' there
+(scrbook)             instead of `12pt', too.
+Class scrbook Info: You've used standard option `openany'.
+(scrbook)           This is correct!
+(scrbook)           Internally I'm using `open=any'.
+(scrbook)           If you'd like to set the option with \KOMAoptions,
+(scrbook)           you'd have to use `open=any' there
+(scrbook)           instead of `openany', too.
+Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input line 1655.
 
-(C:\Users\default.Worklap\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrsize11pt.clo
-File: scrsize11pt.clo 2013/12/19 v3.12 KOMA-Script font size class option (11pt)
+(C:\Users\default.Worklap\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrsize12pt.clo
+File: scrsize12pt.clo 2013/12/19 v3.12 KOMA-Script font size class option (12pt)
 )
 (C:\Users\default.Worklap\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\typearea.sty
 Package: typearea 2013/12/19 v3.12 KOMA-Script package (type area)
@@ -67,21 +73,21 @@ Package typearea, 2013/12/19 v3.12 KOMA-Script package (type area)
 \footheight=\skip45
 DIV calculation for typearea with good linewidth.
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 8
-(typearea)             BCOR = 0.0pt
+(typearea)             DIV  = 9
+(typearea)             BCOR = 45.5244pt
 (typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 373.44246pt
-(typearea)              DIV departure   = 0%
-(typearea)              \evensidemargin = 77.107pt
-(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)              \textwidth      = 367.98904pt
+(typearea)              DIV departure   = 5%
+(typearea)              \evensidemargin = 50.393pt
+(typearea)              \oddsidemargin  = 34.5859pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 500.60022pt
-(typearea)              \topmargin      = 33.36087pt
-(typearea)              \headheight     = 17.0pt
-(typearea)              \headsep        = 20.40001pt
-(typearea)              \topskip        = 11.0pt
-(typearea)              \footskip       = 47.6pt
-(typearea)              \baselineskip   = 13.6pt
+(typearea)              \textheight     = 534.0pt
+(typearea)              \topmargin      = 21.62411pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
 (typearea)              on input line 1330.
 )
 \c@part=\count80
@@ -343,117 +349,221 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count90
 ))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\default.Worklap\AppData\Roaming\MiKTeX\2.9\tex\latex\sidecap\sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+\SC@BOXWD=\dimen105
+\SC@CAPWD=\dimen106
+\SC@tempdima=\dimen107
+\SC@tempdimb=\dimen108
+\c@SC@C=\count91
+\SC@BOX=\box27
+)
 \@indexfile=\write3
 
 Writing index file Diss.idx
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 (C:\Users\default.Worklap\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count91
-\scratchdimen=\dimen103
-\scratchbox=\box27
-\nofMPsegments=\count92
-\nofMParguments=\count93
+\scratchcounter=\count92
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count93
+\nofMParguments=\count94
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count94
-\MPscratchDim=\dimen104
-\MPnumerator=\count95
-\makeMPintoPDFobject=\count96
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen110
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
 \everyMPtoPDFconversion=\toks18
+) (C:\Users\default.Worklap\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(C:\Users\default.Worklap\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
 )
+\CenteringLeftskip=\skip48
+\RaggedLeftLeftskip=\skip49
+\RaggedRightLeftskip=\skip50
+\CenteringRightskip=\skip51
+\RaggedLeftRightskip=\skip52
+\RaggedRightRightskip=\skip53
+\CenteringParfillskip=\skip54
+\RaggedLeftParfillskip=\skip55
+\RaggedRightParfillskip=\skip56
+\JustifyingParfillskip=\skip57
+\CenteringParindent=\skip58
+\RaggedLeftParindent=\skip59
+\RaggedRightParindent=\skip60
+\JustifyingParindent=\skip61
+) ("C:\Talks and Posters\2015-xx-Diss\Diss\title_abstract.tex"
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 33.
+(Font)              <17.28> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 33.
+(Font)              <12> on input line 8.
  [1
 
 
 
 
 
-{C:/Users/default.Worklap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+{C:/Users/default.Worklap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) [1
 
-
-] [3] [4
-
-
-]
-("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.toc")
+] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.toc")
 \tf@toc=\write4
- [5] [6
-
+ [2
 
 ]
 Chapter 1.
-
-Overfull \hbox (1.82866pt too wide) in paragraph at lines 47--48
-\OT1/cmr/m/n/10.95 hen eines glob-alen In-for-ma-tion-saus-tauschsys-tems. []Uber das In-ter-net ist moglich
- []
-
+("C:\Talks and Posters\2015-xx-Diss\Diss\Introduction.tex"
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 49.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 49.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 49.
-[7] [8
+(Font)              <6> on input line 2.
+ [1
 
-
-]
+] [2] [3] [4]) [5]
 Chapter 2.
-[9] [10
-
+[6
 
 ]
 Chapter 3.
-[11] [12
-
+[7
 
 ]
 Chapter 4.
-[13] [14
-
+[8
 
 ]
 Chapter 5.
-[15] [16
 
+LaTeX Warning: Reference `deformSEM' on page 9 undefined on input line 57.
+
+<images/deformationprofile.jpg, id=47, 1445.4pt x 1078.0275pt>
+File: images/deformationprofile.jpg Graphic file (type jpg)
+ <use images/deformationprofile.jpg>
+Package pdftex.def Info: images/deformationprofile.jpg used on input line 61.
+(pdftex.def)             Requested size: 176.63316pt x 131.72643pt.
+
+Underfull \hbox (badness 1112) in paragraph at lines 64--64
+[] []|\OT1/cmr/m/n/12 Graphs of the di-am-
+ []
+
+
+Underfull \hbox (badness 2512) in paragraph at lines 64--64
+\OT1/cmr/m/n/12 e-ter over height of a sin-gle
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 64--64
+\OT1/cmr/m/n/12 from SEM im-ages. In both
+ []
+
+
+Underfull \vbox (badness 2158) has occurred while \output is active []
+
+ [9
+
+ <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationprofile.jpg>] [10] [11] <images/deformationBCA.jpg, id=58, 13
+16.92pt x 1115.16624pt>
+File: images/deformationBCA.jpg Graphic file (type jpg)
+
+<use images/deformationBCA.jpg>
+Package pdftex.def Info: images/deformationBCA.jpg used on input line 81.
+(pdftex.def)             Requested size: 331.18788pt x 280.44144pt.
+
+
+LaTeX Warning: Float too large for page by 21.79147pt on input line 84.
+
+[12 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationBCA.jpg>]
+<images/deformationmodel.jpg, id=62, 1533.73pt x 1276.77pt>
+File: images/deformationmodel.jpg Graphic file (type jpg)
+ <use images/deformationmodel.jpg>
+Package pdftex.def Info: images/deformationmodel.jpg used on input line 93.
+(pdftex.def)             Requested size: 227.62204pt x 189.48111pt.
+
+<images/reverseangle.jpg, id=63, 1187.43625pt x 1102.1175pt>
+File: images/reverseangle.jpg Graphic file (type jpg)
+ <use images/reverseangle.jpg>
+Package pdftex.def Info: images/reverseangle.jpg used on input line 100.
+(pdftex.def)             Requested size: 227.62204pt x 211.25436pt.
+
+Underfull \hbox (badness 1742) in paragraph at lines 101--101
+[] []\OT1/cmr/m/n/12 a) Il-lus-tra-tion of the nanowire-on-microwire ir-ra-di-a-tion
+ []
+
+[13
+
+
+] [14 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationmodel.jpg>] [15 <C:/Talks and Posters/2015-xx-Diss/Diss/
+images/reverseangle.jpg>]
+Chapter 6.
+("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl" [16
+
+] [17
 
 ]
-Chapter 6.
-("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl" [17] [18
+Underfull \hbox (badness 1173) in paragraph at lines 91--95
+[]\OT1/cmr/m/n/12 Charles M. Lieber and Zhong Lin Wang.  Func-tional
+ []
 
+[18] [19]
+Underfull \hbox (badness 4229) in paragraph at lines 180--184
+\OT1/cmr/m/n/12 Anna Reszka, and Bog-dan Kowal-ski.  GaAs{MnAs
+ []
 
-]) [19] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux") ) 
+[20]) [21] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2635 strings out of 493921
- 39689 string characters out of 3147251
- 138945 words of memory out of 3000000
- 5924 multiletter control sequences out of 15000+200000
- 9792 words of font info for 34 fonts, out of 3000000 for 9000
+ 3062 strings out of 493921
+ 47094 string characters out of 3147251
+ 148822 words of memory out of 3000000
+ 6318 multiletter control sequences out of 15000+200000
+ 10144 words of font info for 35 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,7n,42p,1663b,213s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti
-10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Diss.pdf (19 pages, 100044 bytes).
+ 39i,9n,55p,1797b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Diss.pdf (24 pages, 2053823 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 127 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
