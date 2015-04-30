@@ -1,0 +1,123 @@
+\chapter{Background}
+
+
+To put the experimental details and results into a more general scientific context it will be useful to provide some background. First a general outline of energetic ion-solid interaction is given. Then the possibilities of simulating this ion-solid interaction are discussed with an emphasis on those effects that will be relevant to the experiment in this thesis. 
+
+\section{Ion-solid interaction}
+
+\subsubsection{Energy loss}
+
+An energetic ion impinging on a solid will lose its kinetic energy to the solid in a variety of processes. The stopping power is well described for a large energy range by the Bethe (sometimes ``Bethe-Bloch'') formula derived using the Born approximation perturbation theory on the impact between the `fast' ion and the `slow' electrons in the solid: 
+
+\begin{equation}
+S = \frac{dE}{dx} = - A \cdot \frac{\rho\,Z_2\cdot Z_1^2}{\beta^2} \cdot \left[ln\Big(\frac{B\cdot\beta^2}{Z_2\cdot(1-\beta^2)}\Big)-\beta^2\right] ,
+\end{equation}
+
+
+with $A$ and $B$ positive combinations of constants, $\rho$ the density and $Z_2$ the atomic number of the target, $Z_1$ and $\beta = v/c$ the atomic number and relativistic velocity of the ion. Corrections to this formula are especially necessary for low ion energies, but in detail they are dependent on the target composition, the ion energy and ion mass in a non-trivial way. Figure \ref{stopping} and following discussion illustrates stopping regimes and why corrections are required to the Bethe formula. It is adapted from \cite{sigmund_stopping_2004}.
+
+\begin{figure}
+	\centering
+		\includegraphics[width=.95\textwidth]{images/StoppinginAuandC.png}
+	\caption{Illustration of the dominant effects on the stopping power for an ion of mass $Z_1$ and energy $E$ in $Au$ a) and $C$ b). Adapted from \cite{sigmund_stopping_2004}.} 
+	\label{stopping}
+\end{figure} 
+
+At high ion energies ($ > 1\,GeV/amu$, labeled ``Relativist.'') highly relativistic effects have to be taken into account. At these energies we have, for example, Cherenkov radiation. Nuclear reactions and resonances may play a role at lower energies already, especially for light ion-target combinations. As nuclear reactions may change the ion species, their cross sections are typically treated separately from the stopping power.
+
+The horizontal line labeled ``Shell corr.'' marks the Thomas-Fermi velocity ($Z_2^{2/3}v_0$) of the target electrons. The constant $v_0 = e^2/\hbar = 25\,keV/amu$ is the Bohr velocity. In the parameter-space below this line the ion is moving at speeds comparable to that of the electrons in the target. In the low energy area below the line labeled ``Slow'' ($25\,keV/amu$) the ion is traveling at speeds below the Bohr velocity of the target electrons. Here the ion velocity is only comparable to that of the valence electrons in the solid. Both these points mean that the actual electron density distribution and chemical nature of the solid becomes relevant, which is of course not considered in the general Bethe formula.
+
+Above the line showing the Thomas-Fermi velocity of the ion ($v = Z_1^{2/3}v_0$, ``Screen.'') the ion can be assumed to be stripped of all its electrons. Below, a screening function must consider the effective charge of the ion. Below the curve labeled ``Proj. Ext.'' the ion (projectile) carries a comparable number of electrons to the target making excitation processes in the electronic configuration of the ion significant.
+
+For ion velocities $v < (Z_1Z_2)^{1/3}v_0$ (labeled ``Polariz.'') a higher order ($Z_1^3$) correction term to the Bethe formula becomes relevant due to the Barkas-Andersen effect. Below the line marked ``Class.'' ($Z_1^2\cdot 100\,keV/amu$) classical Bohr orbits can be used for electrons around the ion, this is a \emph{sufficient} criterion for the derivation of the Bethe formula not a \emph{necessary} one.
+
+Finally, not be confused with the nuclear reactions already mentioned, in the region marked ``Nucl.'', at low ion energies and for large ions the interaction with the electronic system becomes weak. Here the contribution of the coulomb interaction between ion and individual target atoms as a whole become the main contribution to slowing the ion. This is called nuclear stopping in contrast to the electronic stopping discussed so far, as kinetic energy is transferred to the target nuclei, not just the electrons.
+
+The effects that the ion-solid interaction has on the solid can be discussed well by looking at the electronic and nuclear energy loss separately. 
+
+
+\subsubsection{Effects of electronic energy loss}
+
+``Exciting the electronic system'' is a somewhat general expression referring to a large array of effects. In the simplest case a target atom is ionized, followed by a host of effects such as characteristic X-ray emission, Auger electron emission, \TODO{fehlen hier noch welche?} associated with the relaxation of this excited state. Analogously, excitation in a semiconductor is associated with band to band, excititon etc. recombination. The electronic energy loss will thus invariably lead to electromagnetic radiation leaving the target. The luminescent and fluorescent relaxation mechanisms are, however, generally not very efficient. Most of the energy deposited in the electronic system will be converted into kinetic energy and converted to heat. This happens very locally on the $nm$ scale of the electrons mean free path and thus also very quickly, within the order of $ps$.
+
+The effects of the local heating on a solid are very diverse. For large ion masses and energies (swift, heavy ions), the deposited energy density becomes large, leading to the formation of ``ion tracks'' around the path of the ion. This has opened a whole field of research which is outlined well by references \cite{toulemonde_transient_1992,miotello_revisiting_1997,wesch_effect_2004}.
+
+\subsubsection{Effects of nuclear energy loss}
+
+The most straightforward process in the energetic ion-solid interaction is an elastic collision between the impinging ion and a target atom.  
+
+
+interaction potentials \cite{dedkov_interatomic_1995}
+
+\section{Simulation of ion-solid interaction}
+
+\subsubsection{Melecular dynamic simulations}
+
+MD general: cite Alder, Nordlund+Kuronen
+MD interatomic potentials: Runeberg+Sundholm, Nordlund+Dudarev, 
+properties of GaAs: Albe+Nord+Nordlund
+
+\subsubsection{Monte-Carlo and the binary collision approximation}
+
+BCA, MC
+Ausgiebige Verwendung von \emph{iradina} \cite{borschel_ion_2011}
+
+
+\chapter{Experimental Methods}
+
+The respective machines, technologies and concepts used within this dissertation can not be fully characterized within a couple of pages. This section will mainly serve as a glossary of the methods, abbreviations and acronyms used in the following dissertation which not every reader may be familiar with. Further, only an incomplete collection of references to textbooks and literature can be given. 
+
+\section{Nanowire synthesis}
+
+Nanostructures can generally be synthesis can be categorized according to two approaches: ``bottom-up'' and ``top-down''. The ``bottom-up'' approach relies on the self-organized arrangement of matter using an inherent anisotropy in one of the thermodynamic properties of the relevant system to create nanoscale structures. Depending on the material, crystal quality, morphology, infrastructure requirements, the quantity to be produced etc. there is a large variety of processes available for synthesis. For semiconductor nanowires the main approaches developed are based on hydro-thermal, pyrolytic, vapor-transport, chemical vapor deposition, laser ablation, metal organic vapor phase epitaxy (MOVPE), molecular beam epitaxy (MBE) processes, in ascending order of complexity, or number of controllable parameters. 
+
+A very common mechanism to create the anisotropy required to get the one dimensional growth required to obtain nanowires is the vapor-liquid-solid growth (VLS) first described by Wagner and Ellis. The variety of processes listed before are responsible to provide the `vapor' of material for this growth mechanism. With vapor transport the source material eg. ZnO is simply evaporated in a typically inert atmosphere and transported within an oven to the substrate by diffusion or gas flow. Chemical vapor deposition uses reactive gases such as $SiH_3$ to provide the material, in this case $Si$ in a temperature and pressure controlled oven. Similarly in MOVPE a metal-organic gas is used as at least one of the sources. For example TMG (trimethylgallium) and $AsH_3$ to grow $GaAs$.
+
+Although also self-catalyzed growth has been observed, the liquid part in VLS is typically played by a metal catalyst deposited on the growth substrate. The material in the vapor phase can collect in the catalyst droplet until the concentration is saturated. Preferential segregation of the nanowire material at the droplet-substrate interface leads to the growth of a wire. The size of the droplet can be used to control the diameter of the grown nanowire to some extent. $ZnO$ \cite{borchers_catalyst_2006, stichtenoth_dimensionseffekte_2008, muller_structural_2009,ogrisek_kontrolliertes_2013}, $GaAs$ \cite{borgstrom_size-_2004, wacaser_preferential_2009} and $Si$ \cite{lugstein_pressure-induced_2008} nanowires investigated in this dissertation where grown with the VLS mechanism using vapor transport, MOVPE and chemical vapor deposition respectively. An epitaxial relation between the substrate and the nanowire material may be used to direct the growth. Typical nanowire diameters and lengths are $50 - 300\,nm$ and $> 10\,\mu m$ respectively.
+
+Nanowires can also be synthesized ``top-down''. A ``top-down'' approach requires a predefined template which is used to control the desired morphology. The $Si$-nanowire arrays investigated within this dissertation were etched by reactive ion etching (RIE) through a circular $Ni$ hard-mask which defined the nanowire diameter \TODO{cite NL}. The ``top-down'' etching process was used, as with it it is possible to prepare nanowires with diameters varying from $50\,nm$ to $2\,\mu m$ with a height of $\approx 3\mu m$ on a single substrate. 
+
+Since the growth itself was performed mainly by collaborators in Lund University ($GaAs$) and TU Vienna ($Si$) and is not part of the investigations reported here, the inclined reader is redirected to the the cited references for further details respective growth parameters and their investigation.
+
+\section{Modification}
+
+%To achieve ion irradiation with energetic ions, one needs a source of ions and a high potential to accelerate those ions.
+\subsubsection{ROMEO}
+
+
+The ion irradiation for this dissertation was performed at the general purpose HVE implanter ``ROMEO'' at the IFK in Jena. It can provide an ion beam of virtually any element at energies of $10-380\,keV$. The beam passes a $90^\circ$ selector magnet and can be sweeped with a frequency of $kHz$ to homogeneously irradiate areas up to several tens of $cm^2$ with ion currents of up to $1\,mA$. For this work ion current densities were limited to $500\,nA/cm^2$ or $10^{16}\,ions/cm^2$ in $15\,min$. As previous work has shown that the irradiation of nanowires can bend the nanowires \cite{borschel_permanent_2011, borschel_ion-solid_2012}, a rotatable and heatable, tilted stage (RHT) was custom built \cite{noack_sputter_2014}. With it bending of the nanowires grown upstanding on a substrate can be avoided as they are irradiated homogeneously from all sides at an angle of $45^\circ$. All the samples investigated in this thesis were rotated on the RHT and its preceding prototype sample stages during the irradiation. 
+%RHT Bild?
+
+\subsubsection{FIB}
+
+%hier ist noch blabla drin:
+Some sample preparation required a focused-ion-beam (FIB). FIBs are highly specialized ion accelerators where the main objective is to obtain a small ion beam focus. The most wide spread systems use a $Ga^+$ beam and acceleration voltages up to $30\,keV$. The main use for FIBs is to use the focused ion beam to sputter material extremely locally, making it a versatile tool for nano-machining. The FEI DualBeam Helios NanoLab 600i FIB system used for this dissertation is a scanning electron microscope (SEM) - FIB combination, so that the sample can be milled with the ion beam and investigated with the SEM. It also is equipped with a $Pt$-metal-organic-gas injection system. The $Pt$ containing organic gas can be cracked locally on the sample by the secondary electrons created by either the electron or the ion beam. Most of the $Pt$ is deposited near the impact point of the primary beam and the substrate, however typically a rather large `halo' of minor $Pt$ deposition can extend for a couple of $\mu m$. The FIB system can thus deposit and mill structures on a $nm$ scale. 
+
+\section{Characterization}
+
+\subsubsection{SEM}
+
+The morphological changes in the nanowires were characterized by high resolution SEM in the FEI DualBeam Helios NanoLab 600i focused-ion beam system. The spacial resolution of the SEM system is $\approx 2\,nm$. To quantify the sputtering images of individual nanowires were made before and after ion irradiation. To find exactly the same place on the sample, a series of images with increasing magnification has to be made. Typically images were made at an angle of $45^\circ$ to the substrate with the substrate aligned the same way before and after irradiation.
+
+An semi-automated image analysis protocol was developed by Stefan Noack in his Master thesis \cite{noack_sputter_2014, NL} to evaluate the SEM images of a large number of nanowires. It applies a (3x3) median filter to smoothed out some noise and a Gaussian unsharp mask with $\sigma = 1\,px$ and weighted at $60\,\%$ to resharpened the edges \cite{sankur_survey_2004}. An Otsu thareshold \cite{otsu_threshold_1979} is applied to separate the lighter nanowire from the darker background. Next, open source particle analysis software is used to find the main body of the nanowire and turn the it upright, correcting for any marginal tilt remaining in the SEM images \cite{schindelin_fiji:_2012,sage_imagej_2012}. Finally the sum of the gray-values in each line used to calculate the diameter at that height along the nanowire axis. As the investigated nanowires showed a characteristic bulge at the base, this point can be used to align the height profiles of a single wire before and after irradiation.
+
+\subsubsection{EBSD}
+
+Electron back-scatter diffraction (EBSD) was used to identify whether nanowires remained crystalline after irradiation with a Carl Zeiss Auriga CrossBeam Workstation. EBSD can be measured with a large CCD detector in a SEM. The electron beam is focused on the sample at an arbitrary angle. Electrons are scattered from the sample lattice and the scattered electrons are detected by the CCD detector. Bragg diffraction along the crystal lattice planes produces a characteristic pattern of Kikuchi lines on the detector \cite{kikuchi_diffraction_1928,fultz_transmission_2013} in crystalline samples. Amorphous or nano-crystalline samples show no pattern.
+
+\subsubsection{nano-XRF}
+
+The most experimentally advanced characterization method was X-ray fluorescence with a nano-focussed X-ray beam (nano-XRF) at the European Synchrotron Radiation Facility (ERSF), beamlines ID16b and ID13. Hard X-ray radiation will excite the atoms within a radiated material to emit characteristic X-ray radiation. This X-ray fluorescence can be detected in an energy dispersive semiconductor detector and used to identify and quantify the elements in the sample. In principle the method is similar to the more wide-spread energy dispersive X-ray spectroscopy (EDX), where the electron beam is used to excite characteristic X-ray fluorescence. Very good lateral resolution can be obtained by having an EDX detector in an SEM. The advantage of using X-rays lies in the absence of this Bremsstralung which high energy electrons in matter produce in addition to the characteristic X-rays. In XRF there is thus a much lower background and a much lower concentrations of elements can still be detected and quantified. Unlike normal characteristic X-ray tubes, synchrotron radiation is typically very brilliant, allowing it to be focused. The beamlines ID16b and ID13 were run at various energies above $16\,keV$ and a focus of typically $\approx 80\,nm$ and $\approx 250\,nm$ respectively. The nano-XRF thus allows for quantification of low concentrations with sufficient lateral resolution to resolve axial concentration gradients in a nanowire. Unfortunately, the resolution is not good enough to investigate radial distributions.
+
+At both beamlines the nanowires are scanned under the fixed focal point of the X-ray beam with piezo-motors while the XRF spectra are collected with a Vortex EM silicon drift X-ray detector. The investigated $Mn$ irradiated $ZnO$ nanowires were deposited on TEM grids either randomly by `imprinting' or individually by using the mico-manipulator in the FEI DualBeam FIB. Transferring individual wires requires some finesse, but it is possible to detach the $ZnO$ nanowires from their substrate without the $Ga$ FIB and to place them on the ``lacey-carbon'' TEM Grids without any additional $Pt$ deposition. In this way SEM images before and after irradiation of the same wire investigated by nano-XRF are available.
+
+The spectra used for quantification were obtained in multiple scans across a nanowire at regular intervalls along the nanowire's length. As the XRF signal can be used to locate the nanowire, only the points near the nanowire were measured with a high integration time and a low step-with ($< \frac{1}{2}$ focal spot) to ensure a large number of counts ($> 10^5$ per scan) at reasonable measuring times.
+
+\subsubsection{nano-XRF quantification}
+
+Spectra were evaluated using the open source PyMCA software package \cite{sole_multiplatform_2007}. The effects of self absorption and excitation can be neglected, as the investigated nanowires are very thin compared to the absorption length of a couple of $\mu m$ of hard X-rays. However, the detector-sample distance is an unavoidable attenuation length in air, with its absorption by the heaviest element in air, $Ar$. As the element investigated, $Mn$, is relatively light, its characteristic X-ray emission at $K_{\alpha,Mn} = 5.9\,keV$ suffers more absorption than the heavier $Zn$ with $K_{\alpha,Zn} = 8.6\,keV$. Thus absorption of the XRF signal in air has to be considered carefully in the fitting with PyMCA. The accuracy was double checked by measuring and quantifying trace elements in a calibration sample of bovine liver. In this way optimal fitting parameters were found and applied to all measured spectra in the PyMCA batch mode. Oxygen can not be quantified in these beamlines, as the signal is attenuated too far. The quantification of the $Mn$ content in the $ZnO$ nanowires thus relies on the assessment of the $Mn/Zn$ ratio. It a decent approximation to assume that the $ZnO$ remains stoichiometric even during the irradiation. The samples are irradiated in a chamber with a base pressure $\approx 10^{-6}\,mbar$, so according to the Hertz-Knudsen equation this will give a coverage of roughly one mono-layer or $10^{15}\,particles/cm^2s$. The maximum ion current density of $500\,nA/cm^2s$ amounts to $10^{13}\,ions/cm^2s$, so that an unlikely amount of preferential sputtering would be required to deplete the oxygen out of the wires. In any case, the wires will be oxidized in the normal atmosphere post irradiation. The $Mn/Zn$ ratio is thus a good proxy for the $Mn$ concentration.
+
+The quantification limit can be tested within PyMCA by finding an appropriate photon flux and nanowire interaction volume for a simulation to reproduce the XRF spectrum with the actually measured number of counts at $K_{\alpha,Zn}$. The $Mn$ content in the simulated matrix can then be decreased until the minimum $Mn$ content is found which gives a signal at $K_{\alpha,Mn}$ just above the actually measured noise level. In this way a lower limit for the concentration resolution can be found at typically $0.1\,\% Mn/Zn$.
+
+
+

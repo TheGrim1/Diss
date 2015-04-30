@@ -1,6 +1,19 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Methods}{2}
-\contentsline {chapter}{\numberline {3}Sputtering of Nanostructures}{3}
-\contentsline {chapter}{\numberline {4}High Doping Concentrations in Nanostructures}{4}
-\contentsline {chapter}{\numberline {5}Plastic Flow in Nanostructured Silicon}{5}
-\contentsline {chapter}{\numberline {6}Summary and Outlook}{18}
+\contentsline {chapter}{\numberline {2}Background}{2}
+\contentsline {section}{\numberline {2.1}Ion-solid interaction}{2}
+\contentsline {subsubsection}{\nonumberline Energy loss}{2}
+\contentsline {subsubsection}{\nonumberline Effects of electronic energy loss}{4}
+\contentsline {subsubsection}{\nonumberline Effects of nuclear energy loss}{5}
+\contentsline {section}{\numberline {2.2}Simulation of ion-solid interaction}{5}
+\contentsline {subsubsection}{\nonumberline Melecular dynamic simulations}{5}
+\contentsline {subsubsection}{\nonumberline Monte-Carlo and the binary collision approximation}{5}
+\contentsline {chapter}{\numberline {3}Experimental Methods}{6}
+\contentsline {section}{\numberline {3.1}Nanowire synthesis}{6}
+\contentsline {section}{\numberline {3.2}Modification}{8}
+\contentsline {subsubsection}{\nonumberline ROMEO}{8}
+\contentsline {subsubsection}{\nonumberline FIB}{9}
+\contentsline {section}{\numberline {3.3}Characterization}{9}
+\contentsline {subsubsection}{\nonumberline SEM}{9}
+\contentsline {subsubsection}{\nonumberline EBSD}{10}
+\contentsline {subsubsection}{\nonumberline nano-XRF}{10}
+\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{12}

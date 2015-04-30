@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  20 APR 2015 21:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  30 APR 2015 11:04
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -429,22 +429,25 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
+(C:\Users\default.Worklap\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
 \@indexfile=\write3
 
 Writing index file Diss.idx
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 (C:\Users\default.Worklap\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -481,180 +484,100 @@ LaTeX Info: Redefining \selectfont on input line 126.
 \RaggedLeftParindent=\skip62
 \RaggedRightParindent=\skip63
 \JustifyingParindent=\skip64
-) ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.toc")
+) ("C:\Talks and Posters\2015-xx-Diss\Diss\title_abstract.tex" [1
+
+
+
+
+
+{C:/Users/default.Worklap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) [1
+
+] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.toc")
 \tf@toc=\write4
- [1
+ [2
 
-
-
-
-{C:/Users/default.Worklap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+]
 Chapter 1.
-[1
+("C:\Talks and Posters\2015-xx-Diss\Diss\Methods.tex" [1
 
 ]
 Chapter 2.
 [2
 
-]
+] <images/StoppinginAuandC.png, id=25, 2324.685pt x 817.0525pt>
+File: images/StoppinginAuandC.png Graphic file (type png)
+ <use images/StoppinginAuandC.png>
+Package pdftex.def Info: images/StoppinginAuandC.png used on input line 21.
+(pdftex.def)             Requested size: 349.58846pt x 122.86426pt.
+
+Underfull \vbox (badness 4001) has occurred while \output is active []
+
+ [3 <C:/Talks and Posters/2015-xx-Diss/Diss/images/StoppinginAuandC.png>] [4] [5]
 Chapter 3.
-[3
 
-]
-Chapter 4.
-[4
+Underfull \vbox (badness 1635) has occurred while \output is active []
 
-]
-Chapter 5.
+ [6
 
-LaTeX Warning: Reference `deformSEM' on page 5 undefined on input line 66.
-
-<images/deformationprofile.jpg, id=21, 1445.4pt x 1078.0275pt>
-File: images/deformationprofile.jpg Graphic file (type jpg)
- <use images/deformationprofile.jpg>
-Package pdftex.def Info: images/deformationprofile.jpg used on input line 70.
-(pdftex.def)             Requested size: 176.63316pt x 131.72643pt.
- [5
-
- <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationprofile.jpg>] <images/MTRillustration.png, id=30, 870.25125pt
- x 746.79pt>
-File: images/MTRillustration.png Graphic file (type png)
-
-<use images/MTRillustration.png>
-Package pdftex.def Info: images/MTRillustration.png used on input line 89.
-(pdftex.def)             Requested size: 91.99725pt x 78.94513pt.
- [6 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MTRillustration.png>]
+] [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7] [8] [9]
-<images/deformationBCA.jpg, id=50, 1316.92pt x 1115.16624pt>
-File: images/deformationBCA.jpg Graphic file (type jpg)
- <use images/deformationBCA.jpg>
-Package pdftex.def Info: images/deformationBCA.jpg used on input line 105.
-(pdftex.def)             Requested size: 331.18788pt x 280.44144pt.
- [10
+ [8]
 
-] [11 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationBCA.jpg>] <images/reverseFIB.png, id=57, 2268.475pt x 38
-3.4325pt>
-File: images/reverseFIB.png Graphic file (type png)
+LaTeX Warning: Citation `NL' on page 9 undefined on input line 101.
 
-<use images/reverseFIB.png>
-Package pdftex.def Info: images/reverseFIB.png used on input line 116.
-(pdftex.def)             Requested size: 364.31117pt x 61.57277pt.
-
-Overfull \hbox (13.42378pt too wide) in paragraph at lines 121--122
-[]\OT1/cmr/m/n/12 The nanowire-on-microwire sam-ples con-sisted of typ-i-cally $3 \OMS/cmsy/m/n/12   \OT1/cmr/m/n/12 5$ 
-nanowires,
+[9] [10] [11] [12]) ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl"
+Overfull \hbox (21.102pt too wide) in paragraph at lines 71--2
+[][]\OT1/cmr/m/it/20.74 check: Mas-ter The-sis Noack, Ogrisek, Con-
  []
 
-[12 <C:/Talks and Posters/2015-xx-Diss/Diss/images/reverseFIB.png>]
-<images/reverseangle.jpg, id=63, 1187.43625pt x 1102.1175pt>
-File: images/reverseangle.jpg Graphic file (type jpg)
- <use images/reverseangle.jpg>
-Package pdftex.def Info: images/reverseangle.jpg used on input line 125.
-(pdftex.def)             Requested size: 227.62204pt x 211.25436pt.
-
-Overfull \hbox (3.82932pt too wide) in paragraph at lines 130--131
-[]\OT1/cmr/m/n/12 This ex-per-i-ment shows with cer-tainty that the knock-on mass-transport
+[13]
+Underfull \hbox (badness 7667) in paragraph at lines 38--44
+[]\OT1/cmr/m/n/12 Gv Ded-kov.  The In-ter-atomic In-ter-ac-tion Po-ten-
  []
 
-[13 <C:/Talks and Posters/2015-xx-Diss/Diss/images/reverseangle.jpg>]
 
-LaTeX Warning: Citation `nordlund_defect_1998' on page 14 undefined on input line 132.
+Underfull \hbox (badness 1629) in paragraph at lines 38--44
+\OT1/cmr/m/n/12 tials in Ra-di-a-tion Physics.  \OT1/cmr/m/it/12 Phys-ica Sta-tus So-lidi a-
+ []
 
-
-LaTeX Warning: Citation `baumer_prediction_2014' on page 14 undefined on input line 132.
-
-[14] <images/deformationmodel.jpg, id=70, 1533.73pt x 1276.77pt>
-File: images/deformationmodel.jpg Graphic file (type jpg)
- <use images/deformationmodel.jpg>
-Package pdftex.def Info: images/deformationmodel.jpg used on input line 137.
-(pdftex.def)             Requested size: 227.62204pt x 189.48111pt.
-
-
-LaTeX Warning: Citation `baumer_prediction_2014' on page 15 undefined on input line 142.
-
-
-LaTeX Warning: Citation `volkert_stress_1991' on page 15 undefined on input line 142.
-
-
-LaTeX Warning: Citation `massl_stress_2008' on page 15 undefined on input line 142.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15] [16 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationmodel.jpg>]
-
-LaTeX Warning: Citation `baumer_prediction_2014' on page 17 undefined on input line 144.
-
-
-LaTeX Warning: Citation `borschel_ion-solid_2012' on page 17 undefined on input line 144.
-
-
-LaTeX Warning: Citation `greaves_enhanced_2013' on page 17 undefined on input line 144.
-
-
-LaTeX Warning: Citation `anders_sputtering_2015' on page 17 undefined on input line 144.
-
-
-LaTeX Warning: Citation `johannes_ion_2015' on page 17 undefined on input line 144.
-
-
-LaTeX Warning: Citation `snoeks_stress_1997' on page 17 undefined on input line 144.
-
-
-LaTeX Warning: Citation `hu_burrowing_2002' on page 17 undefined on input line 144.
-
-[17]
-Chapter 6.
-("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl" [18
+[14
 
 ]
-Underfull \hbox (badness 4492) in paragraph at lines 5--13
-[]\OT1/cmr/m/n/12 Christian Borschel, Maria E. Mess-ing, Mag-nus T.
+Underfull \hbox (badness 2042) in paragraph at lines 90--96
+[]\OT1/cmr/m/n/12 Johannes Schin-delin, Ig-na-cio Arganda-Carreras, Er-win
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--13
-\OT1/cmr/m/n/12 Borgstrom, Wal-domiro Paschoal, Jes-per Wal-lentin,
+Underfull \hbox (badness 1173) in paragraph at lines 90--96
+\OT1/cmr/m/n/12 Frise, Ver-ena Kaynig, Mark Lon-gair, To-bias Piet-zsch,
  []
 
-
-Underfull \hbox (badness 1281) in paragraph at lines 5--13
-\OT1/cmr/m/n/12 Sandeep Ku-mar, Kil-ian Mer-gen-thaler, Knut Dep-pert,
- []
-
-
-Underfull \hbox (badness 2285) in paragraph at lines 5--13
-\OT1/cmr/m/n/12 Nanospin-tron-ics: Highly Mn-Doped GaAs Nanowires
- []
-
-[19
-
-] [20]) [21] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
+[15]) [16] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3687 strings out of 493921
- 54120 string characters out of 3147251
- 163039 words of memory out of 3000000
- 6925 multiletter control sequences out of 15000+200000
- 10737 words of font info for 38 fonts, out of 3000000 for 9000
- 844 hyphenation exceptions out of 8191
- 39i,15n,55p,3442b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 3705 strings out of 493921
+ 54445 string characters out of 3147251
+ 159224 words of memory out of 3000000
+ 6938 multiletter control sequences out of 15000+200000
+ 12476 words of font info for 44 fonts, out of 3000000 for 9000
+ 845 hyphenation exceptions out of 8191
+ 39i,9n,55p,1862b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Diss.pdf (22 pages, 2618969 bytes).
+ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmti12.pfb>
+Output written on Diss.pdf (19 pages, 492586 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
+ 123 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
