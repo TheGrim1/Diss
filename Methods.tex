@@ -1,20 +1,19 @@
 \chapter{Background}
 
-
-To put the experimental details and results into a more general scientific context it will be useful to provide some background. First a general outline of energetic ion-solid interaction is given. Then the possibilities of simulating this ion-solid interaction are discussed with an emphasis on those effects that will be relevant to the experiment in this thesis. 
+This chapter will provide a general scientific context for this dissertation. First a general outline of energetic ion-solid interaction is given. Then the possibilities of simulating this ion-solid interaction are discussed with an emphasis on those effects that will be relevant to the experiment in this thesis. 
 
 \section{Ion-solid interaction}
 
 \subsubsection{Energy loss}
 
-An energetic ion impinging on a solid will lose its kinetic energy to the solid in a variety of processes. The stopping power is well described for a large energy range by the Bethe (sometimes ``Bethe-Bloch'') formula derived using the Born approximation perturbation theory on the impact between the `fast' ion and the `slow' electrons in the solid: 
+An energetic ion impinging on a solid will lose its kinetic energy to the solid in a variety of processes. The stopping power $S$ is well described for a large energy range by the Bethe (sometimes ``Bethe-Bloch'') formula derived using the Born approximation perturbation theory on the impact between the `fast' ion and the `slow' electrons in the solid: 
 
 \begin{equation}
 S = \frac{dE}{dx} = - A \cdot \frac{\rho\,Z_2\cdot Z_1^2}{\beta^2} \cdot \left[ln\Big(\frac{B\cdot\beta^2}{Z_2\cdot(1-\beta^2)}\Big)-\beta^2\right] ,
 \end{equation}
 
 
-with $A$ and $B$ positive combinations of constants, $\rho$ the density and $Z_2$ the atomic number of the target, $Z_1$ and $\beta = v/c$ the atomic number and relativistic velocity of the ion. Corrections to this formula are especially necessary for low ion energies, but in detail they are dependent on the target composition, the ion energy and ion mass in a non-trivial way. Figure \ref{stopping} and following discussion illustrates stopping regimes and why corrections are required to the Bethe formula. It is adapted from \cite{sigmund_stopping_2004}.
+with $A$ and $B$ positive combinations of constants, $\rho$ the density and $Z_2$ the atomic number of the target, $Z_1$ and $\beta = v/c$ the atomic number and relativistic velocity of the ion. Corrections to this formula are especially necessary for low ion energies, but in detail they are dependent on the target composition, the ion energy and ion mass in a non-trivial way. Figure \ref{stopping} and the following discussion illustrates stopping regimes and why corrections are required to the Bethe formula. It is adapted from \cite{sigmund_stopping_2004}.
 
 \begin{figure}
 	\centering
@@ -23,44 +22,82 @@ with $A$ and $B$ positive combinations of constants, $\rho$ the density and $Z_2
 	\label{stopping}
 \end{figure} 
 
-At high ion energies ($ > 1\,GeV/amu$, labeled ``Relativist.'') highly relativistic effects have to be taken into account. At these energies we have, for example, Cherenkov radiation. Nuclear reactions and resonances may play a role at lower energies already, especially for light ion-target combinations. As nuclear reactions may change the ion species, their cross sections are typically treated separately from the stopping power.
+At high ion energies ($ > 1\,GeV/amu$, labeled ``Relativist.'') highly relativistic effects have to be taken into account. At these energies we have, for example, Cherenkov radiation. Typically, nuclear reactions and resonances also occur at high ion energies. They may play a role at lower energies, especially for light ion-target combinations. However, as nuclear reactions may change the ion species, their cross sections are usually treated separately from the stopping power.
 
-The horizontal line labeled ``Shell corr.'' marks the Thomas-Fermi velocity ($Z_2^{2/3}v_0$) of the target electrons. The constant $v_0 = e^2/\hbar = 25\,keV/amu$ is the Bohr velocity. In the parameter-space below this line the ion is moving at speeds comparable to that of the electrons in the target. In the low energy area below the line labeled ``Slow'' ($25\,keV/amu$) the ion is traveling at speeds below the Bohr velocity of the target electrons. Here the ion velocity is only comparable to that of the valence electrons in the solid. Both these points mean that the actual electron density distribution and chemical nature of the solid becomes relevant, which is of course not considered in the general Bethe formula.
+The horizontal line labeled ``Shell corr.'' marks the Thomas-Fermi velocity ($Z_2^{2/3}v_0$) of the target electrons. The constant $v_0 = e^2/\hbar = 25\,keV/amu$ is the Bohr velocity. In the parameter-space below this line the ion is moving at speeds comparable to that of the electrons in the target. In the low energy area below the line labeled ``Slow'' ($25\,keV/amu$) the ion is traveling at speeds below the Bohr velocity of the target electrons. Here the ion velocity is only comparable to that of the valence electrons in the solid. Both these points mean that the actual electron density distribution and chemical nature of the solid becomes relevant, which is of course not considered in the general Bethe formula. This makes a general and accurate theoretical prediction of electronic stopping impossible for low ion energies. Specific ion-target combinations require specific investigations.
 
 Above the line showing the Thomas-Fermi velocity of the ion ($v = Z_1^{2/3}v_0$, ``Screen.'') the ion can be assumed to be stripped of all its electrons. Below, a screening function must consider the effective charge of the ion. Below the curve labeled ``Proj. Ext.'' the ion (projectile) carries a comparable number of electrons to the target making excitation processes in the electronic configuration of the ion significant.
 
 For ion velocities $v < (Z_1Z_2)^{1/3}v_0$ (labeled ``Polariz.'') a higher order ($Z_1^3$) correction term to the Bethe formula becomes relevant due to the Barkas-Andersen effect. Below the line marked ``Class.'' ($Z_1^2\cdot 100\,keV/amu$) classical Bohr orbits can be used for electrons around the ion, this is a \emph{sufficient} criterion for the derivation of the Bethe formula not a \emph{necessary} one.
 
-Finally, not be confused with the nuclear reactions already mentioned, in the region marked ``Nucl.'', at low ion energies and for large ions the interaction with the electronic system becomes weak. Here the contribution of the coulomb interaction between ion and individual target atoms as a whole become the main contribution to slowing the ion. This is called nuclear stopping in contrast to the electronic stopping discussed so far, as kinetic energy is transferred to the target nuclei, not just the electrons.
+Finally, not be confused with the nuclear reactions already mentioned, in the region marked ``Nucl.'', at low ion energies and for large ions, the interaction with the electronic system becomes weak. Here the contribution of the coulomb interaction between ion and individual target atoms as a whole become the main contribution to slowing the ion. This is called nuclear stopping in contrast to the electronic stopping discussed so far, as kinetic energy is transferred to the target nuclei, not just the electrons.
 
-The effects that the ion-solid interaction has on the solid can be discussed well by looking at the electronic and nuclear energy loss separately. 
+Those ion-solid interaction processes which are specific to the properties of the target material can be used to characterize the material. These methods are summarized as ion beam analysis (IBA). A confident and comprehensive review of the possibilities of IBA can be found in reference \cite{jeynes_total_2012}. The effects that the ion irradiation has on the solid will be discussed next by looking at the electronic and nuclear energy loss separately. 
 
+\subsubsection{Discussion of electronic energy loss}
 
-\subsubsection{Effects of electronic energy loss}
+ %For biological material
 
-``Exciting the electronic system'' is a somewhat general expression referring to a large array of effects. In the simplest case a target atom is ionized, followed by a host of effects such as characteristic X-ray emission, Auger electron emission, \TODO{fehlen hier noch welche?} associated with the relaxation of this excited state. Analogously, excitation in a semiconductor is associated with band to band, excititon etc. recombination. The electronic energy loss will thus invariably lead to electromagnetic radiation leaving the target. The luminescent and fluorescent relaxation mechanisms are, however, generally not very efficient. Most of the energy deposited in the electronic system will be converted into kinetic energy and converted to heat. This happens very locally on the $nm$ scale of the electrons mean free path and thus also very quickly, within the order of $ps$.
+Electronic stopping $S_e$ ``excites the electronic system''. In the simplest case a target atom is ionized, followed by a host of effects such as characteristic X-ray emission and Auger electron emission associated with the relaxation of this excited state. Analogously, excitation in a semiconductor is associated with band to band, exciton etc. recombination. Detection of these emissions can be used for IBA. The luminescent and fluorescent relaxation mechanisms are, however, generally not very efficient. Most of the energy deposited in the electronic system will be turned into kinetic energy of electrons and subsequently converted to heat. This happens very locally on the $nm$ scale of the electrons mean free path and thus also very quickly, within the order of $ps$. 
 
-The effects of the local heating on a solid are very diverse. For large ion masses and energies (swift, heavy ions), the deposited energy density becomes large, leading to the formation of ``ion tracks'' around the path of the ion. This has opened a whole field of research which is outlined well by references \cite{toulemonde_transient_1992,miotello_revisiting_1997,wesch_effect_2004}.
+The effects of such local heating on a solid are diverse. Defects and amorphous regions may either appear or disappear, depending on the material and its history. For large ion masses and energies (swift, heavy ions), the deposited energy density becomes large enough to form an ``ion track'' around the path of the ion. Ion tracks are a whole field of research outlined well by references \cite{toulemonde_transient_1992,miotello_revisiting_1997,wesch_effect_2004}. Very large electronic losses have to be treated carefully as a large percentage of the electrons within the track are energized and some electrons also gain a significant amount of kinetic energy. 
 
-\subsubsection{Effects of nuclear energy loss}
+The energies used in this dissertation are in the order of $\approx 100\,keV$ with elements of mass $\approx 100\,amu$. The energy regime investigated in this dissertation is thus right at the bottom of the area plotted in figure \ref{stopping}. Electronic stopping is not dominant so that it is sufficient to treat the electronic energy loss as a local heat source.
 
-The most straightforward process in the energetic ion-solid interaction is an elastic collision between the impinging ion and a target atom.  
+\subsubsection{Discussion of nuclear energy loss}
 
+The seemingly more straightforward process in the energetic ion-solid interaction is an elastic collision between the impinging ion and a target atom. Its first observation was in the famous Rutherford (Geiger–Marsden) experiment \cite{rutherford_scattering_1911} which was groundbreaking to understanding the structure of matter. Nuclear energy loss is caused by the kinetic energy which is transferred form the energetic ion onto an atom in the target. An impinging ion can transfer considerable energy to an atom, which in turn will collide with other lattice atoms, leading to the formation of a collision cascade. This displacement of atoms from their lattice position is the main contribution to irradiation damage and sputtering of the target.
 
-interaction potentials \cite{dedkov_interatomic_1995}
+The amorphization of crystalline semiconductors has been investigated extensively with a good review found in reference \cite{wesch_damage_2012}. The damage production depends a lot on the irradiated semi-conductor and on the density of the collision cascade caused by the irradiating ion. In general the defects produced by nuclear energy loss are Frenkel pairs. On further irradiation the Frenkel pairs can agglomerate to form extended defect clusters which initiate full amorphization. The fluence at which the material is amorphize is also highly temperature dependent as frenkel pairs can anneal at high implantation fluences. This can lead to an arbitrarily high amorphization fluence, if the annealing of defects is faster than their creation. A typical `radiation hard' material is $ZnO$ which does not amorphize at even at $10^{17}\,cm^{-2}\,Ar^+$ irradiation at $15\,K$ \cite{wesch_damage_2012}. An arbitrarily large amorphization threshold can also be obtained for $Si$ irrdadiated with $300\,keV\,Ar^+$ at $300^\circ\,C (\approx 600\,K)$ \cite{pelaz_ion-beam-induced_2004}.
+
+In addition to the activation of defect recombination by increasing the `global' temperature, an increased local temperature by the energy deposited by the ion will also lead to `dynamic annealing'. In a recent study \cite{thome_recovery_2015} the dynamic annealing was enhanced by the simultaneous irradiation with $36\,MeV\,W$ a swift, heavy ion leading to predominantly electronic energy loss and $900\,keV\,I$ leading to large nuclear losses. Simultaneous irradiation lead to much less damage in the irradiated $SiC$ than subsequent irradiation. The reduction of structure sizes also leads to larger dynamic annealing as there is less material into which the energy deposited by the ion can dissipate. This was shown in the $Mn$ irradiation of $GaAs$ nanowires \cite{borschel_ion-solid_2012,johannes_ion_2015} and could be used to improve the magnetic properties of the $GaAs:Mn$ nanowires \cite{borschel_new_2011,paschoal_hopping_2012,kumar_magnetic_2013,paschoal_magnetoresistance_2014}. 
+
+A typical assumption in the theoretical treatment of nuclear energy loss is the binary collision approximation (BCA) for the ion and the target atom. Under this assumption nuclear stopping is treated as a series of collisions between single particles. With the additional assumptions of 1) a spherically symmetric interaction potential and 2) the neglect of possible electronic effects (chemical binding) between the collision partners, the angular-momentum is conserved in the collision and the classical scattering-integrals can be solved. 
+
+The resulting trajectories of a $Si-Si$ collision at $10\,eV$ is plotted in figure \ref{SiSi}. The large difference between the Moliére screened Coulomb potential and the $Si-Si$ potential derived by Dirac-Fock-Slater code is clearly visible. The former is a purely repulsive Coulomb interaction, while the latter includes an attractive interaction for large interatomic distances similar to the well known Lennard-Jones potential \cite{eckstein_computer_1991}. For high energy collisions a ``universal'' ZBL potential based on Coulomb interaction is quite successful \cite{ziegler_stopping_1985}, however for low energy collisions a generalized formula cannot be accurate and specific potentials have to be developed for each combination of collision partners \cite{dedkov_interatomic_1995,nordlund_repulsive_1997,albe_modeling_2002,nordlund_interatomic_2008}.
+
+\begin{figure}
+	\centering
+		\includegraphics[width=.6\textwidth]{images/SiSicollision.png}
+	\caption{Trajectories of a $10\,eV$ $Si-Si$ collision for a) Moliére and b) $Si-Si$ potential. The trajectories end after the same elapsed time for each impact parameter p. Adapted from \cite{eckstein_computer_1991}.}
+	\label{SiSi}
+\end{figure} 
+
+In addition to this problem of finding the correct interaction potential for a collisions, depending on the ion and the atomic structure of the irradiated material, the collision parameters relevant to low energy collisions are within the order of the inter-atomic distance of a few \AA, see figure \ref{SiSi}. The assumption, that this is still a binary collisions can thus no longer be valid. In conclusion, it has to be noted that similar to the electronic stopping case, the assumptions for a generalized treatment of nuclear stopping are well fulfilled for large ion energies, but lose their validity at low energies $\ll\,1\,keV$.
+
+\subsubsection{Sputtering}
+
+A prominent role in this dissertation will be played by a special effect of nuclear energy loss arising when the path of the recoiled atom intersects the targets surface: sputtering. The foundation of sputter theory was laid by Sigmund \cite{sigmund_theory_1969}. It is outlined in the following. The nuclear stopping of ions leads to the formation of highly branched collision cascades. Therefore, the majority of recoiled atoms is found at the end of the many branches. Because of this, the majority of sputtered particles has a low energy and thus a low range in the material \cite{thompson_energy_1968}. They must thus originate from the surface of the target and the sputter yield, as the number of atoms sputtered per impinging ion, can be estimated by calculating the nuclear energy loss at the surface of the irradiated material and diving it by a factor to account for the probability of the atom leaving the solid. 
+
+The probability for the atom to leave the solid includes geometric considerations and the `surface binding energy' (SBE). A reasonable model for the SBE is that of a potential plateau with the height of the enthalpy of sublimation which has to be overcome by the atom approaching the surface. This equates the energy required for sputtering an atom to the thermal energy required for sublimation. The SBE model for sputtering neglects all effects related to the directionality of the local binding forces experienced by the atom to be sputtered and the modification of the surface by repeated removal of atoms.
+
+A reasonable assumption for the nuclear energy deposition distribution is be a Gaussian ellipsoid, with the center at the ion range and the longitudinal and lateral straggling naturally defining its extensions. This approach was used by Sigmund to arrive at a good explanation for the energy dependence of sputtering from flat surfaces. Starting a low energies, the sputter yield will initially increase with increasing energy, simply due to more energy being available. For further increasing energy, however, the ion range becomes larger, leading to a predominant deposition of the energy deeper inside the target, away from the surface. A maximum is thus found at energies where the ion range is in the order of the longitudinal straggling.
+
+Applications of this theory have been made to more complex surfaces. The Bradley-Harper theory of ripple formation on ion irradiated planes relies on the anisotropic sputtering predicted by the Sigmund model applied to a structured surface \cite{bradley_theory_1988}. Also recent investigations on sputtering of spherical \cite{nietiadi_sputtering_2014} and cylindrical \cite{urbassek_sputter_2015} nanostructures have compared their results with that predicted by the Sigmund model and found it to be a decent first approximation.
 
 \section{Simulation of ion-solid interaction}
 
-\subsubsection{Melecular dynamic simulations}
+In practice the theory of ion-solid interaction is implemented in simulation tools which allow the experimenter to predict experimental outcomes. The most frequent example is obtaining the energy dependence of the ion range by simulations and using that information to decide which energy and fluence of irradiation is needed to obtain a desired doping concentration. On a deeper level, an experimentally observed behavior can be understood better by comparing it to various simulations to discern the dominating effects. The two main simulation approaches used to simulated the ion solid interaction are Monte-Carlo (MC) and Molecular Dynamic simulations (MD), both outlined in the following sections.
 
-MD general: cite Alder, Nordlund+Kuronen
-MD interatomic potentials: Runeberg+Sundholm, Nordlund+Dudarev, 
-properties of GaAs: Albe+Nord+Nordlund
 
 \subsubsection{Monte-Carlo and the binary collision approximation}
 
-BCA, MC
+Monte-Carlo codes are simulation codes reliant on the use of random numbers to simulate physical processes. After numerous such simulations, a statistical approximation of the likely outcome can be derived. With the BCA, the solid ion-interaction lends itself very well to MC simulation, as the development of a collision cascade can be simulated reiteratively by following the paths of the ion and all recoils and only two random numbers are needed per collision.
+
+ The most popular MC simulation code is SRIM
+
+The probability of a collision can be determined from the interaction cross-sections given by the interaction between the projectile and the atoms in the target. According to this probability, the first random number is used to determine the distance traveled in a straight line by the projectile. The underlying assumption here is, that of a `random material'. This is valid if the distance between collisions is larger than the relevant interatomic distance. Crystal structure effects such as 
+
+ The second random number is then used to determine the 
+
+
 Ausgiebige Verwendung von \emph{iradina} \cite{borschel_ion_2011}
+
+
+
+\subsubsection{Molecular dynamic simulations}
+
+MD general: cite Alder, Nordlund+Kuronen
 
 
 \chapter{Experimental Methods}
