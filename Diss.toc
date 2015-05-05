@@ -6,16 +6,16 @@
 \contentsline {subsubsection}{\nonumberline Discussion of nuclear energy loss}{6}
 \contentsline {subsubsection}{\nonumberline Sputtering}{8}
 \contentsline {section}{\numberline {2.2}Simulation of ion-solid interaction}{10}
-\contentsline {subsubsection}{\nonumberline Monte-Carlo and the binary collision approximation}{10}
-\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{10}
-\contentsline {chapter}{\numberline {3}Experimental Methods}{11}
-\contentsline {section}{\numberline {3.1}Nanowire synthesis}{11}
-\contentsline {section}{\numberline {3.2}Modification}{13}
-\contentsline {subsubsection}{\nonumberline ROMEO}{13}
-\contentsline {subsubsection}{\nonumberline FIB}{14}
-\contentsline {section}{\numberline {3.3}Characterization}{14}
-\contentsline {subsubsection}{\nonumberline SEM}{14}
-\contentsline {subsubsection}{\nonumberline EBSD}{15}
-\contentsline {subsubsection}{\nonumberline nano-XRF}{15}
-\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{17}
-\contentsline {chapter}{\numberline {4}Summary and Outlook}{19}
+\contentsline {subsubsection}{\nonumberline Monte-Carlo and the binary collision approximation}{11}
+\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{13}
+\contentsline {chapter}{\numberline {3}Experimental Methods}{14}
+\contentsline {section}{\numberline {3.1}Nanowire synthesis}{14}
+\contentsline {section}{\numberline {3.2}Modification}{16}
+\contentsline {subsubsection}{\nonumberline ROMEO}{16}
+\contentsline {subsubsection}{\nonumberline FIB}{16}
+\contentsline {section}{\numberline {3.3}Characterization}{17}
+\contentsline {subsubsection}{\nonumberline SEM}{17}
+\contentsline {subsubsection}{\nonumberline EBSD}{18}
+\contentsline {subsubsection}{\nonumberline nano-XRF}{18}
+\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{19}
+\contentsline {chapter}{\numberline {4}Summary and Outlook}{22}

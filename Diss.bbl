@@ -36,6 +36,15 @@ C.~Borchers, S.~Müller, D.~Stichtenoth, D.~Schwen, and C.~Ronning.
 \newblock {\em The Journal of Physical Chemistry B}, 110(4):1656--1660,
   February 2006.
 
+\bibitem[BMS{\etalchar{+}}08]{bizyukov_morphology_2008}
+Ivan Bizyukov, Andreas Mutzke, Ralf Schneider, Alexander~M. Gigler, and Karl
+  Krieger.
+\newblock Morphology and changes of elemental surface composition of tungsten
+  bombarded with carbon ions.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms}, 266(9):1979--1986, May 2008.
+\newblock 00007.
+
 \bibitem[Bor12]{borschel_ion-solid_2012}
 Christian Borschel.
 \newblock {\em Ion-{Solid} {Interaction} in {Semiconductor} {Nanowires}}.
@@ -75,6 +84,13 @@ Brent Fultz and James Howe.
   {Materials}}.
 \newblock Graduate {Texts} in {Physics}. Springer Berlin Heidelberg, Berlin,
   Heidelberg, 2013.
+
+\bibitem[Hau84]{hautala_nuclear_1984}
+M.~Hautala.
+\newblock Nuclear stopping in polycrystalline materials: {Range} distributions
+  and {Doppler}-shift attenuation analysis.
+\newblock {\em Physical Review B}, 30(9):5010--5018, November 1984.
+\newblock 00059.
 
 \bibitem[JBB{\etalchar{+}}12]{jeynes_total_2012}
 C.~Jeynes, M.~J. Bailey, N.~J. Bright, M.~E. Christopher, G.~W. Grime, B.~N.
@@ -116,6 +132,21 @@ Sven Müller.
 \newblock {\em Structural and optical impact of transition metal implantation
   into zinc oxide single crystals and nanowires}.
 \newblock PhD thesis, Georg-August Universität Göttingen, Göttingen, 2009.
+
+\bibitem[Mö14]{moller_tri3dyn_2014}
+Wolfhard Möller.
+\newblock {TRI}3dyn – {Collisional} computer simulation of the dynamic
+  evolution of 3-dimensional nanostructures under ion irradiation.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms}, 322:23--33, March 2014.
+\newblock 00001.
+
+\bibitem[ME84]{moller_tridyn_1984}
+W.~Möller and W.~Eckstein.
+\newblock Tridyn — {A} {TRIM} simulation code including dynamic composition
+  changes.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms}, 2(1–3):814--818, March 1984.
 
 \bibitem[MK97]{miotello_revisiting_1997}
 Antonio Miotello and Roger Kelly.
@@ -199,12 +230,23 @@ B~Sankur.
   performance evaluation.
 \newblock {\em Journal of Electronic Imaging}, 13(1):146, January 2004.
 
+\bibitem[Sch08]{schiettekatte_fast_2008}
+François Schiettekatte.
+\newblock Fast {Monte} {Carlo} for ion beam analysis simulations.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms}, 266(8):1880--1885, April 2008.
+
 \bibitem[Sig69]{sigmund_theory_1969}
 Peter Sigmund.
 \newblock Theory of {Sputtering}. {I}. {Sputtering} {Yield} of {Amorphous} and
   {Polycrystalline} {Targets}.
 \newblock {\em Physical Review}, 184(2):383--416, August 1969.
 \newblock 03204.
+
+\bibitem[Sig73]{sigmund_mechanism_1973}
+Peter Sigmund.
+\newblock A mechanism of surface micro-roughening by ion bombardment.
+\newblock {\em Journal of Materials Science}, 8(11):1545--1553, November 1973.
 
 \bibitem[Sig04]{sigmund_stopping_2004}
 Peter Sigmund, editor.
@@ -278,6 +320,11 @@ W.~Wesch, E.~Wendler, and C.~S. Schnohr.
 \newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
   Beam Interactions with Materials and Atoms}, 277:58--69, April 2012.
 \newblock 00009.
+
+\bibitem[Zie12]{ziegler_srim_2012}
+James Ziegler.
+\newblock {\em {SRIM} - {The} {Stopping} and {Range} of {Ions} in {Matter}}.
+\newblock February 2012.
 
 \bibitem[ZLB85]{ziegler_stopping_1985}
 J.~F. (James F.~) Ziegler, U.~Littmark, and J.~P. Biersack.
