@@ -166,6 +166,12 @@ Stefan Noack.
   {Bombardment}}.
 \newblock University Jena, Master Thesis, 2014.
 
+\bibitem[Nor14]{nordlund_correction_2014}
+Kai Nordlund.
+\newblock Correction to the {Kinchin}-{Phase} damage equation to account for
+  athermal defect recombination and ion beam mixing: arc-dpa and rpa.
+\newblock Leuven, September 2014.
+
 \bibitem[NRS97]{nordlund_repulsive_1997}
 K.~Nordlund, N.~Runeberg, and D.~Sundholm.
 \newblock Repulsive interatomic potentials calculated using {Hartree}-{Fock}

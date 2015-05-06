@@ -5,17 +5,18 @@
 \contentsline {subsubsection}{\nonumberline Discussion of electronic energy loss}{5}
 \contentsline {subsubsection}{\nonumberline Discussion of nuclear energy loss}{6}
 \contentsline {subsubsection}{\nonumberline Sputtering}{8}
-\contentsline {section}{\numberline {2.2}Simulation of ion-solid interaction}{10}
-\contentsline {subsubsection}{\nonumberline Monte-Carlo and the binary collision approximation}{11}
-\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{13}
-\contentsline {chapter}{\numberline {3}Experimental Methods}{14}
-\contentsline {section}{\numberline {3.1}Nanowire synthesis}{14}
-\contentsline {section}{\numberline {3.2}Modification}{16}
-\contentsline {subsubsection}{\nonumberline ROMEO}{16}
-\contentsline {subsubsection}{\nonumberline FIB}{16}
-\contentsline {section}{\numberline {3.3}Characterization}{17}
-\contentsline {subsubsection}{\nonumberline SEM}{17}
-\contentsline {subsubsection}{\nonumberline EBSD}{18}
-\contentsline {subsubsection}{\nonumberline nano-XRF}{18}
-\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{19}
-\contentsline {chapter}{\numberline {4}Summary and Outlook}{22}
+\contentsline {section}{\numberline {2.2}Simulation of ion-solid interaction}{11}
+\contentsline {subsubsection}{\nonumberline Monte-Carlo and the binary collision approximation}{12}
+\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{15}
+\contentsline {subsubsection}{\nonumberline Relevant simulations in literature}{15}
+\contentsline {chapter}{\numberline {3}Experimental Methods}{16}
+\contentsline {section}{\numberline {3.1}Nanowire synthesis}{16}
+\contentsline {section}{\numberline {3.2}Modification}{18}
+\contentsline {subsubsection}{\nonumberline ROMEO}{18}
+\contentsline {subsubsection}{\nonumberline FIB}{18}
+\contentsline {section}{\numberline {3.3}Characterization}{19}
+\contentsline {subsubsection}{\nonumberline SEM}{19}
+\contentsline {subsubsection}{\nonumberline EBSD}{20}
+\contentsline {subsubsection}{\nonumberline nano-XRF}{20}
+\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{21}
+\contentsline {chapter}{\numberline {4}Summary and Outlook}{24}

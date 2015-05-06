@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  5 MAY 2015 18:07
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  6 MAY 2015 14:17
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -507,13 +507,13 @@ Chapter 2.
 ] <images/StoppinginAuandC.png, id=25, 2324.685pt x 817.0525pt>
 File: images/StoppinginAuandC.png Graphic file (type png)
  <use images/StoppinginAuandC.png>
-Package pdftex.def Info: images/StoppinginAuandC.png used on input line 20.
+Package pdftex.def Info: images/StoppinginAuandC.png used on input line 21.
 (pdftex.def)             Requested size: 349.58846pt x 122.86426pt.
 
 Underfull \vbox (badness 4001) has occurred while \output is active []
 
  [3 <C:/Talks and Posters/2015-xx-Diss/Diss/images/StoppinginAuandC.png>] [4]
-Overfull \hbox (9.50243pt too wide) in paragraph at lines 49--50
+Overfull \hbox (9.50243pt too wide) in paragraph at lines 50--51
 \OT1/cmr/m/n/12 atom. Its first ob-ser-va-tion was in the fa-mous Ruther-ford (Geiger{Marsden)
  []
 
@@ -521,52 +521,62 @@ Overfull \hbox (9.50243pt too wide) in paragraph at lines 49--50
 Underfull \vbox (badness 1715) has occurred while \output is active []
 
  [6]
-<images/SiSicollision.png, id=47, 1641.13126pt x 827.09pt>
-File: images/SiSicollision.png Graphic file (type png)
- <use images/SiSicollision.png>
-Package pdftex.def Info: images/SiSicollision.png used on input line 61.
+<images/SiSicollision.jpg, id=47, 1641.13126pt x 827.09pt>
+File: images/SiSicollision.jpg Graphic file (type jpg)
+ <use images/SiSicollision.jpg>
+Package pdftex.def Info: images/SiSicollision.jpg used on input line 62.
 (pdftex.def)             Requested size: 220.79567pt x 111.27371pt.
- [7] [8 <C:/Talks and Posters/2015-xx-Diss/Diss/images/SiSicollision.png>] <images/anglesigmund.jpg, id=55, 880.28876pt 
+ [7] [8 <C:/Talks and Posters/2015-xx-Diss/Diss/images/SiSicollision.jpg>] <images/anglesigmund.jpg, id=54, 880.28876pt 
 x 1299.85625pt>
 File: images/anglesigmund.jpg Graphic file (type jpg)
 
 <use images/anglesigmund.jpg>
-Package pdftex.def Info: images/anglesigmund.jpg used on input line 78.
+Package pdftex.def Info: images/anglesigmund.jpg used on input line 79.
 (pdftex.def)             Requested size: 128.7984pt x 190.17015pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9] [10 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesigmund.jpg>]
-Overfull \hbox (2.30055pt too wide) in paragraph at lines 98--99
+ [9] [10 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesigmund.jpg>]
+<images/radiussigmund.jpg, id=62, 877.2775pt x 985.6825pt>
+File: images/radiussigmund.jpg Graphic file (type jpg)
+ <use images/radiussigmund.jpg>
+Package pdftex.def Info: images/radiussigmund.jpg used on input line 92.
+(pdftex.def)             Requested size: 128.7984pt x 144.70258pt.
+ [11 <C:/Talks and Posters/2015-xx-Diss/Diss/images/radiussigmund.jpg>]
+Overfull \hbox (2.30055pt too wide) in paragraph at lines 108--109
 \OT1/cmr/m/n/12 pla-nar tar-gets are SDTrimSP [[]], cor-teo [[]], COSIPO [[]]
  []
 
 
 Underfull \vbox (badness 4699) has occurred while \output is active []
 
- [11] [12] [13]
+ [12] [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14] [15]
 Chapter 3.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14
+ [16
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15] [16]
+ [17] [18]
 
-LaTeX Warning: Citation `NL' on page 17 undefined on input line 150.
+LaTeX Warning: Citation `NL' on page 19 undefined on input line 169.
 
-[17] [18] [19]) [20] [21]
+[19] [20] [21]) [22] [23]
 Chapter 4.
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl"
 Overfull \hbox (9.35213pt too wide) in paragraph at lines 71--2
 []\OT1/cmr/m/it/20.74 check: Mas-ter The-sis Noack, Ogrisek, Con-
  []
 
-[22
+
+Overfull \hbox (21.0183pt too wide) in paragraph at lines 71--2
+\OT1/cmr/m/it/20.74 fer-ence pro-ced-ing D. Sage, Ruther-ford, Nord-
+ []
+
+[24
 
 ]
 Underfull \hbox (badness 6173) in paragraph at lines 23--31
@@ -583,7 +593,7 @@ Underfull \hbox (badness 1603) in paragraph at lines 23--31
 \OT1/cmr/m/n/12 by Ion-Implantation un-der Dy-namic An-neal-ing Con-di-
  []
 
-[23
+[25
 
 ]
 Underfull \hbox (badness 7667) in paragraph at lines 69--75
@@ -595,34 +605,34 @@ Underfull \hbox (badness 1629) in paragraph at lines 69--75
 \OT1/cmr/m/n/12 tials in Ra-di-a-tion Physics.  \OT1/cmr/m/it/12 Phys-ica Sta-tus So-lidi a-
  []
 
-[24] [25] [26] [27]
-Underfull \hbox (badness 2042) in paragraph at lines 220--226
+[26] [27] [28] [29]
+Underfull \hbox (badness 2042) in paragraph at lines 226--232
 []\OT1/cmr/m/n/12 Johannes Schin-delin, Ig-na-cio Arganda-Carreras, Er-win
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 220--226
+Underfull \hbox (badness 1173) in paragraph at lines 226--232
 \OT1/cmr/m/n/12 Frise, Ver-ena Kaynig, Mark Lon-gair, To-bias Piet-zsch,
  []
 
-[28]
-Underfull \hbox (badness 1735) in paragraph at lines 247--250
+[30]
+Underfull \hbox (badness 1735) in paragraph at lines 253--256
 \OT1/cmr/m/n/12 by ion bom-bard-ment.  \OT1/cmr/m/it/12 Jour-nal of Ma-te-ri-als Sci-ence\OT1/cmr/m/n/12 ,
  []
 
-[29] [30]) [31] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
+[31] [32]) [33] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3751 strings out of 493921
- 55442 string characters out of 3147251
- 160527 words of memory out of 3000000
- 6981 multiletter control sequences out of 15000+200000
+ 3761 strings out of 493921
+ 55647 string characters out of 3147251
+ 160578 words of memory out of 3000000
+ 6990 multiletter control sequences out of 15000+200000
  12476 words of font info for 44 fonts, out of 3000000 for 9000
  845 hyphenation exceptions out of 8191
- 39i,9n,55p,1950b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,9n,55p,1950b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
@@ -632,9 +642,9 @@ ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmti12.pfb>
-Output written on Diss.pdf (34 pages, 1233615 bytes).
+Output written on Diss.pdf (36 pages, 1305009 bytes).
 PDF statistics:
- 173 PDF objects out of 1000 (max. 8388607)
+ 179 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
