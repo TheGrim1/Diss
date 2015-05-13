@@ -1,22 +1,7 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Background}{2}
-\contentsline {section}{\numberline {2.1}Ion-solid interaction}{2}
-\contentsline {subsubsection}{\nonumberline Energy loss}{2}
-\contentsline {subsubsection}{\nonumberline Discussion of electronic energy loss}{5}
-\contentsline {subsubsection}{\nonumberline Discussion of nuclear energy loss}{6}
-\contentsline {subsubsection}{\nonumberline Sigmund theory of sputtering}{8}
-\contentsline {section}{\numberline {2.2}Simulation of ion-solid interaction}{11}
-\contentsline {subsubsection}{\nonumberline Monte-Carlo and the binary collision approximation}{12}
-\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{16}
-\contentsline {subsubsection}{\nonumberline Relevant simulations in literature}{17}
-\contentsline {chapter}{\numberline {3}Experimental Methods}{18}
-\contentsline {section}{\numberline {3.1}Nanowire synthesis}{18}
-\contentsline {section}{\numberline {3.2}Modification}{20}
-\contentsline {subsubsection}{\nonumberline ROMEO}{20}
-\contentsline {subsubsection}{\nonumberline FIB}{20}
-\contentsline {section}{\numberline {3.3}Characterization}{21}
-\contentsline {subsubsection}{\nonumberline SEM}{21}
-\contentsline {subsubsection}{\nonumberline EBSD}{22}
-\contentsline {subsubsection}{\nonumberline nano-XRF}{22}
-\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{23}
-\contentsline {chapter}{\numberline {4}Summary and Outlook}{26}
+\contentsline {chapter}{\numberline {2}Sputtering of Nanowires}{2}
+\contentsline {section}{\numberline {2.1}First results in $Mn$ irradiated $GaAs$}{2}
+\contentsline {section}{\numberline {2.2}Simulation results}{2}
+\contentsline {section}{\numberline {2.3}Redeposition}{2}
+\contentsline {section}{\numberline {2.4}$Si$ nanowire sputtering by $Ar^+$ irradiation}{5}
+\contentsline {chapter}{\numberline {3}Summary and Outlook}{6}
