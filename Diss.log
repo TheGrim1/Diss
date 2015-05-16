@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  13 MAY 2015 18:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  16 MAY 2015 15:25
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -506,36 +506,47 @@ Chapter 1.
 ]
 Chapter 2.
 
-LaTeX Warning: Reference `' on page 2 undefined on input line 21.
+LaTeX Warning: Citation `noack_sputter_2014' on page 2 undefined on input line 3.
 
-<images/redeposit.jpg, id=20, 788.9475pt x 734.745pt>
-File: images/redeposit.jpg Graphic file (type jpg)
- <use images/redeposit.jpg>
-Package pdftex.def Info: images/redeposit.jpg used on input line 25.
-(pdftex.def)             Requested size: 176.63316pt x 164.49207pt.
- [2
+
+LaTeX Warning: Reference `sec:ionsolid' on page 2 undefined on input line 13.
+
+
+LaTeX Warning: Reference `sputterplot' on page 2 undefined on input line 13.
+
+
+LaTeX Warning: Reference `sputterplot' on page 2 undefined on input line 13.
+
+[2
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 <C:/Talks and Posters/2015-xx-Diss/Diss/images/redeposit.jpg>] <images/anglesredeposition.jpg, id=31, 1075.01625pt x
+LaTeX Warning: Reference `Sisputtering' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation `pelaz_ion-beam-induced_2004' on page 3 undefined on input line 33.
+
+
+LaTeX Warning: Reference `' on page 3 undefined on input line 39.
+
+[3] <images/redeposit.jpg, id=30, 788.9475pt x 782.925pt>
+File: images/redeposit.jpg Graphic file (type jpg)
+ <use images/redeposit.jpg>
+Package pdftex.def Info: images/redeposit.jpg used on input line 43.
+(pdftex.def)             Requested size: 176.63316pt x 175.27843pt.
+ [4 <C:/Talks and Posters/2015-xx-Diss/Diss/images/redeposit.jpg>] <images/anglesredeposition.jpg, id=39, 1187.43625pt x
  512.91624pt>
 File: images/anglesredeposition.jpg Graphic file (type jpg)
- <use images/anglesredeposition.jpg>
-Package pdftex.def Info: images/anglesredeposition.jpg used on input line 51.
-(pdftex.def)             Requested size: 220.79567pt x 105.34416pt.
 
-Underfull \vbox (badness 5970) has occurred while \output is active []
-
- [4 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesredeposition.jpg>]
-Overfull \hbox (17.3762pt too wide) in paragraph at lines 79--80
+<use images/anglesredeposition.jpg>
+Package pdftex.def Info: images/anglesredeposition.jpg used on input line 69.
+(pdftex.def)             Requested size: 220.79567pt x 95.37326pt.
+ [5]
+Overfull \hbox (17.3762pt too wide) in paragraph at lines 96--97
 []\OT1/cmr/m/n/12 The in-te-gra-tion can be solved nu-mer-i-cally us-ing []\OT1/cmr/m/it/20.74 nu-mer-i-cal tools
  []
 
-)
-Underfull \vbox (badness 1527) has occurred while \output is active []
-
- [5] [6]
+[6 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesredeposition.jpg>]) [7]
 Chapter 3.
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl"
 Overfull \hbox (9.35213pt too wide) in paragraph at lines 71--1
@@ -547,14 +558,14 @@ Overfull \hbox (21.0183pt too wide) in paragraph at lines 71--1
 \OT1/cmr/m/it/20.74 fer-ence pro-ced-ing D. Sage, Ruther-ford, Nord-
  []
 
-[7
+[8
 
 ]
 Underfull \hbox (badness 2351) in paragraph at lines 4--8
 []\OT1/cmr/m/n/12 Omar Bobes, Kun Zhang, and Hans Hofsass.  Ion
  []
 
-) [8
+) [9
 
 ] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
 
@@ -565,13 +576,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3696 strings out of 493921
- 54187 string characters out of 3147251
- 158156 words of memory out of 3000000
- 6928 multiletter control sequences out of 15000+200000
+ 3701 strings out of 493921
+ 54271 string characters out of 3147251
+ 158159 words of memory out of 3000000
+ 6933 multiletter control sequences out of 15000+200000
  12476 words of font info for 44 fonts, out of 3000000 for 9000
  845 hyphenation exceptions out of 8191
- 39i,9n,55p,1106b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,9n,55p,1191b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
@@ -581,9 +592,9 @@ ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssb
 x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Diss.pdf (11 pages, 454873 bytes).
+Output written on Diss.pdf (12 pages, 488269 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

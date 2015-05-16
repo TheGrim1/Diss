@@ -6,10 +6,16 @@ Omar Bobes, Kun Zhang, and Hans Hofsäss.
   curvature-dependent sputtering.
 \newblock {\em Physical Review B}, 86(23):235414, December 2012.
 
-\bibitem[Eck91]{eckstein_computer_1991}
-Wolfgang Eckstein.
-\newblock {\em Computer {Simulation} of {Ion}-{Solid} {Interactions}}.
-\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 1991.
+\bibitem[Noa14]{noack_sputter_2014}
+Stefan Noack.
+\newblock {\em Sputter {Effects} of {Silicon} {Nanowires} under {Ion}
+  {Bombardment}}.
+\newblock University Jena, Master Thesis, 2014.
+
+\bibitem[PMB04]{pelaz_ion-beam-induced_2004}
+Lourdes Pelaz, Luis~A. Marqués, and Juan Barbolla.
+\newblock Ion-beam-induced amorphization and recrystallization in silicon.
+\newblock {\em Journal of Applied Physics}, 96(11):5947--5976, December 2004.
 
 \bibitem[VWMS08]{verdeil_angular_2008}
 C.~Verdeil, T.~Wirtz, H.~N. Migeon, and H.~Scherrer.
