@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  16 MAY 2015 15:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  18 MAY 2015 19:12
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -506,47 +506,91 @@ Chapter 1.
 ]
 Chapter 2.
 
-LaTeX Warning: Citation `noack_sputter_2014' on page 2 undefined on input line 3.
-
-
 LaTeX Warning: Reference `sec:ionsolid' on page 2 undefined on input line 13.
 
-
-LaTeX Warning: Reference `sputterplot' on page 2 undefined on input line 13.
-
-
-LaTeX Warning: Reference `sputterplot' on page 2 undefined on input line 13.
+<images/sputtering_diameter_energy.png, id=20, 852.786pt x 491.436pt>
+File: images/sputtering_diameter_energy.png Graphic file (type png)
+ <use images/sputtering_diameter_energy.png>
+Package pdftex.def Info: images/sputtering_diameter_energy.png used on input line 17.
+(pdftex.def)             Requested size: 349.58846pt x 201.45256pt.
 
 [2
 
-]
+] [3 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputtering_diameter_energy.png>]
 
-LaTeX Warning: Reference `Sisputtering' on page 3 undefined on input line 31.
-
-
-LaTeX Warning: Citation `pelaz_ion-beam-induced_2004' on page 3 undefined on input line 33.
+LaTeX Warning: Reference `Sisputtering' on page 4 undefined on input line 30.
 
 
-LaTeX Warning: Reference `' on page 3 undefined on input line 39.
+LaTeX Warning: Reference `Sisputtering' on page 4 undefined on input line 30.
 
-[3] <images/redeposit.jpg, id=30, 788.9475pt x 782.925pt>
+
+LaTeX Warning: Reference `Sisputtering' on page 4 undefined on input line 30.
+
+
+LaTeX Warning: Reference `Sisputtering' on page 4 undefined on input line 30.
+
+<images/sputter_exp.png, id=33, 1579.9025pt x 813.0375pt>
+File: images/sputter_exp.png Graphic file (type png)
+ <use images/sputter_exp.png>
+Package pdftex.def Info: images/sputter_exp.png used on input line 34.
+(pdftex.def)             Requested size: 349.58846pt x 179.8985pt.
+
+
+LaTeX Warning: Reference `' on page 4 undefined on input line 48.
+
+
+Underfull \vbox (badness 4543) has occurred while \output is active []
+
+ [4]
+<images/redeposit.jpg, id=39, 788.9475pt x 782.925pt>
 File: images/redeposit.jpg Graphic file (type jpg)
  <use images/redeposit.jpg>
-Package pdftex.def Info: images/redeposit.jpg used on input line 43.
-(pdftex.def)             Requested size: 176.63316pt x 175.27843pt.
- [4 <C:/Talks and Posters/2015-xx-Diss/Diss/images/redeposit.jpg>] <images/anglesredeposition.jpg, id=39, 1187.43625pt x
- 512.91624pt>
-File: images/anglesredeposition.jpg Graphic file (type jpg)
+Package pdftex.def Info: images/redeposit.jpg used on input line 52.
+(pdftex.def)             Requested size: 147.19336pt x 146.06934pt.
 
-<use images/anglesredeposition.jpg>
-Package pdftex.def Info: images/anglesredeposition.jpg used on input line 69.
-(pdftex.def)             Requested size: 220.79567pt x 95.37326pt.
- [5]
-Overfull \hbox (17.3762pt too wide) in paragraph at lines 96--97
-[]\OT1/cmr/m/n/12 The in-te-gra-tion can be solved nu-mer-i-cally us-ing []\OT1/cmr/m/it/20.74 nu-mer-i-cal tools
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\OT1/cmr/m/n/10.95 re-de-po-si-tion of sput-tered
  []
 
-[6 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesredeposition.jpg>]) [7]
+
+Underfull \hbox (badness 3884) in paragraph at lines 55--55
+\OT1/cmr/m/n/10.95 point A onto the nano-
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 55--55
+\OT1/cmr/m/n/10.95 wire with ra-dius R at a
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 55--55
+\OT1/cmr/m/n/10.95 ro-tated around its axis $\OML/cmm/m/it/10.95 $
+ []
+
+
+Underfull \hbox (badness 7116) in paragraph at lines 55--55
+\OT1/cmr/m/n/10.95 ir-ra-di-ated, a ro-ta-tion-ally
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 55--55
+\OT1/cmr/m/n/10.95 sym-met-ric an-gle dis-tri-bu-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputter_exp.png>] [6 <C:/Talks and Posters/2015-xx-Diss/Diss/images/r
+edeposit.jpg>]
+<images/anglesredeposition.jpg, id=51, 1187.43625pt x 512.91624pt>
+File: images/anglesredeposition.jpg Graphic file (type jpg)
+ <use images/anglesredeposition.jpg>
+Package pdftex.def Info: images/anglesredeposition.jpg used on input line 78.
+(pdftex.def)             Requested size: 220.79567pt x 95.37326pt.
+
+Underfull \vbox (badness 6708) has occurred while \output is active []
+
+ [7 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesredeposition.jpg>] [8]) [9]
 Chapter 3.
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl"
 Overfull \hbox (9.35213pt too wide) in paragraph at lines 71--1
@@ -558,14 +602,14 @@ Overfull \hbox (21.0183pt too wide) in paragraph at lines 71--1
 \OT1/cmr/m/it/20.74 fer-ence pro-ced-ing D. Sage, Ruther-ford, Nord-
  []
 
-[8
+[10
 
 ]
 Underfull \hbox (badness 2351) in paragraph at lines 4--8
 []\OT1/cmr/m/n/12 Omar Bobes, Kun Zhang, and Hans Hofsass.  Ion
  []
 
-) [9
+) [11
 
 ] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
 
@@ -576,13 +620,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3701 strings out of 493921
- 54271 string characters out of 3147251
- 158159 words of memory out of 3000000
- 6933 multiletter control sequences out of 15000+200000
- 12476 words of font info for 44 fonts, out of 3000000 for 9000
+ 3714 strings out of 493921
+ 54615 string characters out of 3147251
+ 158195 words of memory out of 3000000
+ 6942 multiletter control sequences out of 15000+200000
+ 12822 words of font info for 45 fonts, out of 3000000 for 9000
  845 hyphenation exceptions out of 8191
- 39i,9n,55p,1191b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,9n,55p,1349b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
@@ -591,10 +635,11 @@ ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 /type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssb
 x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Diss.pdf (12 pages, 488269 bytes).
+public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Diss.pdf (14 pages, 1096906 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
+ 119 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -10,27 +10,36 @@ Introduction by Mn in GaAs (JPhysD)
 \section{Simulation results}
 \label{sec:simsputering}
 
-A good understanding of the sputtering of nanowires can be gained by looking at MC simulations results performed with \emph{iradina}. From the discussion of the Sigmund sputter model in chapter \ref{sec:ionsolid} a maximum is expected for a certain ion, ion energy and nanowire diameter combination. This can be seen in figure \ref{sputterplot}a \ref{sputterplot}b for the examples of $Xe^+$ and $Ar^+$ ions respectively irradiating a nanowire at an angle of $45^\circ$ to the nanowire. For both irradiations a black line indicates the ion range calculated with SRIM and projected on to $45^\circ$. The maximum of the sputtering correlates very well with the ion range. 
+A good understanding of the sputtering of nanowires can be gained by looking at MC simulations results performed with \emph{iradina}. From the discussion of the Sigmund sputter model in chapter \ref{sec:ionsolid} a maximum is expected for a certain ion, ion energy and nanowire diameter combination. This is confirmed by MC simulations shown in figure \ref{sputtering_de}a \ref{sputtering_de}b for the examples of $Xe^+$ and $Ar^+$ ions, respectively, irradiating a nanowire at an angle of $45^\circ$ to the nanowire. Note that the color profile is not identical as sputtering is about a factor of $2,5\times$ larger for the denser collision cascades in $Xe$.
 
-The ion range is an even better predictor for maximum sputtering than the first approximation made with the Sigmund sputtering model, which would predict that the sputtering is maximal where the depth of the damage and the radius coincide. For the Gaussian ellipsoid approximation, a Gaussian peak is fitted to the recoil profile for both ions in $Si$ \cite{bobes_ion_2012}. The so found mean damage depth is constantly around $0,7\times$ as less than ion range for the whole energy range investigated here. Thereby it lies on the geometric mean of the nanowire radius and diameter. The reason for the inaccuracy of the Sigmund model can be found in the asymmetry of the damage profile, which has a shoulder on the lower irradiation depth which is not approximated well by the Gaussian profile. This shoulder pushes the maximum overlap between the real damage and a given cylinder surface to larger energies.
+\begin{figure}[th]
+	\centering
+		\includegraphics[width=.95\textwidth]{images/sputtering_diameter_energy.png}
+	\caption{a) } 
+	\label{sputtering_de}
+\end{figure} 
 
+For both irradiations a black line indicates the ion range calculated with SRIM and projected on to $45^\circ$. The maximum of the sputtering correlates very well with the ion range. This can also be seen in \ref{sputtering_de}c, where the sputter yield versus energy plot is extracted from the $Xe^+$ irradiation for a fixed diameter. The red, blue and black curves correspond to the irradiation of $25, 50$ and $100\,nm$ diameter wires, respectively. The maximum clearly shifts to larger ion energies for larger diameters and is found near the indicated ion range simulated by SRIM. The magenta curve shows the energy dependent sputter yield for a flat $Si$ surface irradiated with $Xe^+$ ions at $45^\circ$, and simulated with identical parameters in \emph{iradina}. The global maximum sputter yield is found at $\approx 100 \,keV$ and $30\,nm$. \TODO{ - surface maximum}
 
-The sputter yield is plotted as a function of the nanowire diameter and the ion energy. The difference in sputter yields between $Xe^+$ and $Ar^+$ 
+For Sigmund sputtering model with its Gaussian ellipsoid approximation of the damage profile, a Gaussian peak is fitted to the recoil profile simulated with SRIM for both ions in $Si$ \cite{bobes_ion_2012}. The so found mean damage depth is constantly around $0,7\times$ as less than ion range for the whole energy range investigated here. A naive first approximation with the Sigmund sputtering model would predict that the sputtering is maximal where the depth of the damage and the radius of the irradiated nanowire coincide. However, this is only true for central impacts, while the simulated situation is an average over all impact parameters. For non-central impacts there is less of the nanowire `in front' of the ion's path. Therefore, the maximum of the sputter yield is also at lower energies, than it would be for solely central impacts. That ion range is an even better predictor for maximum sputtering than the Gaussian fit to the damage distribution is thus a coincidental consequence of the irradiation geometry. To test the limits of the Sigmund model, a more thorough investigation of the Sigmund model's predictions for various irradiation scenarios may be interesting, however, since the MD simulations reproduce the reality more realistically anyhow, it will not be undertaken here.
 
-Note that the color profile is not identical as sputtering is about a factor of $2\times$ larger for the denser collision cascedes 
- The ion range calculated using SRIM is plotted as a black curve.
-
-
-
- 
-Xe, Ar in Si NW: Energy and Diameter dependent SY
 
 \section{$Si$ nanowire sputtering by $Ar^+$ irradiation}
 \label{sec:sisputtering}
 
-The experimental verification of this diameter dependent maximum in sputtering was investigated on etched $Si$-nanowire arrays. Figure \ref{Sisputtering} shows the sputter yield for nanowires plotted vs. their diameter. 
+The experimental verification of the diameter dependent maximum in sputtering was investigated on etched $Si$-nanowire arrays. Figure \ref{Sisputtering}a shows the principle irradiation setup illustrated by a SEM image of a single nanowire before and after the irradiation with $300\,keV\,Ar^+$. The etched nanowire samples and the RHT allowed the simultaneous, rotated irradiation of many upstanding nanowires at $300\,^\circ C$. Figure \ref{Sisputtering}b shows the extracted and aligned diameter versus height profile for the nanowire in figure \ref{Sisputtering}a. More than $100$ such profiles were semi-automatically extracted for many different nanowire diameters. The sputter yield calculated from these extracted profiles is plotted versus the local diameter in \ref{Sisputtering}c for $100$ and $300\,keV\,Ar^+$.
 
-The nanowires were irradiated rotated at an angle of $45^\circ$ to the ion beam of $Ar^+$ at $100$ and $300\,keV$. To prevent defect induced density changes and the $Si$ from amorphizing, the irradiation stage was heated to $300^\circ$, as at this temperature the amorphization threshold becomes arbitrarily high \cite{pelaz_ion-beam-induced_2004}. After a fluence of $10^{16}\,cm^{-2}$ the change in diameter was close to the resolution limit of the SEM, therefore only the data for the following two irradiation steps of $2\cdot 10^{16}\,cm^{-2}$ ions is shown.
+\begin{figure}[th]
+	\centering
+		\includegraphics[width=.95\textwidth]{images/sputter_exp.png}
+	\caption{a) Exemplary SEM images of a $Si$ nanowire before and after the rotated irradiation with $300\,keV\,Ar^+$ at $300^\circ C$. The extracted diameter vs. height profile for this nanowire is shown in b). From many such profiles the sputter yield vs. diameter was calculated and plotted in c) as black triangles and red squares for the irradiation with $100$ and $300\,keV\,Ar^+$, respectively. The sputter yield calculated with \emph{iradina} simulations is show for either case as a line-plot. The corresponding SRIM ion range at $45^\circ$ is marked by a vertical line.} 
+	\label{sputtering_exp}
+\end{figure} 
+
+
+The nanowires were irradiated rotated at an angle of $45^\circ$ to the ion beam of $Ar^+$ at $100$ and $300\,keV$.  
+
+
 
 
 \section{Redeposition}
@@ -40,28 +49,28 @@ While irradiating a nanowire which is standing perpendicular on a substrate as s
 
 \begin{SCfigure}
 	\centering
-		\includegraphics[width=.48\textwidth]{images/redeposit.jpg}
+		\includegraphics[width=.4\textwidth]{images/redeposit.jpg}
 	\caption{Illustration of the redeposition of sputtered material from the substrate point A onto the nanowire with radius R at a height L. Since the wire is rotated around its axis $\zeta$ and the whole substrate is irradiated, a rotationally symmetric angle distribution for the sputtered atoms can be chosen.} 
 	\label{redeposit}
 \end{SCfigure}
 
-The following calculation will estimate how large the redeposition is, by first calculating the probability of a sputtered atom to hit the nanowire $P$:
+The following calculation will estimate how many atoms are deposited on the nanowire, by first calculating the probability of a sputtered atom to hit it $P$:
 
 \begin{equation}
 \label{prob1}
 P = \int_0^{2\pi} \! \,\int_0^{\pi/2} \!\! H(\theta,\varphi,r,R,L) \, \tilde{SY}(\theta,\varphi) \,cos(\theta)\,\mathrm{d}\theta \, \mathrm{d}\varphi.
 \end{equation}
 
-Where $H(\theta,\varphi,r,R,L)$ is the probability distribution of hitting the nanowire. It is $1/(4\pi)$ if the trajectory along $\theta$ and $\varphi$ from $r$ hits the nanowire with length $L$ and radius $R$, and zero otherwise. For irradiation at an angle, the angle distribution of the sputter yield $\tilde{SY}(\theta,\varphi)$ is expected to have a preferential direction along the ion beam \cite{verdeil_angular_2008}. However, the effective distribution becomes rotationally symmetric (independent of the angle $\varphi$) if one neglects the shadowing of the ion beam on the substrate, as all points around the wire are irradiated and the wire is rotated around its axis (angle $\zeta$). This means that a rotationally symmetric angle distribution $\tilde{SY}(\theta)$ of the sputtered atoms from the substrate can be used, as indicated by the yellow, orange and red bulbs. A $cos^\kappa(\theta)$ distribution is chosen, as it forms flattened angle distributions for $\kappa < 1$, which can emulate the rotation of a slanted angle distribution: 
+Where $H(\theta,\varphi,r,R,L)$ is the probability distribution of hitting the nanowire. It is $1/(4\pi)$ if the trajectory along $\theta$ and $\varphi$ from $r$ hits the nanowire with length $L$ and radius $R$, and zero otherwise. For irradiation at an angle, the angle distribution of the sputter yield $\tilde{SY}(\theta,\varphi)$ is expected to have a preferential direction along the ion beam \cite{verdeil_angular_2008}. However, the effective distribution becomes rotationally symmetric (independent of the angle $\varphi$) if one neglects the shadowing of the ion beam on the substrate. Then all points around the wire are hit and the wire is rotated around its axis (angle $\zeta$). This means that a rotationally symmetric angle distribution $\tilde{SY}(\theta)$ of the sputtered atoms from the substrate can be used, as indicated by the yellow, orange and red bulbs in figure \ref{redeposit}. A $cos^\kappa(\theta)$ distribution is chosen, as it forms flattened angle distributions for $\kappa < 1$, which can emulate the rotation of a slanted angle distribution: 
 
 \begin{equation}
 \tilde{SY}(\theta) = \frac{SY \cdot cos^\kappa(\theta)}{\int_0^{2\pi} \! \mathrm{d}\tilde\varphi \,\int_0^{\pi/2} \! cos^\kappa(\tilde\theta) cos(\tilde\theta)\,  \mathrm{d}\tilde\theta} \, = SY /c(\kappa) \cdot cos^\kappa(\theta) ,
 \end{equation}
 
-where the denominator $c(\kappa)$ normalizes the angle distribution function $cos^\kappa(\theta)$ and $SY$ is the total sputter yield from the surface. The parametrization of $H(\theta,\varphi,r,R,L)$ in $\varphi$ is straightforward, as the integration bounds for $\varphi$ are $[-\gamma, \gamma]$ with $\gamma = arcsin(R/r)$ the angle between $r$ and the tangent to the nanowire in figure \ref{anglesredepo} a). To solve the integration over $\theta$ it is useful to express the distance $q$ from the impact point to the base of the nanowire can be expressed as a function of $\rho = R/r, r$ and $\varphi$:
+where the denominator $c(\kappa)$ normalizes the angle distribution function $cos^\kappa(\theta)$ and $SY$ is the total sputter yield from the surface. The parametrization of $H(\theta,\varphi,r,R,L)$ in $\varphi$ is straightforward, as the integration bounds for $\varphi$ are $[-\gamma, \gamma]$ with $\gamma = arcsin(R/r)$ the angle between $r$ and the tangent to the nanowire in figure \ref{anglesredepo}a. To solve the integration over $\theta$ it is useful to express the distance $q$ from the impact point to the base of the nanowire as a function of $\rho = R/r, r$ and $\varphi$:
 
 \begin{equation}
-q(\rho,r,\varphi) = r\cdot \sqrt{1 + \rho^2 - 2sin^2(\varphi) - \sqrt{cos^2(\varphi)(cos(2\varphi) - 1 + 2\rho^2)}},
+q(\rho,r,\varphi) = r\cdot \sqrt{1 + \rho^2 - 2sin^2(\varphi) - \sqrt{cos^2(\varphi)(cos(2\varphi) - 1 + 2\rho^2)}}.
 \end{equation}
 
 \begin{figure}
@@ -71,18 +80,18 @@ q(\rho,r,\varphi) = r\cdot \sqrt{1 + \rho^2 - 2sin^2(\varphi) - \sqrt{cos^2(\var
 	\label{anglesredepo}
 \end{figure} 
 
-to be able to substitute the integration over $\theta$ by an integration over the length of the nanowire $l$. The substitution can be found looking at figure \ref{anglesredepo} b):
+Then the integration over $\theta$ can be substituted by an integration over the length of the nanowire $l$. The substitution can be found looking at figure \ref{anglesredepo}b:
 
 \begin{align*}
 \mathrm{d}\theta &= \frac{sin(\theta)}{\sqrt{L^2 + q^2}}\,\mathrm{d}L\\
-\theta &= arctan(L/q)
+\theta &= arctan(q/L)
 \end{align*}
 
 Inserting into equation \ref{prob1} and simplifying yields:
 
 \begin{equation}
 \label{prob2}
-P = \frac{2\,SY}{c} \int_0^{\gamma} \! \int_{L_1}^{L_2} \!  \frac{l\,q^{\kappa+1}}{(l^2 + q^2)^{(\kappa + 3)/2}} \,\mathrm{d}l \, \mathrm{d}\varphi.
+P = \frac{2\,SY}{c} \int_0^{\gamma} \! \int_{L_1}^{L_2} \!  \frac{l^{\kappa+1}\,q}{(l^2 + q^2)^{(\kappa + 3)/2}} \,\mathrm{d}l \, \mathrm{d}\varphi.
 \end{equation}
 
 With $l^*=L_1-L_2$ the area hit on the nanowire is now $\pi \, R \, l^*$, positioned at the height $L= (L_1+L_2)/2$ as indicated between the two red lines in figure \ref{redeposit}. Integrating the probability $P$ to hit the nanowire at each substrate position over the whole substrate area and normalizing it to the area of the nanowire which is hit yields the number of atoms $N$ hitting the nanowire per fluence $\Phi$:
@@ -90,9 +99,13 @@ With $l^*=L_1-L_2$ the area hit on the nanowire is now $\pi \, R \, l^*$, positi
 \begin{equation}
 \label{prob2}
 N/\Phi = \frac{2\,SY}{c \pi Rl^*} \int_0^{2\pi}\! \mathrm{d}\zeta \int_R^{\infty} \!
-\int_0^{\gamma} \! \int_{L_1}^{L_2} \! r \frac{l\,q^{\kappa+1}}{(l^2 + q^2)^{(\kappa + 3)/2}}\,\,\mathrm{d}l \, \mathrm{d}\varphi\,\mathrm{d}r \, .
+\int_0^{\gamma} \! \int_{L_1}^{L_2} \! r \frac{l^{\kappa+1}\,q}{(l^2 + q^2)^{(\kappa + 3)/2}}\,\,\mathrm{d}l \, \mathrm{d}\varphi\,\mathrm{d}r \, .
 \end{equation}
 
-The integration can be solved numerically using \TODO{numerical tools}. Perhaps counter-intuitively, the result is independent of the nanowire radius $R$ and the height at $L$ at which the deposition is calculated. However, this can be made plausible by looking at figure \ref{anglesredepo}. There is no characteristic radius $R_c$ which would change any of the geometric relations in \ref{anglesredepo}a. Since the integration is over all the $r > R$ and necessarily always starts at $P(R) =1/2$ and goes to $P(r\rightarrow \infty) =0$, its result is independent of $R$. For $L$ it can be argued in figures \ref{anglesredepo}b or \ref{redeposit} that for a fixed $\theta$, $\mathrm{d}L \propto 1/r$ scales as the inverse of the area $\mathrm{d}A \propto r$ of the annulus radiating towards the nanowire under that angle. Therefore the redeposition is constant along the whole nanowire length. 
+The integration can be solved numerically using the numerical integration tools CQUAD and QAGI \cite{gough_gnu_2009}. Perhaps counter-intuitively, the result is independent of the nanowire radius $R$ and the height at $L$ at which the deposition is calculated. The redeposition amounts to $10\,\% \cdot \Phi\cdot SY$ for the very broad distribution when $\kappa = 0.25$. As already shown in figure \ref{sputtering_de}c, the sputter yield (SY) is significantly lower on the plane substrate than on the nanowire to begin with. Therefore, the redeposition can be safely neglected for the evaluation of sputtering. As the atoms sputtered from the substrate have a very low energy, they will be deposited on the surface of the nanowire. This makes them prone to re-sputtering, which reduces the finally incorporated number of substrate atoms even further. Nevertheless, care is advised in the choice of the substrate material, as the incorporation of substrate atoms in the nanowire may have detrimental doping effects.
 
- 
+
+
+% However, this can be made plausible by looking at figure \ref{anglesredepo}. There is no characteristic radius $R_c$ which would change any of the geometric relations in \ref{anglesredepo}a. Since the integration is over all the $r > R$, necessarily always starts at $P(R) =1/2$ and goes to $P(r\rightarrow \infty) =0$, its result is independent of $R$. For $L$ it can be argued in figures \ref{anglesredepo}b or \ref{redeposit} that for a fixed $\theta$, $\mathrm{d}L \propto 1/r$ scales as the inverse of the area $\mathrm{d}A \propto r$ of the annulus radiating towards the nanowire under that angle. Therefore the redeposition is constant along the whole nanowire length. 
+
+\section{Discussion}

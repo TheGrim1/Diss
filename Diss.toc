@@ -2,6 +2,7 @@
 \contentsline {chapter}{\numberline {2}Sputtering of Nanowires}{2}
 \contentsline {section}{\numberline {2.1}First results in $Mn$ irradiated $GaAs$}{2}
 \contentsline {section}{\numberline {2.2}Simulation results}{2}
-\contentsline {section}{\numberline {2.3}$Si$ nanowire sputtering by $Ar^+$ irradiation}{3}
-\contentsline {section}{\numberline {2.4}Redeposition}{3}
-\contentsline {chapter}{\numberline {3}Summary and Outlook}{8}
+\contentsline {section}{\numberline {2.3}$Si$ nanowire sputtering by $Ar^+$ irradiation}{4}
+\contentsline {section}{\numberline {2.4}Redeposition}{5}
+\contentsline {section}{\numberline {2.5}Discussion}{9}
+\contentsline {chapter}{\numberline {3}Summary and Outlook}{10}
