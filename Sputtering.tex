@@ -1,6 +1,6 @@
 \chapter{Sputtering of Nanowires}
 
-This chapter will investigate the sputtering of nanowires. The experiments were conducted together with Stefan Noack and are partially published in his master thesis \cite{noack_sputter_2014} and in Nano Letters \cite{}.
+This chapter will investigate the sputtering of nanowires. The experiments were conducted together with Stefan Noack and are partially published in his master thesis \cite{noack_sputter_2014} and in Nano Letters \cite{johannes_anomalous_2015}.
 
 \section{First results in $Mn$ irradiated $GaAs$}
 
@@ -10,7 +10,7 @@ Introduction by Mn in GaAs (JPhysD)
 \section{Simulation results}
 \label{sec:simsputering}
 
-A good understanding of the sputtering of nanowires can be gained by looking at MC simulations results performed with \emph{iradina}. From the discussion of the Sigmund sputter model in chapter \ref{sec:ionsolid} a maximum is expected for a certain ion, ion energy and nanowire diameter combination. This is confirmed by MC simulations shown in figure \ref{sputtering_de}a \ref{sputtering_de}b for the examples of $Xe^+$ and $Ar^+$ ions, respectively, irradiating a nanowire at an angle of $45^\circ$ to the nanowire. Note that the color profile is not identical as sputtering is about a factor of $2,5\times$ larger for the denser collision cascades in $Xe$.
+A good understanding of the sputtering of nanowires can be gained by looking at MC simulations results performed with \emph{iradina}. From the discussion of the Sigmund sputter model in chapter \ref{sec:ionsolid} a maximum is expected for a certain ion, ion energy and nanowire diameter combination. This is confirmed by MC simulations shown in figure \ref{sputtering_de}a and \ref{sputtering_de}b for the examples of $Xe^+$ and $Ar^+$ ions, respectively, irradiating a nanowire at an angle of $45^\circ$ to the nanowire. Note that the color profile is not identical as sputtering is about a factor of $2,5\times$ larger for the denser collision cascades caused by the heavier $Xe$.
 
 \begin{figure}[th]
 	\centering
@@ -19,26 +19,9 @@ A good understanding of the sputtering of nanowires can be gained by looking at 
 	\label{sputtering_de}
 \end{figure} 
 
-For both irradiations a black line indicates the ion range calculated with SRIM and projected on to $45^\circ$. The maximum of the sputtering correlates very well with the ion range. This can also be seen in \ref{sputtering_de}c, where the sputter yield versus energy plot is extracted from the $Xe^+$ irradiation for a fixed diameter. The red, blue and black curves correspond to the irradiation of $25, 50$ and $100\,nm$ diameter wires, respectively. The maximum clearly shifts to larger ion energies for larger diameters and is found near the indicated ion range simulated by SRIM. The magenta curve shows the energy dependent sputter yield for a flat $Si$ surface irradiated with $Xe^+$ ions at $45^\circ$, and simulated with identical parameters in \emph{iradina}. The global maximum sputter yield is found at $\approx 100 \,keV$ and $30\,nm$. \TODO{ - surface maximum}
+For both irradiations a black line indicates the ion range calculated with SRIM and projected on to $45^\circ$. The maximum of the sputtering correlates very well with the ion range. This can also be seen in \ref{sputtering_de}c, where the sputter yield versus energy plot is extracted from the $Xe^+$ irradiation for a fixed diameter. Here the red, blue and black curves correspond to the irradiation of $25, 50$ and $100\,nm$ diameter wires, respectively. The maximum clearly shifts to larger ion energies for larger diameters and is found near the indicated ion range simulated by SRIM. The magenta curve shows the energy dependent sputter yield for a flat $Si$ surface irradiated with $Xe^+$ ions at $45^\circ$, and simulated with identical parameters in \emph{iradina}. The global maximum sputter yield is found at $\approx 100 \,keV$ and $30\,nm$. \TODO{ - surface maximum}
 
-For Sigmund sputtering model with its Gaussian ellipsoid approximation of the damage profile, a Gaussian peak is fitted to the recoil profile simulated with SRIM for both ions in $Si$ \cite{bobes_ion_2012}. The so found mean damage depth is constantly around $0,7\times$ as less than ion range for the whole energy range investigated here. A naive first approximation with the Sigmund sputtering model would predict that the sputtering is maximal where the depth of the damage and the radius of the irradiated nanowire coincide. However, this is only true for central impacts, while the simulated situation is an average over all impact parameters. For non-central impacts there is less of the nanowire `in front' of the ion's path. Therefore, the maximum of the sputter yield is also at lower energies, than it would be for solely central impacts. That ion range is an even better predictor for maximum sputtering than the Gaussian fit to the damage distribution is thus a coincidental consequence of the irradiation geometry. To test the limits of the Sigmund model, a more thorough investigation of the Sigmund model's predictions for various irradiation scenarios may be interesting, however, since the MD simulations reproduce the reality more realistically anyhow, it will not be undertaken here.
-
-
-\section{$Si$ nanowire sputtering by $Ar^+$ irradiation}
-\label{sec:sisputtering}
-
-The experimental verification of the diameter dependent maximum in sputtering was investigated on etched $Si$-nanowire arrays. Figure \ref{Sisputtering}a shows the principle irradiation setup illustrated by a SEM image of a single nanowire before and after the irradiation with $300\,keV\,Ar^+$. The etched nanowire samples and the RHT allowed the simultaneous, rotated irradiation of many upstanding nanowires at $300\,^\circ C$. Figure \ref{Sisputtering}b shows the extracted and aligned diameter versus height profile for the nanowire in figure \ref{Sisputtering}a. More than $100$ such profiles were semi-automatically extracted for many different nanowire diameters. The sputter yield calculated from these extracted profiles is plotted versus the local diameter in \ref{Sisputtering}c for $100$ and $300\,keV\,Ar^+$.
-
-\begin{figure}[th]
-	\centering
-		\includegraphics[width=.95\textwidth]{images/sputter_exp.png}
-	\caption{a) Exemplary SEM images of a $Si$ nanowire before and after the rotated irradiation with $300\,keV\,Ar^+$ at $300^\circ C$. The extracted diameter vs. height profile for this nanowire is shown in b). From many such profiles the sputter yield vs. diameter was calculated and plotted in c) as black triangles and red squares for the irradiation with $100$ and $300\,keV\,Ar^+$, respectively. The sputter yield calculated with \emph{iradina} simulations is show for either case as a line-plot. The corresponding SRIM ion range at $45^\circ$ is marked by a vertical line.} 
-	\label{sputtering_exp}
-\end{figure} 
-
-
-The nanowires were irradiated rotated at an angle of $45^\circ$ to the ion beam of $Ar^+$ at $100$ and $300\,keV$.  
-
+For Sigmund sputtering model with its Gaussian ellipsoid approximation of the damage profile, a Gaussian peak is fitted to the recoil profile simulated with SRIM for both ions in $Si$ \cite{bobes_ion_2012}. The so found mean damage depth is constantly around $0.7$ times the ion range for the whole energy range investigated here. A naive first approximation with the Sigmund sputtering model would predict that the sputtering is maximal where the depth of the damage and the radius of the irradiated nanowire coincide. However, this is only true for central impacts, while the simulated situation is an average over all ion-nanowire impact parameters. For non-central impacts there is less of the nanowire `in front' of the ion's path. Therefore, the maximum of the sputter yield is also at lower energies than it would be for solely central impacts. It is thus a coincidental consequence of the irradiation geometry that ion range is an even better predictor for the diameter of maximum sputtering than the center of the Gaussian fit to the damage distribution. To test the limits of the Sigmund model, a more thorough investigation of the Sigmund model's predictions for various irradiation scenarios may be interesting, however, since the MD simulations reproduce the reality more realistically anyhow, it will not be undertaken here.
 
 
 
@@ -83,8 +66,8 @@ q(\rho,r,\varphi) = r\cdot \sqrt{1 + \rho^2 - 2sin^2(\varphi) - \sqrt{cos^2(\var
 Then the integration over $\theta$ can be substituted by an integration over the length of the nanowire $l$. The substitution can be found looking at figure \ref{anglesredepo}b:
 
 \begin{align*}
-\mathrm{d}\theta &= \frac{sin(\theta)}{\sqrt{L^2 + q^2}}\,\mathrm{d}L\\
-\theta &= arctan(q/L)
+\mathrm{d}\theta &= \frac{sin(\theta)}{\sqrt{L^2 + q^2}}\,\mathrm{d}L,\\
+\theta &= arctan(q/L).
 \end{align*}
 
 Inserting into equation \ref{prob1} and simplifying yields:
@@ -99,7 +82,7 @@ With $l^*=L_1-L_2$ the area hit on the nanowire is now $\pi \, R \, l^*$, positi
 \begin{equation}
 \label{prob2}
 N/\Phi = \frac{2\,SY}{c \pi Rl^*} \int_0^{2\pi}\! \mathrm{d}\zeta \int_R^{\infty} \!
-\int_0^{\gamma} \! \int_{L_1}^{L_2} \! r \frac{l^{\kappa+1}\,q}{(l^2 + q^2)^{(\kappa + 3)/2}}\,\,\mathrm{d}l \, \mathrm{d}\varphi\,\mathrm{d}r \, .
+\int_0^{\gamma} \! \int_{L_1}^{L_2} \! r \frac{l^{\kappa+1}\,q}{(l^2 + q^2)^{(\kappa + 3)/2}}\,\,\mathrm{d}l \, \mathrm{d}\varphi\,\mathrm{d}r.
 \end{equation}
 
 The integration can be solved numerically using the numerical integration tools CQUAD and QAGI \cite{gough_gnu_2009}. Perhaps counter-intuitively, the result is independent of the nanowire radius $R$ and the height at $L$ at which the deposition is calculated. The redeposition amounts to $10\,\% \cdot \Phi\cdot SY$ for the very broad distribution when $\kappa = 0.25$. As already shown in figure \ref{sputtering_de}c, the sputter yield (SY) is significantly lower on the plane substrate than on the nanowire to begin with. Therefore, the redeposition can be safely neglected for the evaluation of sputtering. As the atoms sputtered from the substrate have a very low energy, they will be deposited on the surface of the nanowire. This makes them prone to re-sputtering, which reduces the finally incorporated number of substrate atoms even further. Nevertheless, care is advised in the choice of the substrate material, as the incorporation of substrate atoms in the nanowire may have detrimental doping effects.
@@ -107,5 +90,29 @@ The integration can be solved numerically using the numerical integration tools 
 
 
 % However, this can be made plausible by looking at figure \ref{anglesredepo}. There is no characteristic radius $R_c$ which would change any of the geometric relations in \ref{anglesredepo}a. Since the integration is over all the $r > R$, necessarily always starts at $P(R) =1/2$ and goes to $P(r\rightarrow \infty) =0$, its result is independent of $R$. For $L$ it can be argued in figures \ref{anglesredepo}b or \ref{redeposit} that for a fixed $\theta$, $\mathrm{d}L \propto 1/r$ scales as the inverse of the area $\mathrm{d}A \propto r$ of the annulus radiating towards the nanowire under that angle. Therefore the redeposition is constant along the whole nanowire length. 
+
+
+
+
+\section{$Si$ nanowire sputtering by $Ar^+$ irradiation}
+\label{sec:sisputtering}
+
+The experimental verification of the diameter dependent maximum in sputtering was investigated on etched $Si$-nanowire arrays. Figure \ref{sputtering_exp}a shows the principle irradiation setup illustrated by a SEM image of a single nanowire before and after the irradiation with $300\,keV\,Ar^+$. The etched nanowire samples and the RHT allowed the simultaneous, rotated irradiation of upstanding nanowires with various diameters at $300\,^\circ C$. Figure \ref{sputtering_exp}b shows the extracted and aligned diameter versus height profile for the nanowire in figure \ref{sputtering_exp}a. More than $100$ such profiles were semi-automatically extracted for many different nanowire diameters. The sputter yield calculated from these extracted profiles is plotted versus the local diameter in \ref{sputtering_exp}c for $100$ and $300\,keV\,Ar^+$.
+
+\begin{figure}[th]
+	\centering
+		\includegraphics[width=.95\textwidth]{images/sputter_exp.png}
+	\caption{a) Exemplary SEM images of a $Si$ nanowire before and after the rotated irradiation with $300\,keV\,Ar^+$ at $300^\circ C$. The extracted diameter vs. height profile for this nanowire is shown in b). From many such profiles the sputter yield vs. diameter was calculated and plotted in c) as black triangles and red squares for the irradiation with $100$ and $300\,keV\,Ar^+$, respectively. The `error bars' indicate the variance of the data points grouped together every $10\,nm$. The sputter yield calculated with \emph{iradina} simulations is show for either case as a line-plot. The corresponding SRIM ion range at $45^\circ$ is marked by a vertical line.} 
+	\label{sputtering_exp}
+\end{figure} 
+
+The experimental sputter yield reproduces the qualitative, simulated diameter dependence of the sputter yield well. The maximum sputtering is found for those nanowire diameters where the diameter corresponds to the ion range, just as discussed in chapter \ref{sec:simsputering} and the Sigmund sputtering model in chapter \ref{sec:ionsolid}. The interruptions and discontinuities for diameters $<50\,nm$, at $\approx 200\,nm$, $\approx 300\,nm$ and $\approx 500\,nm$ are located where the diameter range of an array of nanowires on the irradiated substrate ended. Here, there are fewer (none for 100\,keV and $\approx 200 - 300\,nm$) nanowires which could be evaluated.
+
+The large variance indicated in figure \ref{sputtering_exp}c as `error-bars' can be attributed to the fact that the observed diameter changes of around $5\,nm$ are close to the resolution limit of the SEM at $2\,nm$. Therefore, the observation of a sensible sputter yield value is only possible with the large number, $>1000$, of diameters evaluated. Nevertheless, sputter yields around 0, as found in the experimental values at $400\,nm$ are not realistic. They have to be attributed to misalignment and remaining focal plane, brightness and contrast differences between the SEM images before and after irradiation which could not be corrected in the image analysis. Because of these systematic deviations, the variance is a more useful estimation at the accuracy of the experimentally determined sputter yield than the more usual standard deviation which would underestimate the experimental error considerably.
+
+The quantitative discrepancy between the simulated sputter yield and the experimental values is not unexpected. To start with, the the quantitative value from the \emph{iradina} simulation was discussion in chapter \ref{sec:simion} to be questionable. Nevertheless, the main contribution to a systematic deviation in the experimentally evaluated sputter yields is the oxidation of the $Si$ nanowires in air between the subsequent irradiation and SEM investigation steps. The thickness of oxidized $Si$ on the surface of the nanowires is significant but dependent on uncontrolled factors such as humidity and temperature \cite{lukes_oxidation_1972,al-bayati_composition_1991}. As all the oxygen in the oxidized layer of the nanowires also has to be sputtered away, the experimental procedure will underestimate the sputter yield.
+
+Finally, the fact that the experimentally observed sputter yield has its maximum at slightly lower diameters than the simulated values for both the $100\,keV$ and $300\,keV$ irradiations may indicate the occurrence of cluster and thermal sputtering. Both have been predicted with MD simulations \cite{nietiadi_sputtering_2014,urbassek_sputter_2015,anders_sputtering_2015}, albeit in nanostructures with much smaller dimensions. As the kinetic energy of the ion is, on average, distributed to less material in nanowires with smaller diameters, both cluster and thermal sputtering are larger for smaller nanowire diameters.
+
 
 \section{Discussion}

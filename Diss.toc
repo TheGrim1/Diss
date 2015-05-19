@@ -1,8 +1,41 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Sputtering of Nanowires}{2}
-\contentsline {section}{\numberline {2.1}First results in $Mn$ irradiated $GaAs$}{2}
-\contentsline {section}{\numberline {2.2}Simulation results}{2}
-\contentsline {section}{\numberline {2.3}$Si$ nanowire sputtering by $Ar^+$ irradiation}{4}
-\contentsline {section}{\numberline {2.4}Redeposition}{5}
-\contentsline {section}{\numberline {2.5}Discussion}{9}
-\contentsline {chapter}{\numberline {3}Summary and Outlook}{10}
+\contentsline {chapter}{\numberline {2}Background}{7}
+\contentsline {section}{\numberline {2.1}Ion-solid interaction}{7}
+\contentsline {subsubsection}{\nonumberline Energy loss}{7}
+\contentsline {subsubsection}{\nonumberline Discussion of electronic energy loss}{10}
+\contentsline {subsubsection}{\nonumberline Discussion of nuclear energy loss}{11}
+\contentsline {subsubsection}{\nonumberline Sigmund theory of sputtering}{13}
+\contentsline {section}{\numberline {2.2}Simulation of ion-solid interaction}{16}
+\contentsline {subsubsection}{\nonumberline Monte-Carlo and the binary collision approximation}{17}
+\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{21}
+\contentsline {subsubsection}{\nonumberline Relevant simulations in literature}{22}
+\contentsline {chapter}{\numberline {3}Experimental Methods}{23}
+\contentsline {section}{\numberline {3.1}Nanowire synthesis}{23}
+\contentsline {section}{\numberline {3.2}Modification}{25}
+\contentsline {subsubsection}{\nonumberline ROMEO}{25}
+\contentsline {subsubsection}{\nonumberline Focussed ion beam - FIB}{26}
+\contentsline {section}{\numberline {3.3}Characterization}{26}
+\contentsline {subsubsection}{\nonumberline Scanning Electron Microscope - SEM}{26}
+\contentsline {subsubsection}{\nonumberline Electron Back-Scatter Diffraction -EBSD}{27}
+\contentsline {subsubsection}{\nonumberline nano-XRF}{28}
+\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{29}
+\contentsline {chapter}{\numberline {4}Sputtering of Nanowires}{31}
+\contentsline {section}{\numberline {4.1}First results in $Mn$ irradiated $GaAs$}{31}
+\contentsline {section}{\numberline {4.2}Simulation results}{31}
+\contentsline {section}{\numberline {4.3}Redeposition}{33}
+\contentsline {section}{\numberline {4.4}$Si$ nanowire sputtering by $Ar^+$ irradiation}{37}
+\contentsline {section}{\numberline {4.5}Discussion}{39}
+\contentsline {chapter}{\numberline {5}High Doping Concentrations in Nanowires}{40}
+\contentsline {section}{\numberline {5.1}Doping and Sputtering}{40}
+\contentsline {section}{\numberline {5.2}Pseudo-dynamic simulation}{40}
+\contentsline {section}{\numberline {5.3}Results from optimal irradiation conditions}{40}
+\contentsline {section}{\numberline {5.4}Discussion of relevant effects}{40}
+\contentsline {subsubsection}{\nonumberline Discussion}{40}
+\contentsline {chapter}{\numberline {6}Plastic Flow in Silicon Nanowires}{41}
+\contentsline {section}{\numberline {6.1}Discovery}{41}
+\contentsline {section}{\numberline {6.2}Quantification of the Deformation}{42}
+\contentsline {section}{\numberline {6.3}Knock-on transport of mass}{44}
+\contentsline {section}{\numberline {6.4}Irradiation at large angles of incidence}{47}
+\contentsline {section}{\numberline {6.5}The deformation mechanism}{55}
+\contentsline {subsubsection}{\nonumberline Discussion}{57}
+\contentsline {chapter}{\numberline {7}Summary and Outlook}{58}
