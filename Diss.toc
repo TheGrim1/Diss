@@ -1,13 +1,8 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Sputtering of Nanowires}{2}
-\contentsline {section}{\numberline {2.1}Simulation results}{2}
-\contentsline {section}{\numberline {2.2}Redeposition}{5}
-\contentsline {section}{\numberline {2.3}$Si$ nanowire sputtering by $Ar^+$ irradiation}{8}
-\contentsline {section}{\numberline {2.4}Summary}{11}
-\contentsline {chapter}{\numberline {3}High Doping Concentrations in Nanowires}{14}
-\contentsline {section}{\numberline {3.1}Doping and Sputtering}{14}
-\contentsline {section}{\numberline {3.2}Pseudo-dynamic simulation}{14}
-\contentsline {section}{\numberline {3.3}Results from optimal irradiation conditions}{14}
-\contentsline {section}{\numberline {3.4}Discussion of relevant effects}{14}
-\contentsline {subsubsection}{\nonumberline Discussion}{14}
-\contentsline {chapter}{\numberline {4}Summary and Outlook}{15}
+\contentsline {chapter}{\numberline {2}High Doping Concentrations in Nanowires}{2}
+\contentsline {section}{\numberline {2.1}Doping and Sputtering}{2}
+\contentsline {section}{\numberline {2.2}Pseudo-dynamic simulation}{4}
+\contentsline {section}{\numberline {2.3}Results from optimal irradiation conditions}{5}
+\contentsline {section}{\numberline {2.4}Discussion of relevant effects}{5}
+\contentsline {subsubsection}{\nonumberline Discussion}{5}
+\contentsline {chapter}{\numberline {3}Summary and Outlook}{6}
