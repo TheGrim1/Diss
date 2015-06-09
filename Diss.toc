@@ -1,27 +1,8 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Background}{2}
-\contentsline {section}{\numberline {2.1}Ion-solid interaction}{2}
-\contentsline {subsubsection}{\nonumberline Electronic Energy loss}{2}
-\contentsline {subsubsection}{\nonumberline Nuclear energy loss}{5}
-\contentsline {subsubsection}{\nonumberline The binary collision approximation}{7}
-\contentsline {subsubsection}{\nonumberline Sigmund theory of sputtering}{8}
-\contentsline {section}{\numberline {2.2}Simulation of ion-solid interaction}{11}
-\contentsline {subsubsection}{\nonumberline Monte-Carlo simulations}{12}
-\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{16}
-\contentsline {subsubsection}{\nonumberline Relevant simulations in literature}{17}
-\contentsline {chapter}{\numberline {3}Experimental Methods}{19}
-\contentsline {section}{\numberline {3.1}Nanowire synthesis}{19}
-\contentsline {section}{\numberline {3.2}Modification}{21}
-\contentsline {subsubsection}{\nonumberline ROMEO}{21}
-\contentsline {subsubsection}{\nonumberline Focused ion beam - FIB}{22}
-\contentsline {section}{\numberline {3.3}Characterization}{23}
-\contentsline {subsubsection}{\nonumberline Scanning Electron Microscope - SEM}{23}
-\contentsline {subsubsection}{\nonumberline Electron Back-Scatter Diffraction -EBSD}{24}
-\contentsline {subsubsection}{\nonumberline nano-XRF}{24}
-\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{26}
-\contentsline {chapter}{\numberline {4}Sputtering of Nanowires}{28}
-\contentsline {section}{\numberline {4.1}Simulation results}{28}
-\contentsline {section}{\numberline {4.2}Redeposition}{31}
-\contentsline {section}{\numberline {4.3}Si nanowire sputtering by Ar$^+$ irradiation}{34}
-\contentsline {section}{\numberline {4.4}Summary}{38}
-\contentsline {chapter}{\numberline {5}Summary and Outlook}{40}
+\contentsline {chapter}{\numberline {2}High Doping Concentrations in Nanowires}{2}
+\contentsline {section}{\numberline {2.1}Doping and Sputtering}{2}
+\contentsline {section}{\numberline {2.2}nano-XRF on single nanowires}{5}
+\contentsline {section}{\numberline {2.3}Pseudo-dynamic simulation}{7}
+\contentsline {section}{\numberline {2.4}Discussion of relevant effects}{7}
+\contentsline {subsubsection}{\nonumberline Summarizing Discussion}{7}
+\contentsline {chapter}{\numberline {3}Summary and Outlook}{10}

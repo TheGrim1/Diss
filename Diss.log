@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  3 JUN 2015 14:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  9 JUN 2015 14:48
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -504,196 +504,46 @@ LaTeX Info: Redefining \selectfont on input line 126.
 
 ]
 Chapter 1.
-("C:\Talks and Posters\2015-xx-Diss\Diss\Methods.tex" [1
+("C:\Talks and Posters\2015-xx-Diss\Diss\high.tex" [1
 
 ]
 Chapter 2.
 [2
 
-] <images/StoppinginAuandC.png, id=26, 2143.00626pt x 807.015pt>
-File: images/StoppinginAuandC.png Graphic file (type png)
- <use images/StoppinginAuandC.png>
-Package pdftex.def Info: images/StoppinginAuandC.png used on input line 21.
-(pdftex.def)             Requested size: 364.31117pt x 137.19073pt.
- [3 <C:/Talks and Posters/2015-xx-Diss/Diss/images/StoppinginAuandC.png>] [4] [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-<images/SiSicollision.png, id=47, 1632.0975pt x 825.0825pt>
-File: images/SiSicollision.png Graphic file (type png)
- <use images/SiSicollision.png>
-Package pdftex.def Info: images/SiSicollision.png used on input line 60.
-(pdftex.def)             Requested size: 275.99178pt x 139.51936pt.
+] <images/iradinacrosssection.png, id=27, 1423.3175pt x 738.76pt>
+File: images/iradinacrosssection.png Graphic file (type png)
+ <use images/iradinacrosssection.png>
+Package pdftex.def Info: images/iradinacrosssection.png used on input line 12.
+(pdftex.def)             Requested size: 294.39235pt x 152.79948pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7] [8 <C:/Talks and Posters/2015-xx-Diss/Diss/images/SiSicollision.png>] <images/anglesigmund.jpg, id=55, 880.28876pt 
-x 1299.85625pt>
-File: images/anglesigmund.jpg Graphic file (type jpg)
- <use images/anglesigmund.jpg>
-Package pdftex.def Info: images/anglesigmund.jpg used on input line 75.
-(pdftex.def)             Requested size: 165.59393pt x 244.51581pt.
+ [3 <C:/Talks and Posters/2015-xx-Diss/Diss/images/iradinacrosssection.png>]
 
-[9]
-Underfull \vbox (badness 1831) has occurred while \output is active []
+LaTeX Warning: Reference `ZnOwires' on page 4 undefined on input line 24.
 
- [10 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesigmund.jpg>] <images/radiussigmund.jpg, id=63, 790.955pt x 963
-.6pt>
-File: images/radiussigmund.jpg Graphic file (type jpg)
- <use images/radiussigmund.jpg>
-Package pdftex.def Info: images/radiussigmund.jpg used on input line 88.
-(pdftex.def)             Requested size: 147.19336pt x 179.32185pt.
+<images/largeXRF.png, id=37, 1451.4225pt x 1301.86375pt>
+File: images/largeXRF.png Graphic file (type png)
+ <use images/largeXRF.png>
+Package pdftex.def Info: images/largeXRF.png used on input line 28.
+(pdftex.def)             Requested size: 257.5912pt x 231.04767pt.
+ [4] [5] [6]
 
-Underfull \hbox (badness 7168) in paragraph at lines 91--91
-[] []|\OT1/cmr/m/n/10.95 Illustration of the Sig-mund
+LaTeX Warning: Reference `sec:simsputering' on page 7 undefined on input line 39.
+
+
+Overfull \hbox (2.52377pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/12 with re-sults from many static sim-u-la-tions for vary-ing di-am-e-ters, a pseudo-
  []
 
-[11 <C:/Talks and Posters/2015-xx-Diss/Diss/images/radiussigmund.jpg>]
-Overfull \hbox (0.91725pt too wide) in paragraph at lines 104--105
-\OT1/cmr/m/n/12 tar-gets are TRI-DYN [[]], SDTrimSP [[]], cor-teo [[]], COS-
- []
-
-[12] [13] [14] [15] <images/voxel.jpg, id=79, 1148.29pt x 645.41125pt>
-File: images/voxel.jpg Graphic file (type jpg)
- <use images/voxel.jpg>
-Package pdftex.def Info: images/voxel.jpg used on input line 119.
-(pdftex.def)             Requested size: 183.99452pt x 103.41563pt.
- [16 <C:/Talks and Posters/2015-xx-Diss/Diss/images/voxel.jpg>] [17] [18]
+<images/sputterincorporate.png, id=48, 1613.02625pt x 877.2775pt>
+File: images/sputterincorporate.png Graphic file (type png)
+ <use images/sputterincorporate.png>
+Package pdftex.def Info: images/sputterincorporate.png used on input line 43.
+(pdftex.def)             Requested size: 312.79292pt x 170.11131pt.
+) [7] [8 <C:/Talks and Posters/2015-xx-Diss/Diss/images/largeXRF.png>] [9 <C:/Talks and Posters/2015-xx-Diss/Diss/images
+/sputterincorporate.png>]
 Chapter 3.
-[19
-
-] <images/SEMarray.jpg, id=94, 1445.4pt x 742.775pt>
-File: images/SEMarray.jpg Graphic file (type jpg)
- <use images/SEMarray.jpg>
-Package pdftex.def Info: images/SEMarray.jpg used on input line 155.
-(pdftex.def)             Requested size: 183.99452pt x 94.5467pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
-[] []|\OT1/cmr/m/n/10.95 SEM im-ages of the
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 158--158
-\OT1/cmr/m/n/10.95 un-der each ar-ray in-di-cate the
- []
-
-[20 <C:/Talks and Posters/2015-xx-Diss/Diss/images/SEMarray.jpg>] <images/RHT.png, id=98, 607.26875pt x 408.52625pt>
-File: images/RHT.png Graphic file (type png)
-
-<use images/RHT.png>
-Package pdftex.def Info: images/RHT.png used on input line 176.
-(pdftex.def)             Requested size: 183.99452pt x 123.77437pt.
-
-Underfull \hbox (badness 1742) in paragraph at lines 179--179
-[] []|\OT1/cmr/m/n/10.95 Illustration of the ro-
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `sec:quantifydeformation' on page 21 undefined on input line 181.
-
-
-LaTeX Warning: Reference `sec:high' on page 21 undefined on input line 181.
-
-[21] [22 <C:/Talks and Posters/2015-xx-Diss/Diss/images/RHT.png>] [23] [24]
-Overfull \hbox (3.49048pt too wide) in paragraph at lines 207--208
-\OT1/cmr/m/n/12 mea-sured at the Eu-ro-pean Syn-chrotron Ra-di-a-tion Fa-cil-ity (ERSF), beam-
- []
-
-[25]
-Underfull \vbox (badness 1715) has occurred while \output is active []
-
- [26])
-("C:\Talks and Posters\2015-xx-Diss\Diss\Sputtering.tex" [27]
-Chapter 4.
-<images/sputtering_diameter_energy.png, id=123, 750.1626pt x 509.9853pt>
-File: images/sputtering_diameter_energy.png Graphic file (type png)
- <use images/sputtering_diameter_energy.png>
-Package pdftex.def Info: images/sputtering_diameter_energy.png used on input line 17.
-(pdftex.def)             Requested size: 331.18788pt x 225.14905pt.
-
-[28
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputtering_diameter_energy.png>] [30] <images/redeposit.jpg, id=135,
- 788.9475pt x 782.925pt>
-File: images/redeposit.jpg Graphic file (type jpg)
- <use images/redeposit.jpg>
-Package pdftex.def Info: images/redeposit.jpg used on input line 37.
-(pdftex.def)             Requested size: 147.19336pt x 146.06934pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-\OT1/cmr/m/n/10.95 re-de-po-si-tion of sput-tered
- []
-
-
-Underfull \hbox (badness 3919) in paragraph at lines 40--40
-\OT1/cmr/m/n/10.95 point \OT1/cmr/m/it/10.95 A \OT1/cmr/m/n/10.95 onto the nano-
- []
-
-
-Underfull \hbox (badness 1577) in paragraph at lines 40--40
-\OT1/cmr/m/n/10.95 wire with ra-dius \OT1/cmr/m/it/10.95 R \OT1/cmr/m/n/10.95 at a
- []
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 40--40
-\OT1/cmr/m/n/10.95 ro-tated around its axis $\OML/cmm/m/it/10.95 $
- []
-
-
-Underfull \hbox (badness 7116) in paragraph at lines 40--40
-\OT1/cmr/m/n/10.95 ir-ra-di-ated, a ro-ta-tion-ally
- []
-
-
-Underfull \hbox (badness 4181) in paragraph at lines 40--40
-\OT1/cmr/m/n/10.95 sym-met-ric an-gle dis-tri-bu-
- []
-
-[31 <C:/Talks and Posters/2015-xx-Diss/Diss/images/redeposit.jpg>]
-<images/anglesredeposition.jpg, id=139, 1187.43625pt x 512.91624pt>
-File: images/anglesredeposition.jpg Graphic file (type jpg)
- <use images/anglesredeposition.jpg>
-Package pdftex.def Info: images/anglesredeposition.jpg used on input line 65.
-(pdftex.def)             Requested size: 239.19063pt x 103.31711pt.
-
-Underfull \vbox (badness 6493) has occurred while \output is active []
-
- [32]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesredeposition.jpg>] [34] <images/sputter_exp.png, id=150, 1579.
-9025pt x 807.015pt>
-File: images/sputter_exp.png Graphic file (type png)
- <use images/sputter_exp.png>
-Package pdftex.def Info: images/sputter_exp.png used on input line 109.
-(pdftex.def)             Requested size: 349.58846pt x 178.5659pt.
-
-[35 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputter_exp.png>]
-<images/EBSD.jpg, id=155, 933.4875pt x 1069.9975pt>
-File: images/EBSD.jpg Graphic file (type jpg)
- <use images/EBSD.jpg>
-Package pdftex.def Info: images/EBSD.jpg used on input line 124.
-(pdftex.def)             Requested size: 110.39783pt x 126.5329pt.
- [36]
-Overfull \hbox (1.64925pt too wide) in paragraph at lines 137--138
-\OT1/cmr/m/n/12 per-i-ments. MC sim-u-la-tions were per-formed with \OT1/cmr/m/it/12 irad-ina \OT1/cmr/m/n/12 for $\OML/
-cmm/m/it/12 Si$\OT1/cmr/m/n/12 -nanowires
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37 <C:/Talks and Posters/2015-xx-Diss/Diss/images/EBSD.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [38]) [39]
-Chapter 5.
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl"
 Overfull \hbox (9.35213pt too wide) in paragraph at lines 73--2
 []\OT1/cmr/m/it/20.74 check: Mas-ter The-sis Noack, Ogrisek, Con-
@@ -704,191 +554,38 @@ Overfull \hbox (21.0183pt too wide) in paragraph at lines 73--2
 \OT1/cmr/m/it/20.74 fer-ence pro-ced-ing D. Sage, Ruther-ford, Nord-
  []
 
-[40
+[10
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 25--30
-\OT1/cmr/m/n/12 Ex-per-i-men-tal In-ves-ti-ga-tion of Charge-Dependent
- []
+] [11
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--30
-\OT1/cmr/m/n/12 De-vi-a-tions from Bethe Stop-ping Power For-
- []
-
-
-Underfull \hbox (badness 1281) in paragraph at lines 25--30
-\OT1/cmr/m/n/12 mula.  \OT1/cmr/m/it/12 Nu-clear Physics A\OT1/cmr/m/n/12 , A125(1):171--&, 1969.
- []
-
-[41
-
-]
-Underfull \hbox (badness 1152) in paragraph at lines 56--64
-\OT1/cmr/m/n/12 Sandeep Ku-mar, Kil-ian Mer-gen-thaler, Knut Dep-
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 56--64
-\OT1/cmr/m/n/12 pert, Carlo M. Canali, Hakan Pet-ters-son, Lars
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--64
-\OT1/cmr/m/n/12 to-ward Semi-con-duc-tor Nanospin-tron-ics: Highly
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--64
-\OT1/cmr/m/n/12 Mn-Doped GaAs Nano-wires Re-al-ized by Ion-
- []
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 56--64
-\OT1/cmr/m/it/12 Nano Let-ters\OT1/cmr/m/n/12 , 11(9):3935--3940, Septem-ber 2011.
- []
-
-[42]
-Underfull \hbox (badness 2012) in paragraph at lines 73--80
-[]\OT1/cmr/m/n/12 Ivan Bizyukov, An-dreas Mutzke, Ralf Schnei-der,
- []
-
-
-Underfull \hbox (badness 4024) in paragraph at lines 95--100
-\OT1/cmr/m/n/12 Arne Bochmann, Silke H. Chris-tiansen, San-dor
- []
-
-
-Underfull \hbox (badness 1655) in paragraph at lines 95--100
-\OT1/cmr/m/n/12 Ni-et-zsche, Michael Oer-tel, and Carsten Ron-ning.
- []
-
-
-Underfull \hbox (badness 1436) in paragraph at lines 95--100
-\OT1/cmr/m/n/12 Per-ma-nent bend-ing and align-ment of ZnO nano-
- []
-
-[43]
-Underfull \hbox (badness 1701) in paragraph at lines 142--148
-\OT1/cmr/m/n/12 Sput-ter-ing and Re-flec-tion Data.  \OT1/cmr/m/it/12 Zeitschrift Fur
- []
-
-[44] [45]
-Underfull \hbox (badness 1527) in paragraph at lines 202--207
-[]\OT1/cmr/m/n/12 Andreas Jo-hannes, Ste-fan Noack, Werner Wesch,
- []
-
-[46]
-Underfull \hbox (badness 1502) in paragraph at lines 256--261
-\OT1/cmr/m/it/12 Nu-clear In-stru-ments and Meth-ods in Physics Re-
- []
-
-
-Underfull \hbox (badness 1609) in paragraph at lines 263--267
-\OT1/cmr/m/it/12 Sec-tion B: Beam In-ter-ac-tions with Ma-te-ri-als and
- []
-
-[47] [48]
-Underfull \hbox (badness 1527) in paragraph at lines 323--326
-[]\OT1/cmr/m/n/12 Maureen L. Ni-etiadi, Luis San-doval, Her-bert M.
- []
-
-
-Underfull \hbox (badness 2020) in paragraph at lines 328--332
-[]\OT1/cmr/m/n/12 Matthias Ogrisek.  \OT1/cmr/m/it/12 Kon-trol-liertes Wach-s-tum von
- []
-
-
-Underfull \hbox (badness 3965) in paragraph at lines 340--345
-[]\OT1/cmr/m/n/12 Waldomiro Paschoal, Sandeep Ku-mar, Chris-tian
- []
-
-[49]
-Underfull \hbox (badness 2205) in paragraph at lines 365--371
-\OT1/cmr/m/n/12 White, Volker Harten-stein, Kevin Eli-ceiri, Pavel
- []
-
-
-Underfull \hbox (badness 2799) in paragraph at lines 379--383
-\OT1/cmr/m/n/12 sure-ments of Me-son Masses and Re-lated Quan-
- []
-
-
-Underfull \hbox (badness 6792) in paragraph at lines 379--383
-\OT1/cmr/m/n/12 ti-ties.  \OT1/cmr/m/it/12 Phys-i-cal Re-view\OT1/cmr/m/n/12 , 91(3):765--766, 1953.
- []
-
-[50]
-Underfull \hbox (badness 1215) in paragraph at lines 398--401
-[]\OT1/cmr/m/n/12 Peter Sig-mund.  A mech-a-nism of sur-face micro-
- []
-
-
-Underfull \hbox (badness 1365) in paragraph at lines 409--414
-[]\OT1/cmr/m/n/12 V. A. Sole, E. Pa-pil-lon, M. Cotte, Ph. Wal-ter,
- []
-
-
-Underfull \hbox (badness 1297) in paragraph at lines 409--414
-\OT1/cmr/m/it/12 Spec-trochim-ica Acta Part B: Atomic Spec-troscopy\OT1/cmr/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 3536) in paragraph at lines 416--419
-[]\OT1/cmr/m/n/12 Daniel Sage, D. Pro-danov, J.-Y. Tin-evez, and
- []
-
-[51]
-Underfull \hbox (badness 4303) in paragraph at lines 449--454
-[]\OT1/cmr/m/n/12 Mw Thomp-son.  En-ergy Spec-trum of Ejected
- []
-
-
-Underfull \hbox (badness 2376) in paragraph at lines 449--454
-\OT1/cmr/m/n/12 Atoms Dur-ing High En-ergy Sput-ter-ing of Gold.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 449--454
-\OT1/cmr/m/it/12 Philo-soph-i-cal Mag-a-zine\OT1/cmr/m/n/12 , 18(152):377--&, 1968.
- []
-
-[52]
-Underfull \hbox (badness 1648) in paragraph at lines 487--493
-\OT1/cmr/m/it/12 Re-search Sec-tion B-Beam In-ter-ac-tions with Ma-te-
- []
-
-
-Underfull \hbox (badness 1953) in paragraph at lines 487--493
-\OT1/cmr/m/it/12 ri-als and Atoms\OT1/cmr/m/n/12 , 225(1-2):111--128, Au-gust 2004.
- []
-
-[53]) [54] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
+]) [12] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 3887 strings out of 493921
- 58312 string characters out of 3147251
- 160627 words of memory out of 3000000
- 7098 multiletter control sequences out of 15000+200000
- 13049 words of font info for 46 fonts, out of 3000000 for 9000
+ 3733 strings out of 493921
+ 55044 string characters out of 3147251
+ 159762 words of memory out of 3000000
+ 6957 multiletter control sequences out of 15000+200000
+ 12822 words of font info for 45 fonts, out of 3000000 for 9000
  847 hyphenation exceptions out of 8191
- 39i,9n,55p,1758b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,9n,55p,1653b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssb
-x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Diss.pdf (57 pages, 3833831 bytes).
+/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Diss.pdf (15 pages, 1640535 bytes).
 PDF statistics:
- 268 PDF objects out of 1000 (max. 8388607)
+ 118 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
