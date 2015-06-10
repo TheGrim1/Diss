@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=Diss.tex
 
 [Frame0_View0,0]
-TopLine=39
-Cursor=1118
+TopLine=18
+Cursor=1122
 
 [Frame1]
 Flags=0
@@ -35,8 +35,8 @@ Class=LaTeXView
 Document=high.tex
 
 [Frame1_View0,0]
-TopLine=21
-Cursor=4447
+TopLine=86
+Cursor=11696
 
 [Frame2]
 Flags=0
@@ -53,8 +53,8 @@ Class=LaTeXView
 Document=Methods.tex
 
 [Frame2_View0,0]
-TopLine=314
-Cursor=38868
+TopLine=337
+Cursor=38393
 
 [Frame3]
 Flags=0
