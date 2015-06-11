@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  10 JUN 2015 19:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  11 JUN 2015 17:40
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -546,35 +546,47 @@ File: images/staticsputteryield.png Graphic file (type png)
  <use images/staticsputteryield.png>
 Package pdftex.def Info: images/staticsputteryield.png used on input line 54.
 (pdftex.def)             Requested size: 183.99452pt x 125.28477pt.
+ [7]
 
+LaTeX Warning: Reference `sec:simsputering' on page 8 undefined on input line 61.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `sec:simsputering' on page 7 undefined on input line 61.
-
-[7] <images/sputterincorporate.png, id=53, 1613.02625pt x 877.2775pt>
+[8] <images/sputterincorporate.png, id=56, 785.5749pt x 446.6286pt>
 File: images/sputterincorporate.png Graphic file (type png)
  <use images/sputterincorporate.png>
 Package pdftex.def Info: images/sputterincorporate.png used on input line 65.
-(pdftex.def)             Requested size: 312.79292pt x 170.11131pt.
+(pdftex.def)             Requested size: 312.79292pt x 177.83047pt.
 
-<images/pseudodynamic.png, id=54, 793.5246pt x 542.5068pt>
+<images/pseudodynamic.png, id=57, 793.5246pt x 542.5068pt>
 File: images/pseudodynamic.png Graphic file (type png)
  <use images/pseudodynamic.png>
-Package pdftex.def Info: images/pseudodynamic.png used on input line 73.
+Package pdftex.def Info: images/pseudodynamic.png used on input line 78.
 (pdftex.def)             Requested size: 183.99452pt x 125.79213pt.
 
-Underfull \hbox (badness 1742) in paragraph at lines 76--76
-[] []|\OT1/cmr/m/n/10.95 Illustration of the ro-
+Underfull \hbox (badness 1210) in paragraph at lines 81--81
+\OT1/cmr/m/n/10.95 dynamic sim-u-la-tion con-sid-er-ing
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 81--81
+\OT1/cmr/m/n/10.95 di-am-e-ter de-pen-dent sput-ter-ing
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 81--81
+\OT1/cmr/m/n/10.95 ra-tio is plot-ted to the left
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 81--81
+\OT1/cmr/m/n/10.95 axis ver-sus the ion flu-ence of
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [8] [9 <C:/Talks and Posters/2015-xx-Diss/Diss/images/largeXRF.png>] [10 <C:/Talks and Posters/2015-xx-Diss/Diss/image
-s/MnZn2.png> <C:/Talks and Posters/2015-xx-Diss/Diss/images/staticsputteryield.png>] [11 <C:/Talks and Posters/2015-xx-D
-iss/Diss/images/sputterincorporate.png> <C:/Talks and Posters/2015-xx-Diss/Diss/images/pseudodynamic.png>]
+) [9] [10 <C:/Talks and Posters/2015-xx-Diss/Diss/images/largeXRF.png>] [11 <C:/Talks and Posters/2015-xx-Diss/Diss/imag
+es/MnZn2.png> <C:/Talks and Posters/2015-xx-Diss/Diss/images/staticsputteryield.png>] [12 <C:/Talks and Posters/2015-xx-
+Diss/Diss/images/sputterincorporate.png> <C:/Talks and Posters/2015-xx-Diss/Diss/images/pseudodynamic.png>]
 Chapter 3.
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl"
 Overfull \hbox (9.35213pt too wide) in paragraph at lines 72--2
@@ -586,11 +598,11 @@ Overfull \hbox (21.0183pt too wide) in paragraph at lines 72--2
 \OT1/cmr/m/it/20.74 fer-ence pro-ced-ing D. Sage, Ruther-ford, Nord-
  []
 
-[12
+[13
 
-] [13
+] [14
 
-]) [14] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
+]) [15] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
 
 LaTeX Warning: There were undefined references.
 
@@ -598,11 +610,11 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  3754 strings out of 493921
  55482 string characters out of 3147251
- 162821 words of memory out of 3000000
+ 163822 words of memory out of 3000000
  6975 multiletter control sequences out of 15000+200000
  12822 words of font info for 45 fonts, out of 3000000 for 9000
  847 hyphenation exceptions out of 8191
- 39i,9n,55p,2004b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,9n,55p,2004b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
@@ -612,9 +624,9 @@ ype1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
 y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Diss.pdf (17 pages, 1957034 bytes).
+Output written on Diss.pdf (18 pages, 1767761 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
+ 133 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

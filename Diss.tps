@@ -12,12 +12,12 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=748
+NormalPos.bottom=774
 Class=LaTeXView
 Document=Diss.tex
 
 [Frame0_View0,0]
-TopLine=18
+TopLine=32
 Cursor=1122
 
 [Frame1]
@@ -30,13 +30,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=748
+NormalPos.bottom=774
 Class=LaTeXView
 Document=high.tex
 
 [Frame1_View0,0]
-TopLine=86
-Cursor=11696
+TopLine=123
+Cursor=15308
 
 [Frame2]
 Flags=0
@@ -48,12 +48,12 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=748
+NormalPos.bottom=774
 Class=LaTeXView
 Document=Methods.tex
 
 [Frame2_View0,0]
-TopLine=337
+TopLine=424
 Cursor=38393
 
 [Frame3]
@@ -66,7 +66,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=748
+NormalPos.bottom=774
 Class=LaTeXView
 Document=Introduction.tex
 
@@ -84,7 +84,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=748
+NormalPos.bottom=774
 Class=LaTeXView
 Document=title_abstract.tex
 
@@ -102,12 +102,12 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=748
+NormalPos.bottom=774
 Class=LaTeXView
 Document=Sputtering.tex
 
 [Frame5_View0,0]
-TopLine=196
+TopLine=195
 Cursor=21157
 
 [Frame6]
@@ -120,7 +120,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=748
+NormalPos.bottom=774
 Class=LaTeXView
 Document=plastic.tex
 
