@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=Diss.tex
 
 [Frame0_View0,0]
-TopLine=32
-Cursor=1122
+TopLine=25
+Cursor=697
 
 [Frame1]
 Flags=0
@@ -35,8 +35,8 @@ Class=LaTeXView
 Document=high.tex
 
 [Frame1_View0,0]
-TopLine=123
-Cursor=15308
+TopLine=194
+Cursor=22445
 
 [Frame2]
 Flags=0
@@ -53,8 +53,8 @@ Class=LaTeXView
 Document=Methods.tex
 
 [Frame2_View0,0]
-TopLine=424
-Cursor=38393
+TopLine=201
+Cursor=22789
 
 [Frame3]
 Flags=0
@@ -107,8 +107,8 @@ Class=LaTeXView
 Document=Sputtering.tex
 
 [Frame5_View0,0]
-TopLine=195
-Cursor=21157
+TopLine=0
+Cursor=18642
 
 [Frame6]
 Flags=0
