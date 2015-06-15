@@ -55,6 +55,7 @@ A typical assumption in the theoretical treatment of nuclear energy loss is the 
 
 As an example, the resulting trajectories of a $Si-Si$ collision at $10\,eV$ is plotted in figure \ref{SiSi}. The large difference between the Moliére screened Coulomb potential \cite{moliere_theorie_1947} and the ``$Si-Si$'' potential \cite{hackel_inter-nuclear_1990}, derived by Dirac-Fock-Slater calculations, is clearly visible. The former is a purely repulsive Coulomb interaction, while the latter includes an attractive interaction for large interatomic distances similar to the well known Lennard-Jones potential \cite{jones_determination_1924,eckstein_computer_1991}. For high energy collisions a ``universal'' Ziegler-Biersack-Littmark (ZBL) potential based on a screened Coulomb interaction is quite successful \cite{ziegler_stopping_1985}, however for low energy collisions a generalized formula cannot be accurate and specific potentials have to be developed for each combination of collision partners \cite{dedkov_interatomic_1995,nordlund_repulsive_1997,albe_modeling_2002,nordlund_interatomic_2008}.
 
+
 \begin{figure}
 	\centering
 		\includegraphics[width=.75\textwidth]{images/SiSicollision.png}
@@ -94,7 +95,7 @@ This model is obviously limited, as the energy distribution is assumed to remain
 \section{Simulation of ion-solid interaction}
 \label{sec:simion}
 
-In practice, the theory of ion-solid interaction is implemented in simulation tools, which allow the experimenter to predict experimental outcomes. Most frequently the energy dependence of the ion range is obtained by such simulations and used to decide which ion energy and ion fluence of irradiation is needed to create a desired doping concentration profile. On a more fundamental level, an experimentally observed behavior can be understood better by comparing it to various simulations to discern the dominating effects. The two main simulation approaches used for the ion-solid interaction are Monte-Carlo (MC) and molecular dynamic simulations (MD), both outlined in the following sections.
+In practice, the theory of ion-solid interaction is implemented in simulation tools, which allow the experimenter to predict experimental outcomes. Most frequently the energy dependence of the ion range is obtained by such simulations and used to decide which ion energy and ion fluence of irradiation is needed to create a desired doping concentration profile. On a more fundamental level, an experimentally observed behavior can be understood better by comparing it to various simulations to discern the dominating effects. The two main simulation approaches used for the ion-solid interaction are Monte-Carlo (MC) and molecular dynamic simulations (MD), both outlined in the following sections. Two dated, but highly recommendable reviews on the topic are given in references \cite{andersen_computer_1986,eckstein_computer_1991}.
 
 
 \subsubsection{Monte-Carlo simulations}

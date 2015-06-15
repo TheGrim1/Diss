@@ -1,5 +1,11 @@
 \newcommand{\etalchar}[1]{$^{#1}$}
-\begin{thebibliography}{BMB{\etalchar{+}}11}
+\begin{thebibliography}{MVB{\etalchar{+}}06}
+
+\bibitem[BHK{\etalchar{+}}10]{babinec_diamond_2010}
+Thomas~M. Babinec, Birgit J.~M. Hausmann, Mughees Khan, Yinan Zhang,
+  Jeronimo~R. Maze, Philip~R. Hemmer, and Marko Lončar.
+\newblock A diamond nanowire single-photon source.
+\newblock {\em Nature Nanotechnology}, 5(3):195--199, March 2010.
 
 \bibitem[BMB{\etalchar{+}}11]{borschel_new_2011}
 Christian Borschel, Maria~E. Messing, Magnus~T. Borgstrom, Waldomiro Paschoal,
@@ -16,12 +22,59 @@ Christian Borschel.
 \newblock {\em Ion-{Solid} {Interaction} in {Semiconductor} {Nanowires}}.
 \newblock PhD thesis, University Jena, Jena, 2012.
 
-\bibitem[BSL{\etalchar{+}}11]{borschel_permanent_2011}
-Christian Borschel, Susann Spindler, Damiana Lerose, Arne Bochmann, Silke~H.
-  Christiansen, Sandor Nietzsche, Michael Oertel, and Carsten Ronning.
-\newblock Permanent bending and alignment of {ZnO} nanowires.
-\newblock {\em Nanotechnology}, 22(18):185307, May 2011.
-\newblock WOS:000288653300010.
+\bibitem[BR11]{borschel_ion_2011}
+C.~Borschel and C.~Ronning.
+\newblock Ion beam irradiation of nanostructures – {A} 3d {Monte} {Carlo}
+  simulation code.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms}, 269(19):2133--2138, October
+  2011.
+
+\bibitem[DO06]{dietl_engineering_2006}
+Tomasz Dietl and Hideo Ohno.
+\newblock Engineering magnetism in semiconductors.
+\newblock {\em Materials Today}, 9(11):18--26, November 2006.
+
+\bibitem[Eck91]{eckstein_computer_1991}
+Wolfgang Eckstein.
+\newblock {\em Computer {Simulation} of {Ion}-{Solid} {Interactions}}.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 1991.
+
+\bibitem[Eck00]{eckstein_oscillations_2000}
+W~Eckstein.
+\newblock Oscillations of sputtering yield.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms}, 171(4):435--442, December 2000.
+
+\bibitem[GHB{\etalchar{+}}13]{greaves_enhanced_2013}
+G.~Greaves, J.~A. Hinks, P.~Busby, N.~J. Mellors, A.~Ilinov, A.~Kuronen,
+  K.~Nordlund, and S.~E. Donnelly.
+\newblock Enhanced {Sputtering} {Yields} from {Single}-{Ion} {Impacts} on
+  {Gold} {Nanorods}.
+\newblock {\em Physical Review Letters}, 111(6):065504, August 2013.
+\newblock 00004.
+
+\bibitem[Gla15]{glaser_personal_2015}
+Markus Glaser.
+\newblock {\em Personal communication, {Thesis} in writing}.
+\newblock PhD thesis, TU Wien, Wien, 2015.
+
+\bibitem[HKW04]{hedler_amorphous_2004}
+André Hedler, Siegfried~Ludwig Klaumünzer, and Werner Wesch.
+\newblock Amorphous silicon exhibits a glass transition.
+\newblock {\em Nature Materials}, 3(11):804--809, November 2004.
+
+\bibitem[HKW05]{hedler_boundary_2005}
+A.~Hedler, S.~Klaumünzer, and W.~Wesch.
+\newblock Boundary effects on the plastic flow of amorphous layers during
+  high-energy heavy-ion irradiation.
+\newblock {\em Physical Review B}, 72(5):054108, August 2005.
+
+\bibitem[JHMR15]{johannes_ion_2015}
+Andreas Johannes, Henry Holland-Moritz, and Carsten Ronning.
+\newblock Ion beam irradiation of nanostructures: sputtering, dopant
+  incorporation, and dynamic annealing.
+\newblock {\em Semiconductor Science and Technology}, 30(3):033001, March 2015.
 
 \bibitem[JNP{\etalchar{+}}14]{johannes_enhanced_2014}
 A.~Johannes, S.~Noack, W.~Paschoal, S.~Kumar, D.~Jacobsson, H.~Pettersson,
@@ -32,6 +85,13 @@ A.~Johannes, S.~Noack, W.~Paschoal, S.~Kumar, D.~Jacobsson, H.~Pettersson,
   2014.
 \newblock WOS:000341772000005.
 
+\bibitem[JNW{\etalchar{+}}15]{johannes_anomalous_2015}
+Andreas Johannes, Stefan Noack, Werner Wesch, Markus Glaser, Alois Lugstein,
+  and Carsten Ronning.
+\newblock Anomalous {Plastic} {Deformation} and {Sputtering} of {Ion}
+  {Irradiated} {Silicon} {Nanowires}.
+\newblock {\em Nano Letters}, May 2015.
+
 \bibitem[KPJ{\etalchar{+}}13]{kumar_magnetic_2013}
 Sandeep Kumar, Waldomiro Paschoal, Andreas Johannes, Daniel Jacobsson,
   Christian Borschel, Anna Pertsova, Chih-Han Wang, Maw-Kuen Wu, Carlo~M.
@@ -39,6 +99,76 @@ Sandeep Kumar, Waldomiro Paschoal, Andreas Johannes, Daniel Jacobsson,
 \newblock Magnetic {Polarons} and {Large} {Negative} {Magnetoresistance} in
   {GaAs} {Nanowires} {Implanted} with {Mn} {Ions}.
 \newblock {\em Nano Letters}, 13(11):5079--5084, 2013.
+
+\bibitem[LW07]{lieber_functional_2007}
+Charles~M. Lieber and Zhong~Lin Wang.
+\newblock Functional nanowires.
+\newblock {\em Mrs Bulletin}, 32(2):99--108, February 2007.
+\newblock WOS:000244600800011.
+
+\bibitem[Mö14]{moller_tri3dyn_2014}
+Wolfhard Möller.
+\newblock {TRI}3dyn – {Collisional} computer simulation of the dynamic
+  evolution of 3-dimensional nanostructures under ion irradiation.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms}, 322:23--33, March 2014.
+\newblock 00001.
+
+\bibitem[ME84]{moller_tridyn_1984}
+W.~Möller and W.~Eckstein.
+\newblock Tridyn — {A} {TRIM} simulation code including dynamic composition
+  changes.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms}, 2(1–3):814--818, March 1984.
+
+\bibitem[MEB88]{moller_tridyn-binary_1988}
+W.~Möller, W.~Eckstein, and J.~P. Biersack.
+\newblock Tridyn-binary collision simulation of atomic collisions and dynamic
+  composition changes in solids.
+\newblock {\em Computer Physics Communications}, 51(3):355--368, November 1988.
+\newblock 00441.
+
+\bibitem[MIS{\etalchar{+}}91]{miyagawa_computer_1991}
+Y.~Miyagawa, M.~Ikeyama, K.~Saito, G.~Massouras, and S.~Miyagawa.
+\newblock Computer simulation of dose effects on composition profiles under ion
+  implantation.
+\newblock {\em Journal of Applied Physics}, 70(12):7289, 1991.
+
+\bibitem[MVB{\etalchar{+}}06]{meijer_concept_2006}
+J.~Meijer, T.~Vogel, B.~Burchard, I.~W. Rangelow, L.~Bischoff, J.~Wrachtrup,
+  M.~Domhan, F.~Jelezko, W.~Schnitzler, S.~A. Schulz, K.~Singer, and
+  F.~Schmidt-Kaler.
+\newblock Concept of deterministic single ion doping with sub-nm spatial
+  resolution.
+\newblock {\em Applied Physics a-Materials Science \& Processing},
+  83(2):321--327, May 2006.
+\newblock WOS:000236641800028.
+
+\bibitem[Nas08]{nastasi/mayer/hirvonen_ion-solid_2008}
+Nastasi/Mayer/Hirvonen.
+\newblock {\em Ion-{Solid} {Interactions}: {Fundamentals} and {Applications}}.
+\newblock Cambridge University Press, Cambridge ; New York, auflage: revised.
+  edition, January 2008.
+
+\bibitem[NSUM14]{nietiadi_sputtering_2014}
+Maureen~L. Nietiadi, Luis Sandoval, Herbert~M. Urbassek, and Wolfhard Möller.
+\newblock Sputtering of {Si} nanospheres.
+\newblock {\em Physical Review B}, 90(4):045417, July 2014.
+
+\bibitem[Ohd08]{ohdomari_single-ion_2008}
+Iwao Ohdomari.
+\newblock Single-ion irradiation: physics, technology and applications.
+\newblock {\em Journal of Physics D: Applied Physics}, 41(4):043001, February
+  2008.
+
+\bibitem[PGL{\etalchar{+}}14]{prucnal_iii-v_2014}
+Slawomir Prucnal, Markus Glaser, Alois Lugstein, Emmerich Bertagnolli, Michael
+  Stoeger-Pollach, Shengqiang Zhou, Manfred Helm, Denis Reichel, Lars Rebohle,
+  Marcin Turek, Jerzy Zuk, and Wolfgang Skorupa.
+\newblock {III}-{V} semiconductor nanocrystal formation in silicon nanowires
+  via liquid-phase epitaxy.
+\newblock {\em Nano Research}, 7(12):1769--1776, December 2014.
+\newblock WOS:000346641400006.
 
 \bibitem[PKB{\etalchar{+}}12]{paschoal_hopping_2012}
 Waldomiro Paschoal, Sandeep Kumar, Christian Borschel, Phillip Wu, Carlo~M.
@@ -53,5 +183,65 @@ W.~Paschoal, Sandeep Kumar, D.~Jacobsson, A.~Johannes, V.~Jain, C.~M. Canali,
 \newblock Magnetoresistance in {Mn} ion-implanted {GaAs}:{Zn} nanowires.
 \newblock {\em Applied Physics Letters}, 104(15):153112, April 2014.
 \newblock WOS:000335145200060.
+
+\bibitem[rm15]{itrs_road_map_itrs_2015}
+ITRS road map.
+\newblock {ITRS} road map, April 2015.
+
+\bibitem[Sch12]{schmidt_ion_2012}
+Bernd Schmidt.
+\newblock {\em Ion beams in materials processing and analysis}.
+\newblock Springer, New York, 2012.
+
+\bibitem[SN06]{sze_physics_2006}
+Simon~M. Sze and Kwok~K. Ng.
+\newblock {\em Physics of {Semiconductor} {Devices}}.
+\newblock Wiley-Interscience, Hoboken, N.J, 3 edition edition, October 2006.
+
+\bibitem[SO93]{sigmund_alloy_1993}
+Peter Sigmund and Antonino Oliva.
+\newblock Alloy sputtering at high fluence: preferential sputtering and
+  competing effects.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms}, 82(2):269--282, July 1993.
+
+\bibitem[SSK{\etalchar{+}}11]{sadowski_gaasmnas_2011}
+Janusz Sadowski, Aloyzas Siusys, Andras Kovacs, Takeshi Kasama, Rafal~E.
+  Dunin-Borkowski, Tomasz Wojciechowski, Anna Reszka, and Bogdan Kowalski.
+\newblock {GaAs}–{MnAs} nanowires.
+\newblock {\em physica status solidi (b)}, 248(7):1576--1580, July 2011.
+
+\bibitem[TR95]{trinkaus_viscoelastic_1995}
+H.~Trinkaus and A.~I. Ryazanov.
+\newblock Viscoelastic {Model} for the {Plastic} {Flow} of {Amorphous} {Solids}
+  under {Energetic} {Ion} {Bombardment}.
+\newblock {\em Physical Review Letters}, 74(25):5072--5075, June 1995.
+
+\bibitem[UBNM15]{urbassek_sputter_2015}
+Herbert~M. Urbassek, R.~Mark Bradley, Maureen~L. Nietiadi, and Wolfhard
+  Möller.
+\newblock Sputter yield of curved surfaces.
+\newblock {\em Physical Review B}, 91(16):165418, April 2015.
+
+\bibitem[Vol91]{volkert_stress_1991}
+C.~A. Volkert.
+\newblock Stress and plastic flow in silicon during amorphization by ion
+  bombardment.
+\newblock {\em Journal of Applied Physics}, 70(7):3521--3527, October 1991.
+
+\bibitem[XYS{\etalchar{+}}03]{xia_one-dimensional_2003}
+Y.~Xia, P.~Yang, Y.~Sun, Y.~Wu, B.~Mayers, B.~Gates, Y.~Yin, F.~Kim, and
+  H.~Yan.
+\newblock One-{Dimensional} {Nanostructures}: {Synthesis}, {Characterization},
+  and {Applications}.
+\newblock {\em Advanced Materials}, 15(5):353--389, March 2003.
+
+\bibitem[ZLB85]{ziegler_stopping_1985}
+J.~F. (James F.~) Ziegler, U.~Littmark, and J.~P. Biersack.
+\newblock {\em The stopping and range of ions in solids / {J}.{F}. {Ziegler},
+  {J}.{P}. {Biersack}, {U}. {Littmark}}.
+\newblock The {Stopping} and ranges of ions in matter ; v. 1. Pergamon, New
+  York, 1985.
+\newblock Includes index. Bibliography: p. 308-315.
 
 \end{thebibliography}
