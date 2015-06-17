@@ -1,2 +1,22 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Summary and Outlook}{7}
+\contentsline {chapter}{\numberline {2}Background}{2}
+\contentsline {section}{\numberline {2.1}Ion-solid interactions}{2}
+\contentsline {subsubsection}{\nonumberline Electronic Energy loss}{2}
+\contentsline {subsubsection}{\nonumberline Nuclear energy loss}{5}
+\contentsline {subsubsection}{\nonumberline The binary collision approximation}{6}
+\contentsline {subsubsection}{\nonumberline Sigmund theory of sputtering}{8}
+\contentsline {section}{\numberline {2.2}Simulation of ion-solid interaction}{11}
+\contentsline {subsubsection}{\nonumberline Monte-Carlo simulations}{11}
+\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{15}
+\contentsline {subsubsection}{\nonumberline Relevant simulations in literature}{16}
+\contentsline {chapter}{\numberline {3}Experimental Methods}{17}
+\contentsline {section}{\numberline {3.1}Nanowire synthesis}{17}
+\contentsline {section}{\numberline {3.2}Modification}{19}
+\contentsline {subsubsection}{\nonumberline ROMEO}{19}
+\contentsline {subsubsection}{\nonumberline Focused ion beam - FIB}{20}
+\contentsline {section}{\numberline {3.3}Characterization}{21}
+\contentsline {subsubsection}{\nonumberline Scanning Electron Microscope - SEM}{21}
+\contentsline {subsubsection}{\nonumberline Electron Back-Scatter Diffraction - EBSD}{22}
+\contentsline {subsubsection}{\nonumberline nano-XRF}{22}
+\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{24}
+\contentsline {chapter}{\numberline {4}Summary and Outlook}{26}

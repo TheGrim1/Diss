@@ -7,6 +7,7 @@ headinclude,
 %footinclude,
 openany
 ]{scrbook}
+\addtolength{\textheight}{2cm}
 
 \include{PDFAstuff}
 
@@ -28,8 +29,10 @@ openany
 \clubpenalty10000
 \widowpenalty10000
 
+%\usepackage{showframe}
+
 \usepackage{setspace}
-%\singlespacing
+\singlespacing
 \onehalfspacing
 %\doublespacing
 %\setstretch{1.1}
@@ -40,7 +43,7 @@ openany
 
 
 
-\input{title_abstract}
+%\input{title_abstract}
 
 
 \tableofcontents
@@ -49,11 +52,11 @@ openany
 \pagenumbering{arabic}
 \setcounter{page}{1}
 %\let\clearpage\relax
+\onehalfspacing
 
+%\input{Introduction}
 
-\input{Introduction}
-
-%\input{Methods}
+\input{Methods}
 
 %\input{Sputtering}
 

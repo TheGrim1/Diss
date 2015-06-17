@@ -11,14 +11,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.right=1362
+NormalPos.bottom=492
 Class=LaTeXView
 Document=Diss.tex
 
 [Frame0_View0,0]
-TopLine=0
-Cursor=699
+TopLine=37
+Cursor=1076
 
 [Frame1]
 Flags=0
@@ -29,14 +29,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.right=1362
+NormalPos.bottom=492
 Class=LaTeXView
-Document=Introduction.tex
+Document=title_abstract.tex
 
 [Frame1_View0,0]
-TopLine=41
-Cursor=8671
+TopLine=0
+Cursor=206
 
 [Frame2]
 Flags=0
@@ -47,14 +47,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.right=1362
+NormalPos.bottom=492
 Class=LaTeXView
-Document=Methods.tex
+Document=Introduction.tex
 
 [Frame2_View0,0]
-TopLine=216
-Cursor=20146
+TopLine=0
+Cursor=6645
 
 [Frame3]
 Flags=0
@@ -65,14 +65,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.right=1362
+NormalPos.bottom=492
 Class=LaTeXView
-Document=Sputtering.tex
+Document=Methods.tex
 
 [Frame3_View0,0]
-TopLine=45
-Cursor=5502
+TopLine=391
+Cursor=35558
 
 [Frame4]
 Flags=0
@@ -83,14 +83,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.right=1362
+NormalPos.bottom=492
 Class=LaTeXView
-Document=high.tex
+Document=Sputtering.tex
 
 [Frame4_View0,0]
-TopLine=207
-Cursor=24447
+TopLine=48
+Cursor=5502
 
 [Frame5]
 Flags=0
@@ -101,18 +101,36 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.right=1362
+NormalPos.bottom=492
+Class=LaTeXView
+Document=high.tex
+
+[Frame5_View0,0]
+TopLine=231
+Cursor=24447
+
+[Frame6]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=26
+NormalPos.right=1362
+NormalPos.bottom=492
 Class=LaTeXView
 Document=plastic.tex
 
-[Frame5_View0,0]
+[Frame6_View0,0]
 TopLine=0
 Cursor=30680
 
 [SessionInfo]
-FrameCount=6
-ActiveFrame=1
+FrameCount=7
+ActiveFrame=3
 
 [Bookmarks]
 Methods.tex=34 58 168 122 
