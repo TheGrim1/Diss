@@ -139,6 +139,11 @@ S.~Dhara.
   32(1-2):1--50, 2007.
 \newblock WOS:000247237500001.
 
+\bibitem[DL00]{duan_general_2000}
+X.~Duan and C.~M. Lieber.
+\newblock General {Synthesis} of {Compound} {Semiconductor} {Nanowires}.
+\newblock {\em Advanced Materials}, 12(4):298--302, February 2000.
+
 \bibitem[Eck91]{eckstein_computer_1991}
 Wolfgang Eckstein.
 \newblock {\em Computer {Simulation} of {Ion}-{Solid} {Interactions}}.
@@ -172,6 +177,12 @@ G.~Greaves, J.~A. Hinks, P.~Busby, N.~J. Mellors, A.~Ilinov, A.~Kuronen,
 \newblock {\em Physical Review Letters}, 111(6):065504, August 2013.
 \newblock 00004.
 
+\bibitem[GS28]{glocker_quantitative_1928}
+R.~Glocker and H.~Schreiber.
+\newblock Quantitative {Röntgenspektralanalyse} mit {Kalterregung} des
+  {Spektrums}.
+\newblock {\em Annalen der Physik}, 390(8):1089--1102, January 1928.
+
 \bibitem[Hau84]{hautala_nuclear_1984}
 M.~Hautala.
 \newblock Nuclear stopping in polycrystalline materials: {Range} distributions
@@ -184,6 +195,21 @@ S.~Hackel, B.~Fricke, D.~Heinemann, D~Kolb, and L~Yang.
 \newblock Inter-{Nuclear} {Potential} of the {System} {Si}-{Si} calculated with
   the {Finite}-{Element}-{Method}.
 \newblock {\em GSI Annual Report}, page 165, 1990.
+
+\bibitem[HIK97]{haginoya_nanostructure_1997}
+C.~Haginoya, M.~Ishibashi, and K.~Koike.
+\newblock Nanostructure array fabrication with a size-controllable natural
+  lithography.
+\newblock {\em Applied Physics Letters}, 71(20):2934--2936, November 1997.
+\newblock WOS:A1997YF67500022.
+
+\bibitem[HKZ{\etalchar{+}}10]{hausmann_fabrication_2010}
+Birgit J.~M. Hausmann, Mughees Khan, Yinan Zhang, Tom~M. Babinec, Katie
+  Martinick, Murray McCutcheon, Phil~R. Hemmer, and Marko Loncar.
+\newblock Fabrication of diamond nanowires for quantum information processing
+  applications.
+\newblock {\em Diamond and Related Materials}, 19(5-6):621--629, June 2010.
+\newblock WOS:000278193600059.
 
 \bibitem[HZM14]{hofsass_simulation_2014}
 H.~Hofsäss, K.~Zhang, and A.~Mutzke.
@@ -210,6 +236,12 @@ J.~E. Jones.
   {Equation} of {State} of a {Gas}.
 \newblock {\em Proceedings of the Royal Society of London A: Mathematical,
   Physical and Engineering Sciences}, 106(738):463--477, October 1924.
+
+\bibitem[JS82]{jansen_elemental_1982}
+W.~Jansen and M.~Slaughter.
+\newblock Elemental {Mapping} of {Minerals} by {Electron} {Micro}-{Probe}.
+\newblock {\em American Mineralogist}, 67(5-6):521--533, 1982.
+\newblock WOS:A1982NZ59500008.
 
 \bibitem[Kik28]{kikuchi_diffraction_1928}
 Seishi Kikuchi.
@@ -458,6 +490,13 @@ Herbert~M. Urbassek, R.~Mark Bradley, Maureen~L. Nietiadi, and Wolfhard
   Möller.
 \newblock Sputter yield of curved surfaces.
 \newblock {\em Physical Review B}, 91(16):165418, April 2015.
+
+\bibitem[WDJ{\etalchar{+}}09]{wacaser_preferential_2009}
+Brent~A. Wacaser, Kimberly~A. Dick, Jonas Johansson, Magnus~T. Borgström, Knut
+  Deppert, and Lars Samuelson.
+\newblock Preferential {Interface} {Nucleation}: {An} {Expansion} of the {VLS}
+  {Growth} {Mechanism} for {Nanowires}.
+\newblock {\em Advanced Materials}, 21(2):153--165, January 2009.
 
 \bibitem[WE64]{wagner_vapor-liquid-solid_1964}
 Rs~Wagner and Wc~Ellis.

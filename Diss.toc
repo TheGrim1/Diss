@@ -13,10 +13,10 @@
 \contentsline {section}{\numberline {3.1}Nanowire synthesis}{17}
 \contentsline {section}{\numberline {3.2}Modification}{19}
 \contentsline {subsubsection}{\nonumberline ROMEO}{19}
-\contentsline {subsubsection}{\nonumberline Focused ion beam - FIB}{20}
+\contentsline {subsubsection}{\nonumberline Focused ion beam - FIB}{21}
 \contentsline {section}{\numberline {3.3}Characterization}{21}
 \contentsline {subsubsection}{\nonumberline Scanning Electron Microscope - SEM}{21}
 \contentsline {subsubsection}{\nonumberline Electron Back-Scatter Diffraction - EBSD}{22}
-\contentsline {subsubsection}{\nonumberline nano-XRF}{22}
-\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{24}
-\contentsline {chapter}{\numberline {4}Summary and Outlook}{26}
+\contentsline {subsubsection}{\nonumberline nano-XRF}{23}
+\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{25}
+\contentsline {chapter}{\numberline {4}Summary and Outlook}{27}
