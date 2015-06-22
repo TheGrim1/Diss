@@ -11,14 +11,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1110
-NormalPos.bottom=383
+NormalPos.right=1676
+NormalPos.bottom=775
 Class=LaTeXView
 Document=Diss.tex
 
 [Frame0_View0,0]
-TopLine=19
-Cursor=1076
+TopLine=40
+Cursor=1223
 
 [Frame1]
 Flags=0
@@ -29,14 +29,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1110
-NormalPos.bottom=383
+NormalPos.right=1676
+NormalPos.bottom=775
 Class=LaTeXView
 Document=title_abstract.tex
 
 [Frame1_View0,0]
 TopLine=0
-Cursor=206
+Cursor=266
 
 [Frame2]
 Flags=0
@@ -47,14 +47,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1110
-NormalPos.bottom=383
+NormalPos.right=1676
+NormalPos.bottom=775
 Class=LaTeXView
 Document=Introduction.tex
 
 [Frame2_View0,0]
-TopLine=0
-Cursor=2228
+TopLine=50
+Cursor=4447
 
 [Frame3]
 Flags=0
@@ -65,14 +65,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1110
-NormalPos.bottom=383
+NormalPos.right=1676
+NormalPos.bottom=775
 Class=LaTeXView
 Document=Methods.tex
 
 [Frame3_View0,0]
-TopLine=440
-Cursor=48745
+TopLine=81
+Cursor=11165
 
 [Frame4]
 Flags=0
@@ -83,14 +83,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1110
-NormalPos.bottom=383
+NormalPos.right=1676
+NormalPos.bottom=775
 Class=LaTeXView
 Document=Sputtering.tex
 
 [Frame4_View0,0]
-TopLine=56
-Cursor=5502
+TopLine=15
+Cursor=20989
 
 [Frame5]
 Flags=0
@@ -101,14 +101,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1110
-NormalPos.bottom=383
+NormalPos.right=1676
+NormalPos.bottom=775
 Class=LaTeXView
 Document=high.tex
 
 [Frame5_View0,0]
-TopLine=266
-Cursor=24447
+TopLine=211
+Cursor=26087
 
 [Frame6]
 Flags=0
@@ -119,14 +119,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1110
-NormalPos.bottom=383
+NormalPos.right=1676
+NormalPos.bottom=775
 Class=LaTeXView
 Document=plastic.tex
 
 [Frame6_View0,0]
-TopLine=0
-Cursor=30680
+TopLine=49
+Cursor=18191
 
 [SessionInfo]
 FrameCount=7

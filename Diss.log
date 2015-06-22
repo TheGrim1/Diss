@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  19 JUN 2015 17:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  22 JUN 2015 18:42
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -442,18 +442,18 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 
 Writing index file Diss.idx
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
 (C:\Users\default.Worklap\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -490,88 +490,612 @@ LaTeX Info: Redefining \selectfont on input line 126.
 \RaggedLeftParindent=\skip65
 \RaggedRightParindent=\skip66
 \JustifyingParindent=\skip67
-) ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.toc")
+) ("C:\Talks and Posters\2015-xx-Diss\Diss\title_abstract.tex" [1
+
+
+
+
+
+{C:/Users/default.Worklap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) [1] ("C:\Talks and Posters\2015-xx-Diss\D
+iss\Diss.toc"
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...e {chapter}{\numberline {1}Introduction}{1}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
 \tf@toc=\write4
- [1
-
-
-
-
-{C:/Users/default.Worklap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Chapter 1.
-("C:\Talks and Posters\2015-xx-Diss\Diss\Methods.tex" [1
+ [2
 
 ]
-Chapter 2.
-[2
+Chapter 1.
+("C:\Talks and Posters\2015-xx-Diss\Diss\Introduction.tex"
 
-] <images/StoppinginAuandC.png, id=18, 2143.00626pt x 807.015pt>
+LaTeX Warning: Citation `itrs_road_map_itrs_2015' on page 1 undefined on input line 6.
+
+
+LaTeX Warning: Citation `huang_room-temperature_2001' on page 1 undefined on input line 8.
+
+
+LaTeX Warning: Citation `cui_nanowire_2001' on page 1 undefined on input line 8.
+
+
+LaTeX Warning: Citation `duan_indium_2001' on page 1 undefined on input line 8.
+
+
+LaTeX Warning: Citation `xia_one-dimensional_2003' on page 1 undefined on input line 8.
+
+
+LaTeX Warning: Citation `lieber_functional_2007' on page 1 undefined on input line 8.
+
+[1
+
+]
+
+LaTeX Warning: Citation `sze_physics_2006' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Citation `ziegler_stopping_1985' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation `eckstein_computer_1991' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation `nastasi/mayer/hirvonen_ion-solid_2008' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation `schmidt_ion_2012' on page 2 undefined on input line 12.
+
+
+LaTeX Warning: Citation `babinec_diamond_2010' on page 2 undefined on input line 14.
+
+
+LaTeX Warning: Citation `meijer_concept_2006' on page 2 undefined on input line 14.
+
+
+LaTeX Warning: Citation `ohdomari_single-ion_2008' on page 2 undefined on input line 14.
+
+[2]
+
+LaTeX Warning: Citation `dietl_engineering_2006' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Citation `sadowski_gaasmnas_2011' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Citation `borschel_new_2011' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Citation `paschoal_hopping_2012' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Citation `borschel_ion-solid_2012' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Citation `kumar_magnetic_2013' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Citation `paschoal_magnetoresistance_2014' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Citation `prucnal_iii-v_2014' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Citation `glaser_personal_2015' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Citation `moller_tri3dyn_2014' on page 3 undefined on input line 18.
+
+
+LaTeX Warning: Citation `johannes_ion_2015' on page 3 undefined on input line 18.
+
+
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [3]
+
+LaTeX Warning: Citation `borschel_ion-solid_2012' on page 4 undefined on input line 20.
+
+
+LaTeX Warning: Citation `greaves_enhanced_2013' on page 4 undefined on input line 20.
+
+
+LaTeX Warning: Citation `nietiadi_sputtering_2014' on page 4 undefined on input line 20.
+
+
+LaTeX Warning: Citation `johannes_ion_2015' on page 4 undefined on input line 20.
+
+
+LaTeX Warning: Citation `urbassek_sputter_2015' on page 4 undefined on input line 20.
+
+
+LaTeX Warning: Citation `borschel_ion-solid_2012' on page 4 undefined on input line 24.
+
+
+LaTeX Warning: Citation `borschel_ion_2011' on page 4 undefined on input line 24.
+
+
+LaTeX Warning: Citation `johannes_enhanced_2014' on page 4 undefined on input line 24.
+
+
+LaTeX Warning: Citation `johannes_anomalous_2015' on page 4 undefined on input line 24.
+
+
+LaTeX Warning: Citation `moller_tridyn_1984' on page 4 undefined on input line 26.
+
+
+LaTeX Warning: Citation `moller_tridyn-binary_1988' on page 4 undefined on input line 26.
+
+
+LaTeX Warning: Citation `miyagawa_computer_1991' on page 4 undefined on input line 26.
+
+
+LaTeX Warning: Citation `sigmund_alloy_1993' on page 4 undefined on input line 26.
+
+
+LaTeX Warning: Citation `eckstein_oscillations_2000' on page 4 undefined on input line 26.
+
+
+LaTeX Warning: Citation `johannes_enhanced_2014' on page 4 undefined on input line 26.
+
+
+LaTeX Warning: Citation `volkert_stress_1991' on page 4 undefined on input line 28.
+
+
+LaTeX Warning: Citation `trinkaus_viscoelastic_1995' on page 4 undefined on input line 28.
+
+
+LaTeX Warning: Citation `hedler_amorphous_2004' on page 4 undefined on input line 28.
+
+
+LaTeX Warning: Citation `hedler_boundary_2005' on page 4 undefined on input line 28.
+
+[4]) ("C:\Talks and Posters\2015-xx-Diss\Diss\Methods.tex" [5]
+Chapter 2.
+
+LaTeX Warning: Citation `bethe_zur_1930' on page 6 undefined on input line 10.
+
+
+LaTeX Warning: Citation `bloch_zur_1933' on page 6 undefined on input line 10.
+
+
+LaTeX Warning: Reference `stopping' on page 6 undefined on input line 17.
+
+
+LaTeX Warning: Citation `sigmund_stopping_2004' on page 6 undefined on input line 17.
+
+<images/StoppinginAuandC.png, id=42, 2143.00626pt x 807.015pt>
 File: images/StoppinginAuandC.png Graphic file (type png)
  <use images/StoppinginAuandC.png>
 Package pdftex.def Info: images/StoppinginAuandC.png used on input line 21.
 (pdftex.def)             Requested size: 364.31117pt x 137.19073pt.
- [3 <C:/Talks and Posters/2015-xx-Diss/Diss/images/StoppinginAuandC.png>]
 
-LaTeX Warning: Citation `boden_ionoluminescence_201' on page 4 undefined on input line 34.
 
-[4] [5] [6] <images/SiSicollision.png, id=40, 1632.0975pt x 825.0825pt>
+LaTeX Warning: Citation `sigmund_stopping_2004' on page 6 undefined on input line 22.
+
+
+LaTeX Warning: Citation `sigmund_stopping_2004' on page 6 undefined on input line 22.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6
+
+]
+
+LaTeX Warning: Citation `lindhard_properties_1954' on page 7 undefined on input line 30.
+
+
+LaTeX Warning: Citation `smith_measurements_1953' on page 7 undefined on input line 32.
+
+
+LaTeX Warning: Citation `andersen_experimental_1969' on page 7 undefined on input line 32.
+
+
+LaTeX Warning: Citation `sigmund_notes_2014' on page 7 undefined on input line 32.
+
+
+Underfull \vbox (badness 6608) has occurred while \output is active []
+
+ [7 <C:/Talks and Posters/2015-xx-Diss/Diss/images/StoppinginAuandC.png>]
+
+LaTeX Warning: Citation `wiedemann_uber_1888' on page 8 undefined on input line 34.
+
+
+LaTeX Warning: Citation `boden_ionoluminescence_201' on page 8 undefined on input line 34.
+
+
+LaTeX Warning: Citation `toulemonde_transient_1992' on page 8 undefined on input line 34.
+
+
+LaTeX Warning: Citation `nastasi/mayer/hirvonen_ion-solid_2008' on page 8 undefined on input line 34.
+
+
+LaTeX Warning: Citation `toulemonde_transient_1992' on page 8 undefined on input line 38.
+
+
+LaTeX Warning: Citation `miotello_revisiting_1997' on page 8 undefined on input line 38.
+
+
+LaTeX Warning: Citation `wesch_effect_2004' on page 8 undefined on input line 38.
+
+
+LaTeX Warning: Reference `stopping' on page 8 undefined on input line 40.
+
+
+LaTeX Warning: Reference `stopping' on page 8 undefined on input line 44.
+
+
+LaTeX Warning: Citation `rutherford_scattering_1911' on page 8 undefined on input line 44.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+
+LaTeX Warning: Citation `wesch_damage_2012' on page 9 undefined on input line 46.
+
+
+LaTeX Warning: Citation `wesch_damage_2012' on page 9 undefined on input line 46.
+
+
+LaTeX Warning: Citation `pelaz_ion-beam-induced_2004' on page 9 undefined on input line 46.
+
+
+LaTeX Warning: Citation `dhara_formation_2007' on page 9 undefined on input line 48.
+
+
+LaTeX Warning: Citation `borschel_ion-solid_2012' on page 9 undefined on input line 48.
+
+
+LaTeX Warning: Citation `johannes_ion_2015' on page 9 undefined on input line 48.
+
+
+LaTeX Warning: Citation `borschel_new_2011' on page 9 undefined on input line 48.
+
+
+LaTeX Warning: Citation `paschoal_hopping_2012' on page 9 undefined on input line 48.
+
+
+LaTeX Warning: Citation `kumar_magnetic_2013' on page 9 undefined on input line 48.
+
+
+LaTeX Warning: Citation `paschoal_magnetoresistance_2014' on page 9 undefined on input line 48.
+
+
+Underfull \vbox (badness 5359) has occurred while \output is active []
+
+ [9]
+
+LaTeX Warning: Citation `eckstein_computer_1991' on page 10 undefined on input line 54.
+
+
+LaTeX Warning: Citation `ziegler_stopping_1985' on page 10 undefined on input line 54.
+
+
+LaTeX Warning: Reference `SiSi' on page 10 undefined on input line 56.
+
+
+LaTeX Warning: Citation `moliere_theorie_1947' on page 10 undefined on input line 56.
+
+
+LaTeX Warning: Citation `hackel_inter-nuclear_1990' on page 10 undefined on input line 56.
+
+
+LaTeX Warning: Citation `jones_determination_1924' on page 10 undefined on input line 56.
+
+
+LaTeX Warning: Citation `eckstein_computer_1991' on page 10 undefined on input line 56.
+
+
+LaTeX Warning: Citation `ziegler_stopping_1985' on page 10 undefined on input line 56.
+
+
+LaTeX Warning: Citation `dedkov_interatomic_1995' on page 10 undefined on input line 56.
+
+
+LaTeX Warning: Citation `nordlund_repulsive_1997' on page 10 undefined on input line 56.
+
+
+LaTeX Warning: Citation `albe_modeling_2002' on page 10 undefined on input line 56.
+
+
+LaTeX Warning: Citation `nordlund_interatomic_2008' on page 10 undefined on input line 56.
+
+<images/SiSicollision.png, id=58, 1632.0975pt x 825.0825pt>
 File: images/SiSicollision.png Graphic file (type png)
  <use images/SiSicollision.png>
 Package pdftex.def Info: images/SiSicollision.png used on input line 61.
 (pdftex.def)             Requested size: 275.99178pt x 139.51936pt.
 
+
+LaTeX Warning: Citation `eckstein_computer_1991' on page 10 undefined on input line 62.
+
+
+LaTeX Warning: Citation `eckstein_computer_1991' on page 10 undefined on input line 62.
+
+
+LaTeX Warning: Reference `SiSi' on page 10 undefined on input line 66.
+
+
+LaTeX Warning: Citation `sigmund_theory_1969' on page 10 undefined on input line 70.
+
+
+LaTeX Warning: Citation `thompson_energy_1968' on page 10 undefined on input line 70.
+
+
+Underfull \vbox (badness 3690) has occurred while \output is active []
+
+ [10]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7 <C:/Talks and Posters/2015-xx-Diss/Diss/images/SiSicollision.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [11 <C:/Talks and Posters/2015-xx-Diss/Diss/images/SiSicollision.png>]
 
- [8]
-<images/anglesigmund.jpg, id=48, 880.28876pt x 1299.85625pt>
+LaTeX Warning: Citation `sigmund_theory_1969' on page 12 undefined on input line 72.
+
+
+LaTeX Warning: Reference `anglesigmund' on page 12 undefined on input line 72.
+
+<images/anglesigmund.jpg, id=67, 880.28876pt x 1299.85625pt>
 File: images/anglesigmund.jpg Graphic file (type jpg)
  <use images/anglesigmund.jpg>
 Package pdftex.def Info: images/anglesigmund.jpg used on input line 76.
 (pdftex.def)             Requested size: 165.59393pt x 244.51581pt.
- [9 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesigmund.jpg>] <images/radiussigmund.jpg, id=52, 790.955pt x 963.
-6pt>
-File: images/radiussigmund.jpg Graphic file (type jpg)
 
-<use images/radiussigmund.jpg>
+
+LaTeX Warning: Citation `sigmund_mechanism_1973' on page 12 undefined on input line 79.
+
+
+LaTeX Warning: Citation `sigmund_mechanism_1973' on page 12 undefined on input line 79.
+
+
+LaTeX Warning: Reference `anglesigmund' on page 12 undefined on input line 81.
+
+
+LaTeX Warning: Citation `sigmund_mechanism_1973' on page 12 undefined on input line 81.
+
+
+LaTeX Warning: Citation `bradley_theory_1988' on page 12 undefined on input line 81.
+
+[12 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesigmund.jpg>]
+
+LaTeX Warning: Reference `radiussigmund' on page 13 undefined on input line 83.
+
+
+LaTeX Warning: Reference `radiussigmund' on page 13 undefined on input line 83.
+
+
+LaTeX Warning: Reference `radiussigmund' on page 13 undefined on input line 83.
+
+
+LaTeX Warning: Reference `radiussigmund' on page 13 undefined on input line 83.
+
+
+LaTeX Warning: Reference `anglesigmund' on page 13 undefined on input line 85.
+
+
+LaTeX Warning: Reference `radiussigmund' on page 13 undefined on input line 85.
+
+<images/radiussigmund.jpg, id=71, 790.955pt x 963.6pt>
+File: images/radiussigmund.jpg Graphic file (type jpg)
+ <use images/radiussigmund.jpg>
 Package pdftex.def Info: images/radiussigmund.jpg used on input line 89.
 (pdftex.def)             Requested size: 147.19336pt x 179.32185pt.
+
+
+LaTeX Warning: Reference `anglesigmund' on page 13 undefined on input line 92.
+
+
+LaTeX Warning: Reference `anglesigmund' on page 13 undefined on input line 92.
+
 
 Underfull \hbox (badness 7168) in paragraph at lines 92--92
 [] []|\OT1/cmr/m/n/10.95 Illustration of the Sig-mund
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation `andersen_computer_1986' on page 13 undefined on input line 98.
 
- [10 <C:/Talks and Posters/2015-xx-Diss/Diss/images/radiussigmund.jpg>] [11]
-Overfull \hbox (0.91725pt too wide) in paragraph at lines 104--105
-\OT1/cmr/m/n/12 tar-gets are TRI-DYN [[]], SDTrimSP [[]], cor-teo [[]], COS-
- []
 
-[12]
-Underfull \vbox (badness 2922) has occurred while \output is active []
+LaTeX Warning: Citation `eckstein_computer_1991' on page 13 undefined on input line 98.
 
- [13] [14]
-<images/voxel.jpg, id=69, 1148.29pt x 645.41125pt>
+[13]
+
+LaTeX Warning: Reference `SiSi' on page 14 undefined on input line 102.
+
+
+LaTeX Warning: Citation `moller_tridyn_1984' on page 14 undefined on input line 104.
+
+
+LaTeX Warning: Citation `bizyukov_morphology_2008' on page 14 undefined on input line 104.
+
+
+LaTeX Warning: Citation `schiettekatte_fast_2008' on page 14 undefined on input line 104.
+
+
+LaTeX Warning: Citation `hautala_nuclear_1984' on page 14 undefined on input line 104.
+
+
+LaTeX Warning: Citation `ziegler_srim_2012' on page 14 undefined on input line 104.
+
+
+LaTeX Warning: Reference `sec:ionsolid' on page 14 undefined on input line 104.
+
+
+LaTeX Warning: Reference `radiussigmund' on page 14 undefined on input line 104.
+
+
+LaTeX Warning: Citation `moller_tri3dyn_2014' on page 14 undefined on input line 104.
+
+
+LaTeX Warning: Citation `borschel_ion_2011' on page 14 undefined on input line 104.
+
+[14 <C:/Talks and Posters/2015-xx-Diss/Diss/images/radiussigmund.jpg>]
+
+LaTeX Warning: Reference `sec:ionsolid' on page 15 undefined on input line 106.
+
+
+LaTeX Warning: Reference `radiussigmund' on page 15 undefined on input line 106.
+
+
+LaTeX Warning: Citation `borschel_ion-solid_2012' on page 15 undefined on input line 106.
+
+
+LaTeX Warning: Citation `corbett_production_1965' on page 15 undefined on input line 108.
+
+
+LaTeX Warning: Citation `pelaz_ion-beam-induced_2004' on page 15 undefined on input line 108.
+
+
+LaTeX Warning: Citation `nordlund_correction_2014' on page 15 undefined on input line 108.
+
+
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [15]
+
+LaTeX Warning: Citation `biersack_computer_1987' on page 16 undefined on input line 110.
+
+
+LaTeX Warning: Reference `sec:ionsolid' on page 16 undefined on input line 110.
+
+
+LaTeX Warning: Citation `thompson_energy_1968' on page 16 undefined on input line 110.
+
+
+LaTeX Warning: Citation `biersack_computer_1987' on page 16 undefined on input line 110.
+
+
+LaTeX Warning: Citation `hofsass_simulation_2014' on page 16 undefined on input line 110.
+
+
+LaTeX Warning: Citation `wilson_calculations_1977' on page 16 undefined on input line 110.
+
+
+LaTeX Warning: Citation `ziegler_stopping_1985' on page 16 undefined on input line 110.
+
+
+LaTeX Warning: Citation `stillinger_computer_1985' on page 16 undefined on input line 110.
+
+
+LaTeX Warning: Citation `tersoff_new_1988' on page 16 undefined on input line 110.
+
+
+LaTeX Warning: Citation `hofsass_simulation_2014' on page 16 undefined on input line 112.
+
+
+LaTeX Warning: Citation `eckstein_influence_1992' on page 16 undefined on input line 112.
+
+
+LaTeX Warning: Citation `yamamura_empirical_1984' on page 16 undefined on input line 112.
+
+
+LaTeX Warning: Citation `hofsass_simulation_2014' on page 16 undefined on input line 112.
+
+
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [16]
+
+LaTeX Warning: Citation `borschel_ion-solid_2012' on page 17 undefined on input line 115.
+
+
+LaTeX Warning: Reference `voxel' on page 17 undefined on input line 115.
+
+<images/voxel.jpg, id=85, 1148.29pt x 645.41125pt>
 File: images/voxel.jpg Graphic file (type jpg)
  <use images/voxel.jpg>
 Package pdftex.def Info: images/voxel.jpg used on input line 119.
 (pdftex.def)             Requested size: 183.99452pt x 103.41563pt.
- [15 <C:/Talks and Posters/2015-xx-Diss/Diss/images/voxel.jpg>]
-
-LaTeX Warning: Reference `sec:simsputering' on page 16 undefined on input line 134.
 
 
-LaTeX Warning: Reference `sec:sisputtering' on page 16 undefined on input line 134.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16]
+
+LaTeX Warning: Citation `alder_studies_1959' on page 17 undefined on input line 129.
+
+
+LaTeX Warning: Citation `nordlund_molecular_1995' on page 17 undefined on input line 129.
+
+
+LaTeX Warning: Citation `greaves_enhanced_2013' on page 17 undefined on input line 129.
+
+
+LaTeX Warning: Citation `baumer_prediction_2014' on page 17 undefined on input line 129.
+
+
+LaTeX Warning: Citation `anders_sputtering_2015' on page 17 undefined on input line 129.
+
+
+LaTeX Warning: Citation `dedkov_interatomic_1995' on page 17 undefined on input line 129.
+
+
+LaTeX Warning: Citation `nordlund_repulsive_1997' on page 17 undefined on input line 129.
+
+
+LaTeX Warning: Citation `albe_modeling_2002' on page 17 undefined on input line 129.
+
+
+LaTeX Warning: Citation `nordlund_interatomic_2008' on page 17 undefined on input line 129.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+
+LaTeX Warning: Citation `nietiadi_sputtering_2014' on page 18 undefined on input line 134.
+
+
+LaTeX Warning: Citation `urbassek_sputter_2015' on page 18 undefined on input line 134.
+
+
+LaTeX Warning: Reference `sec:ionsolid' on page 18 undefined on input line 134.
+
+
+LaTeX Warning: Reference `sec:simsputering' on page 18 undefined on input line 134.
+
+
+LaTeX Warning: Reference `sec:sisputtering' on page 18 undefined on input line 134.
+
+[18 <C:/Talks and Posters/2015-xx-Diss/Diss/images/voxel.jpg>] [19]
 Chapter 3.
-[17
 
-] <images/ZnOnanowires.jpg, id=80, 630.355pt x 328.22626pt>
+LaTeX Warning: Citation `borchers_catalyst_2006' on page 20 undefined on input line 141.
+
+
+LaTeX Warning: Citation `stichtenoth_dimensionseffekte_2008' on page 20 undefined on input line 141.
+
+
+LaTeX Warning: Citation `muller_structural_2009' on page 20 undefined on input line 141.
+
+
+LaTeX Warning: Citation `cao_tuning_2010' on page 20 undefined on input line 141.
+
+
+LaTeX Warning: Citation `ogrisek_kontrolliertes_2013' on page 20 undefined on input line 141.
+
+
+LaTeX Warning: Citation `lugstein_pressure-induced_2008' on page 20 undefined on input line 141.
+
+
+LaTeX Warning: Citation `wagner_vapor-liquid-solid_1964' on page 20 undefined on input line 145.
+
+
+LaTeX Warning: Citation `duan_general_2000' on page 20 undefined on input line 149.
+
+
+LaTeX Warning: Citation `wacaser_preferential_2009' on page 20 undefined on input line 149.
+
+[20
+
+] <images/ZnOnanowires.jpg, id=98, 630.355pt x 328.22626pt>
 File: images/ZnOnanowires.jpg Graphic file (type jpg)
  <use images/ZnOnanowires.jpg>
 Package pdftex.def Info: images/ZnOnanowires.jpg used on input line 153.
@@ -581,7 +1105,28 @@ Underfull \hbox (badness 1215) in paragraph at lines 156--156
 \OML/cmm/m/it/10.95 ZnO$ \OT1/cmr/m/n/10.95 nano-wires on a sap-phire
  []
 
-<images/SEMarray.jpg, id=81, 1445.4pt x 742.775pt>
+
+LaTeX Warning: Reference `ZnOnanowires' on page 21 undefined on input line 158.
+
+
+LaTeX Warning: Citation `borchers_catalyst_2006' on page 21 undefined on input line 158.
+
+
+LaTeX Warning: Citation `stichtenoth_dimensionseffekte_2008' on page 21 undefined on input line 158.
+
+
+LaTeX Warning: Citation `muller_structural_2009' on page 21 undefined on input line 158.
+
+
+LaTeX Warning: Citation `ogrisek_kontrolliertes_2013' on page 21 undefined on input line 158.
+
+
+LaTeX Warning: Reference `ZnOnanowires' on page 21 undefined on input line 158.
+
+
+LaTeX Warning: Citation `cao_tuning_2010' on page 21 undefined on input line 158.
+
+<images/SEMarray.jpg, id=99, 1445.4pt x 742.775pt>
 File: images/SEMarray.jpg Graphic file (type jpg)
  <use images/SEMarray.jpg>
 Package pdftex.def Info: images/SEMarray.jpg used on input line 163.
@@ -602,140 +1147,997 @@ Underfull \hbox (badness 1675) in paragraph at lines 166--166
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Citation `haginoya_nanostructure_1997' on page 21 undefined on input line 169.
 
-[18 <C:/Talks and Posters/2015-xx-Diss/Diss/images/ZnOnanowires.jpg>] [19 <C:/Talks and Posters/2015-xx-Diss/Diss/images
-/SEMarray.jpg>] <images/RHT.png, id=90, 607.26875pt x 408.52625pt>
+
+LaTeX Warning: Citation `hausmann_fabrication_2010' on page 21 undefined on input line 169.
+
+
+LaTeX Warning: Citation `johannes_anomalous_2015' on page 21 undefined on input line 169.
+
+
+LaTeX Warning: Reference `SEMarray' on page 21 undefined on input line 169.
+
+[21 <C:/Talks and Posters/2015-xx-Diss/Diss/images/ZnOnanowires.jpg> <C:/Talks and Posters/2015-xx-Diss/Diss/images/SEMa
+rray.jpg>]
+
+LaTeX Warning: Citation `borschel_permanent_2011' on page 22 undefined on input line 182.
+
+
+LaTeX Warning: Citation `borschel_ion-solid_2012' on page 22 undefined on input line 182.
+
+
+LaTeX Warning: Reference `RHT' on page 22 undefined on input line 182.
+
+
+LaTeX Warning: Citation `noack_sputter_2014' on page 22 undefined on input line 182.
+
+<images/RHT.png, id=104, 607.26875pt x 408.52625pt>
 File: images/RHT.png Graphic file (type png)
  <use images/RHT.png>
 Package pdftex.def Info: images/RHT.png used on input line 186.
 (pdftex.def)             Requested size: 183.99452pt x 123.77437pt.
 
 
-LaTeX Warning: Reference `sec:sisputtering' on page 20 undefined on input line 191.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `sec:quantifydeformation' on page 20 undefined on input line 191.
+LaTeX Warning: Reference `sec:sisputtering' on page 22 undefined on input line 191.
 
 
-LaTeX Warning: Reference `sec:high' on page 20 undefined on input line 191.
+LaTeX Warning: Reference `sec:quantifydeformation' on page 22 undefined on input line 191.
 
 
+LaTeX Warning: Citation `pelaz_ion-beam-induced_2004' on page 22 undefined on input line 191.
+
+
+LaTeX Warning: Reference `sec:high' on page 22 undefined on input line 191.
+
+
+LaTeX Warning: Citation `furdyna_diluted_1988' on page 22 undefined on input line 191.
+
+
+LaTeX Warning: Citation `norberg_synthesis_2004' on page 22 undefined on input line 191.
+
+[22] [23 <C:/Talks and Posters/2015-xx-Diss/Diss/images/RHT.png>]
+
+LaTeX Warning: Citation `noack_sputter_2014' on page 24 undefined on input line 207.
+
+
+LaTeX Warning: Citation `johannes_anomalous_2015' on page 24 undefined on input line 207.
+
+
+LaTeX Warning: Citation `sankur_survey_2004' on page 24 undefined on input line 207.
+
+
+LaTeX Warning: Citation `otsu_threshold_1979' on page 24 undefined on input line 207.
+
+
+LaTeX Warning: Citation `schindelin_fiji:_2012' on page 24 undefined on input line 207.
+
+
+LaTeX Warning: Citation `sage_imagej_2012' on page 24 undefined on input line 207.
+
+
+LaTeX Warning: Citation `noack_sputter_2014' on page 24 undefined on input line 207.
+
+
+LaTeX Warning: Citation `johannes_anomalous_2015' on page 24 undefined on input line 207.
+
+
+LaTeX Warning: Citation `kikuchi_diffraction_1928' on page 24 undefined on input line 211.
+
+
+LaTeX Warning: Citation `fultz_transmission_2013' on page 24 undefined on input line 211.
+
+
+Underfull \vbox (badness 6893) has occurred while \output is active []
+
+ [24]
+
+LaTeX Warning: Citation `glocker_quantitative_1928' on page 25 undefined on input line 215.
+
+
+LaTeX Warning: Citation `jansen_elemental_1982' on page 25 undefined on input line 215.
+
+[25]
+
+LaTeX Warning: Citation `sole_multiplatform_2007' on page 26 undefined on input line 226.
+
+[26]) ("C:\Talks and Posters\2015-xx-Diss\Diss\Sputtering.tex"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20 <C:/Talks and Posters/2015-xx-Diss/Diss/images/RHT.png>] [21]
-
-LaTeX Warning: Citation `glocker_quantitative_1928' on page 22 undefined on input line 215.
-
-
-LaTeX Warning: Citation `jansen_elemental_1982' on page 22 undefined on input line 215.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-Overfull \hbox (3.49048pt too wide) in paragraph at lines 217--218
-\OT1/cmr/m/n/12 mea-sured at the Eu-ro-pean Syn-chrotron Ra-di-a-tion Fa-cil-ity (ERSF), beam-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23] [24]
-Underfull \vbox (badness 3601) has occurred while \output is active []
-
- [25]) [26]
+ [27] [28]
 Chapter 4.
-("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl"
-Overfull \hbox (9.35213pt too wide) in paragraph at lines 75--2
-[]\OT1/cmr/m/it/20.74 check: Mas-ter The-sis Noack, Ogrisek, Con-
- []
+
+LaTeX Warning: Citation `noack_sputter_2014' on page 29 undefined on input line 4.
 
 
-Overfull \hbox (21.0183pt too wide) in paragraph at lines 75--2
-\OT1/cmr/m/it/20.74 fer-ence pro-ced-ing D. Sage, Ruther-ford, Nord-
- []
+LaTeX Warning: Citation `johannes_anomalous_2015' on page 29 undefined on input line 4.
 
-[27
 
-] [28
+LaTeX Warning: Reference `sec:ionsolid' on page 29 undefined on input line 14.
+
+
+LaTeX Warning: Reference `sputtering_de' on page 29 undefined on input line 14.
+
+
+LaTeX Warning: Reference `sputtering_de' on page 29 undefined on input line 14.
+
+<images/sputtering_diameter_energy.png, id=129, 1468.48625pt x 1018.80624pt>
+File: images/sputtering_diameter_energy.png Graphic file (type png)
+
+<use images/sputtering_diameter_energy.png>
+Package pdftex.def Info: images/sputtering_diameter_energy.png used on input line 18.
+(pdftex.def)             Requested size: 331.18788pt x 229.76561pt.
+
+
+LaTeX Warning: Reference `sputtering_de' on page 29 undefined on input line 23.
+
+
+LaTeX Warning: Reference `sputtering_de' on page 29 undefined on input line 23.
+
+[29
 
 ]
-Underfull \hbox (badness 6173) in paragraph at lines 68--76
-[]\OT1/cmr/m/n/12 Christian Borschel, Maria E. Mess-ing, Mag-nus T.
+
+LaTeX Warning: Reference `sputtering_de' on page 30 undefined on input line 25.
+
+
+LaTeX Warning: Citation `bobes_ion_2012' on page 30 undefined on input line 27.
+
+[30 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputtering_diameter_energy.png>]
+
+LaTeX Warning: Reference `SEMarray' on page 31 undefined on input line 34.
+
+
+LaTeX Warning: Reference `redeposit' on page 31 undefined on input line 34.
+
+<images/redeposit.jpg, id=137, 788.9475pt x 782.925pt>
+File: images/redeposit.jpg Graphic file (type jpg)
+ <use images/redeposit.jpg>
+Package pdftex.def Info: images/redeposit.jpg used on input line 38.
+(pdftex.def)             Requested size: 147.19336pt x 146.06934pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\OT1/cmr/m/n/10.95 re-de-po-si-tion of sput-tered
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 68--76
-\OT1/cmr/m/n/12 tron-ics: Highly Mn-Doped GaAs Nano-wires Re-al-ized
+Underfull \hbox (badness 3919) in paragraph at lines 41--41
+\OT1/cmr/m/n/10.95 point \OT1/cmr/m/it/10.95 A \OT1/cmr/m/n/10.95 onto the nano-
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 68--76
-\OT1/cmr/m/n/12 by Ion-Implantation un-der Dy-namic An-neal-ing Con-di-
- []
-
-[29]
-Underfull \hbox (badness 1014) in paragraph at lines 120--125
-[]\OT1/cmr/m/n/12 B. Q. Cao, J. Zu-niga{Perez, C. Czekalla, H. Hilmer,
+Underfull \hbox (badness 1577) in paragraph at lines 41--41
+\OT1/cmr/m/n/10.95 wire with ra-dius \OT1/cmr/m/it/10.95 R \OT1/cmr/m/n/10.95 at a
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 120--125
-\OT1/cmr/m/n/12 J. Lenzner, N. Boukos, A. Trav-los, M. Lorenz, and
+Underfull \hbox (badness 1221) in paragraph at lines 41--41
+\OT1/cmr/m/n/10.95 ro-tated around its axis $\OML/cmm/m/it/10.95 $
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 127--133
-[]\OT1/cmr/m/n/12 Gv Ded-kov.  The In-ter-atomic In-ter-ac-tion Po-ten-
+Underfull \hbox (badness 7116) in paragraph at lines 41--41
+\OT1/cmr/m/n/10.95 ir-ra-di-ated, a ro-ta-tion-ally
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 127--133
-\OT1/cmr/m/n/12 tials in Ra-di-a-tion Physics.  \OT1/cmr/m/it/12 Phys-ica Sta-tus So-lidi a-
- []
-
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 181--185
-[]\OT1/cmr/m/n/12 R. Glocker and H. Schreiber.  Quan-ti-ta-tive
+Underfull \hbox (badness 4181) in paragraph at lines 41--41
+\OT1/cmr/m/n/10.95 sym-met-ric an-gle dis-tri-bu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--185
-\OT1/cmr/m/n/12 Rontgenspektralanalyse mit Kalter-re-gung des Spek-
- []
-
-[31] [32]
-Underfull \hbox (badness 7907) in paragraph at lines 260--265
-[]\OT1/cmr/m/n/12 J. Lind-hard.  On the Prop-er-ties of a Gas of
- []
-
-[33]
-Underfull \hbox (badness 3407) in paragraph at lines 302--307
-\OT1/cmr/m/n/12 Teilchen .1.  \OT1/cmr/m/it/12 Zeitschrift Fur Natur-forschung Sec-tion
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 302--307
-\OT1/cmr/m/it/12 a-a Jour-nal of Phys-i-cal Sci-ences\OT1/cmr/m/n/12 , 2(3):133--145, 1947.
- []
-
-[34] [35]
-Underfull \hbox (badness 2042) in paragraph at lines 398--404
-[]\OT1/cmr/m/n/12 Johannes Schin-delin, Ig-na-cio Arganda-Carreras, Er-win
- []
+LaTeX Warning: Citation `verdeil_angular_2008' on page 31 undefined on input line 50.
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 398--404
-\OT1/cmr/m/n/12 Frise, Ver-ena Kaynig, Mark Lon-gair, To-bias Piet-zsch,
- []
+LaTeX Warning: Reference `redeposit' on page 31 undefined on input line 50.
+
+[31] [32 <C:/Talks and Posters/2015-xx-Diss/Diss/images/redeposit.jpg>]
+
+LaTeX Warning: Reference `anglesredepo' on page 33 undefined on input line 58.
+
+<images/anglesredeposition.jpg, id=144, 1187.43625pt x 512.91624pt>
+File: images/anglesredeposition.jpg Graphic file (type jpg)
+ <use images/anglesredeposition.jpg>
+Package pdftex.def Info: images/anglesredeposition.jpg used on input line 66.
+(pdftex.def)             Requested size: 239.19063pt x 103.31711pt.
+
+
+LaTeX Warning: Reference `anglesredepo' on page 33 undefined on input line 71.
+
+[33 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesredeposition.jpg>]
+
+LaTeX Warning: Reference `prob1' on page 34 undefined on input line 78.
+
+
+LaTeX Warning: Reference `redeposit' on page 34 undefined on input line 85.
+
+
+LaTeX Warning: Citation `gough_gnu_2009' on page 34 undefined on input line 93.
+
+
+LaTeX Warning: Reference `sputtering_de' on page 34 undefined on input line 93.
+
+
+LaTeX Warning: Reference `sputtering_exp' on page 34 undefined on input line 106.
+
+
+LaTeX Warning: Reference `sputtering_exp' on page 34 undefined on input line 106.
+
+
+LaTeX Warning: Reference `sputtering_exp' on page 34 undefined on input line 106.
+
+
+LaTeX Warning: Reference `sputtering_exp' on page 34 undefined on input line 106.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+<images/sputter_exp.png, id=152, 1579.9025pt x 807.015pt>
+File: images/sputter_exp.png Graphic file (type png)
+ <use images/sputter_exp.png>
+Package pdftex.def Info: images/sputter_exp.png used on input line 110.
+(pdftex.def)             Requested size: 349.58846pt x 178.5659pt.
+
+
+LaTeX Warning: Reference `sec:simsputering' on page 35 undefined on input line 115.
+
+
+LaTeX Warning: Reference `sec:ionsolid' on page 35 undefined on input line 115.
+
+[35 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputter_exp.png>]
+
+LaTeX Warning: Citation `nietiadi_sputtering_2014' on page 36 undefined on input line 117.
+
+
+LaTeX Warning: Citation `urbassek_sputter_2015' on page 36 undefined on input line 117.
+
+
+LaTeX Warning: Citation `anders_sputtering_2015' on page 36 undefined on input line 117.
+
+
+LaTeX Warning: Reference `sputtering_exp' on page 36 undefined on input line 119.
+
+<images/EBSD.jpg, id=157, 933.4875pt x 1069.9975pt>
+File: images/EBSD.jpg Graphic file (type jpg)
+ <use images/EBSD.jpg>
+Package pdftex.def Info: images/EBSD.jpg used on input line 125.
+(pdftex.def)             Requested size: 110.39783pt x 126.5329pt.
+
+
+LaTeX Warning: Reference `sec:simion' on page 36 undefined on input line 130.
+
+
+LaTeX Warning: Citation `pelaz_ion-beam-induced_2004' on page 36 undefined on input line 130.
+
+
+LaTeX Warning: Reference `EBSD' on page 36 undefined on input line 130.
+
+
+LaTeX Warning: Citation `lukes_oxidation_1972' on page 36 undefined on input line 130.
+
+
+LaTeX Warning: Citation `al-bayati_composition_1991' on page 36 undefined on input line 130.
 
 [36]
-Underfull \hbox (badness 1735) in paragraph at lines 431--434
-\OT1/cmr/m/n/12 by ion bom-bard-ment.  \OT1/cmr/m/it/12 Jour-nal of Ma-te-ri-als Sci-ence\OT1/cmr/m/n/12 ,
+
+LaTeX Warning: Citation `urbassek_sputter_2015' on page 37 undefined on input line 139.
+
+[37 <C:/Talks and Posters/2015-xx-Diss/Diss/images/EBSD.jpg>]
+
+LaTeX Warning: Citation `urbassek_sputter_2015' on page 38 undefined on input line 141.
+
+
+LaTeX Warning: Citation `greaves_enhanced_2013' on page 38 undefined on input line 141.
+
+
+LaTeX Warning: Citation `ilinov_sputtering_2014' on page 38 undefined on input line 141.
+
+
+LaTeX Warning: Citation `anders_sputtering_2015' on page 38 undefined on input line 141.
+
+
+LaTeX Warning: Citation `johannes_ion_2015' on page 38 undefined on input line 141.
+
+
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [38])
+("C:\Talks and Posters\2015-xx-Diss\Diss\high.tex" [39]
+Chapter 5.
+
+LaTeX Warning: Citation `johannes_enhanced_2014' on page 40 undefined on input line 4.
+
+
+LaTeX Warning: Reference `iradinacrossection' on page 40 undefined on input line 8.
+
+
+LaTeX Warning: Reference `iradinacrossection' on page 40 undefined on input line 8.
+
+
+LaTeX Warning: Reference `iradinacrossection' on page 40 undefined on input line 8.
+
+<images/iradinacrosssection.png, id=170, 1423.3175pt x 738.76pt>
+File: images/iradinacrosssection.png Graphic file (type png)
+ <use images/iradinacrosssection.png>
+Package pdftex.def Info: images/iradinacrosssection.png used on input line 12.
+(pdftex.def)             Requested size: 294.39235pt x 152.79948pt.
+
+Underfull \vbox (badness 1320) has occurred while \output is active []
+
+ [40
+
+]
+
+LaTeX Warning: Citation `borschel_new_2011' on page 41 undefined on input line 17.
+
+
+LaTeX Warning: Citation `paschoal_hopping_2012' on page 41 undefined on input line 17.
+
+
+LaTeX Warning: Citation `borschel_ion-solid_2012' on page 41 undefined on input line 17.
+
+
+LaTeX Warning: Citation `kumar_magnetic_2013' on page 41 undefined on input line 17.
+
+
+LaTeX Warning: Citation `paschoal_magnetoresistance_2014' on page 41 undefined on input line 17.
+
+
+LaTeX Warning: Reference `ZnOwires' on page 41 undefined on input line 25.
+
+[41 <C:/Talks and Posters/2015-xx-Diss/Diss/images/iradinacrosssection.png>]
+<images/XRFSEM.png, id=179, 1543.7675pt x 558.085pt>
+File: images/XRFSEM.png Graphic file (type png)
+ <use images/XRFSEM.png>
+Package pdftex.def Info: images/XRFSEM.png used on input line 29.
+(pdftex.def)             Requested size: 294.39235pt x 106.42046pt.
+
+
+LaTeX Warning: Reference `XRFSEM' on page 42 undefined on input line 35.
+
+
+LaTeX Warning: Reference `XRFSEM' on page 42 undefined on input line 35.
+
+
+LaTeX Warning: Reference `XRFSEM' on page 42 undefined on input line 35.
+
+
+LaTeX Warning: Reference `XRFSEM' on page 42 undefined on input line 35.
+
+
+LaTeX Warning: Reference `MnZn1' on page 42 undefined on input line 37.
+
+
+LaTeX Warning: Reference `MnZn1' on page 42 undefined on input line 37.
+
+[42 <C:/Talks and Posters/2015-xx-Diss/Diss/images/XRFSEM.png>] <images/MnZn1.png, id=184, 1515.6625pt x 794.97pt>
+File: images/MnZn1.png Graphic file (type png)
+
+<use images/MnZn1.png>
+Package pdftex.def Info: images/MnZn1.png used on input line 41.
+(pdftex.def)             Requested size: 294.39235pt x 154.40594pt.
+
+
+LaTeX Warning: Reference `ZnOwires' on page 43 undefined on input line 46.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MnZn1.png>] <images/MnZn2.png, id=189, 1423.3175pt x 736.7525pt>
+File: images/MnZn2.png Graphic file (type png)
+ <use images/MnZn2.png>
+Package pdftex.def Info: images/MnZn2.png used on input line 51.
+(pdftex.def)             Requested size: 312.79292pt x 161.90617pt.
+
+
+LaTeX Warning: Reference `MnZn2' on page 44 undefined on input line 56.
+
+
+LaTeX Warning: Reference `MnZn2' on page 44 undefined on input line 56.
+
+<images/SEMbreak.png, id=190, 1105.12875pt x 752.8125pt>
+File: images/SEMbreak.png Graphic file (type png)
+ <use images/SEMbreak.png>
+Package pdftex.def Info: images/SEMbreak.png used on input line 60.
+(pdftex.def)             Requested size: 183.99452pt x 125.33443pt.
+
+Underfull \hbox (badness 6477) in paragraph at lines 63--63
+[] []|\OT1/cmr/m/n/10.95 SEM im-ages show-ing
  []
 
-[37] [38]) [39] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
+
+Underfull \hbox (badness 7631) in paragraph at lines 63--63
+\OT1/cmr/m/n/10.95 a ZnO nano-wire bro-ken off
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `SEMbreak' on page 44 undefined on input line 65.
+
+[44 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MnZn2.png>]
+
+LaTeX Warning: Reference `MnZn2' on page 45 undefined on input line 67.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45 <C:/Talks and Posters/2015-xx-Diss/Diss/images/SEMbreak.png>] <images/staticsputteryield.png, id=199, 792.8019pt x 
+539.8569pt>
+File: images/staticsputteryield.png Graphic file (type png)
+ <use images/staticsputteryield.png>
+Package pdftex.def Info: images/staticsputteryield.png used on input line 76.
+(pdftex.def)             Requested size: 183.99452pt x 125.28477pt.
+
+
+LaTeX Warning: Reference `staticsputter' on page 46 undefined on input line 81.
+
+[46 <C:/Talks and Posters/2015-xx-Diss/Diss/images/staticsputteryield.png>]
+<images/sputterincorporate.png, id=205, 1430.34375pt x 872.25874pt>
+File: images/sputterincorporate.png Graphic file (type png)
+ <use images/sputterincorporate.png>
+Package pdftex.def Info: images/sputterincorporate.png used on input line 85.
+(pdftex.def)             Requested size: 294.39235pt x 179.5196pt.
+
+
+LaTeX Warning: Reference `sputterincorporate' on page 47 undefined on input line 90.
+
+
+LaTeX Warning: Reference `sputterincorporate' on page 47 undefined on input line 90.
+
+
+LaTeX Warning: Reference `sec:simsputering' on page 47 undefined on input line 90.
+
+
+LaTeX Warning: Reference `sputterincorporate' on page 47 undefined on input line 90.
+
+
+LaTeX Warning: Reference `sputterincorporate' on page 47 undefined on input line 90.
+
+
+LaTeX Warning: Reference `sputterincorporate' on page 47 undefined on input line 90.
+
+
+LaTeX Warning: Reference `sputterincorporate' on page 47 undefined on input line 90.
+
+[47 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputterincorporate.png>]
+
+LaTeX Warning: Reference `sputterincorporate' on page 48 undefined on input line 94.
+
+
+LaTeX Warning: Reference `sputterincorporate' on page 48 undefined on input line 94.
+
+
+LaTeX Warning: Reference `pseudodynamic' on page 48 undefined on input line 94.
+
+
+LaTeX Warning: Reference `sputterincorporate' on page 48 undefined on input line 94.
+
+
+LaTeX Warning: Reference `sec:sputter' on page 48 undefined on input line 94.
+
+<images/pseudodynamic.png, id=210, 793.5246pt x 542.5068pt>
+File: images/pseudodynamic.png Graphic file (type png)
+ <use images/pseudodynamic.png>
+Package pdftex.def Info: images/pseudodynamic.png used on input line 98.
+(pdftex.def)             Requested size: 183.99452pt x 125.79213pt.
+
+Underfull \hbox (badness 1210) in paragraph at lines 101--101
+\OT1/cmr/m/n/10.95 dynamic sim-u-la-tion con-sid-er-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\OT1/cmr/m/n/10.95 diameter-dependent sput-ter-
+ []
+
+
+LaTeX Warning: Reference `pseudodynamic' on page 48 undefined on input line 103.
+
+
+LaTeX Warning: Reference `sputterincorporate' on page 48 undefined on input line 103.
+
+
+LaTeX Warning: Reference `sputterincorporate' on page 48 undefined on input line 103.
+
+
+LaTeX Warning: Reference `pseudodynamic' on page 48 undefined on input line 103.
+
+[48 <C:/Talks and Posters/2015-xx-Diss/Diss/images/pseudodynamic.png>]
+
+LaTeX Warning: Reference `iradinacrossection' on page 49 undefined on input line 105.
+
+
+LaTeX Warning: Citation `geburt_rare_2008' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `ronning_ion_2010' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `kaiser_defect_2011' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `geburt_lasing_2012' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `geburt_intense_2013' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `kaiser_luminescence_2013' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `geburt_intense_2014' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `chu_nano-x-ray_2014' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `borschel_new_2011' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `paschoal_hopping_2012' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `borschel_ion-solid_2012' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `kumar_magnetic_2013' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `paschoal_magnetoresistance_2014' on page 49 undefined on input line 110.
+
+
+LaTeX Warning: Citation `borschel_permanent_2011' on page 49 undefined on input line 110.
+
+[49]
+
+LaTeX Warning: Reference `sec:simion' on page 50 undefined on input line 112.
+
+
+LaTeX Warning: Citation `moller_tridyn_1984' on page 50 undefined on input line 114.
+
+
+LaTeX Warning: Citation `moller_tridyn-binary_1988' on page 50 undefined on input line 114.
+
+
+LaTeX Warning: Citation `miyagawa_computer_1991' on page 50 undefined on input line 114.
+
+
+LaTeX Warning: Citation `sigmund_alloy_1993' on page 50 undefined on input line 114.
+
+
+LaTeX Warning: Citation `eckstein_oscillations_2000' on page 50 undefined on input line 114.
+
+
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [50]
+
+LaTeX Warning: Reference `sec:sputter' on page 51 undefined on input line 118.
+
+
+LaTeX Warning: Citation `moller_tridyn_1984' on page 51 undefined on input line 118.
+
+
+LaTeX Warning: Citation `andersen_computer_1986' on page 51 undefined on input line 118.
+
+
+LaTeX Warning: Citation `moller_tridyn-binary_1988' on page 51 undefined on input line 118.
+
+
+LaTeX Warning: Citation `sigmund_alloy_1993' on page 51 undefined on input line 118.
+
+
+LaTeX Warning: Citation `zaporozchenko_preferential_1995' on page 51 undefined on input line 118.
+
+) ("C:\Talks and Posters\2015-xx-Diss\Diss\plastic.tex" [51]
+Chapter 6.
+
+LaTeX Warning: Reference `deformSEM' on page 52 undefined on input line 5.
+
+<images/deformSEM.png, id=224, 520.94624pt x 430.60875pt>
+File: images/deformSEM.png Graphic file (type png)
+ <use images/deformSEM.png>
+Package pdftex.def Info: images/deformSEM.png used on input line 9.
+(pdftex.def)             Requested size: 176.63316pt x 146.00423pt.
+
+Underfull \hbox (badness 5970) in paragraph at lines 12--12
+[] []|[]\OT1/cmr/m/n/10.95 placeholdergraph - get
+ []
+
+
+LaTeX Warning: Reference `deformationprofile' on page 52 undefined on input line 14.
+
+
+LaTeX Warning: Citation `pelaz_ion-beam-induced_2004' on page 52 undefined on input line 14.
+
+[52
+
+ <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformSEM.png>]
+<images/deformationprofile.jpg, id=230, 1445.4pt x 1078.0275pt>
+File: images/deformationprofile.jpg Graphic file (type jpg)
+ <use images/deformationprofile.jpg>
+Package pdftex.def Info: images/deformationprofile.jpg used on input line 18.
+(pdftex.def)             Requested size: 176.63316pt x 131.72643pt.
+
+
+LaTeX Warning: Reference `deformationprofile' on page 53 undefined on input line 26.
+
+
+LaTeX Warning: Reference `MRTequation' on page 53 undefined on input line 26.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationprofile.jpg>] <images/MTRillustration.png, id=234, 870.25
+125pt x 746.79pt>
+File: images/MTRillustration.png Graphic file (type png)
+ <use images/MTRillustration.png>
+Package pdftex.def Info: images/MTRillustration.png used on input line 38.
+(pdftex.def)             Requested size: 91.99725pt x 78.94513pt.
+
+
+LaTeX Warning: Reference `MRTequation' on page 54 undefined on input line 43.
+
+
+LaTeX Warning: Reference `MTRillustration' on page 54 undefined on input line 43.
+
+
+LaTeX Warning: Reference `MRTequation' on page 54 undefined on input line 43.
+
+
+LaTeX Warning: Reference `MTRillustration' on page 54 undefined on input line 43.
+
+
+LaTeX Warning: Reference `MRTequation' on page 54 undefined on input line 43.
+
+
+LaTeX Warning: Reference `MTRillustration' on page 54 undefined on input line 43.
+
+
+LaTeX Warning: Citation `pelaz_ion-beam-induced_2004' on page 54 undefined on input line 47.
+
+
+LaTeX Warning: Citation `snoeks_stress_1997' on page 54 undefined on input line 47.
+
+
+LaTeX Warning: Citation `hu_burrowing_2002' on page 54 undefined on input line 47.
+
+
+LaTeX Warning: Citation `mayr_mechanisms_2003' on page 54 undefined on input line 47.
+
+
+LaTeX Warning: Citation `mayr_effect_2003' on page 54 undefined on input line 47.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MTRillustration.png>]
+
+LaTeX Warning: Reference `deformationBCA' on page 55 undefined on input line 49.
+
+
+LaTeX Warning: Reference `deformationBCA' on page 55 undefined on input line 49.
+
+
+LaTeX Warning: Reference `deformationBCA' on page 55 undefined on input line 49.
+
+
+LaTeX Warning: Reference `deformationBCA' on page 55 undefined on input line 49.
+
+
+Underfull \vbox (badness 5359) has occurred while \output is active []
+
+ [55]
+
+LaTeX Warning: Reference `deformationBCA' on page 56 undefined on input line 51.
+
+
+LaTeX Warning: Reference `deformationBCA' on page 56 undefined on input line 51.
+
+
+LaTeX Warning: Reference `deformationBCA' on page 56 undefined on input line 51.
+
+[56] <images/deformationBCA.jpg, id=245, 1316.92pt x 1115.16624pt>
+File: images/deformationBCA.jpg Graphic file (type jpg)
+ <use images/deformationBCA.jpg>
+Package pdftex.def Info: images/deformationBCA.jpg used on input line 56.
+(pdftex.def)             Requested size: 227.62204pt x 192.74074pt.
+
+
+LaTeX Warning: Citation `corbett_production_1965' on page 57 undefined on input line 61.
+
+
+LaTeX Warning: Reference `sec:simion' on page 57 undefined on input line 61.
+
+
+LaTeX Warning: Reference `deformationBCA' on page 57 undefined on input line 61.
+
+
+LaTeX Warning: Reference `deformationBCA' on page 57 undefined on input line 61.
+
+[57
+
+ <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationBCA.jpg>]
+
+LaTeX Warning: Reference `reverseFIB' on page 58 undefined on input line 65.
+
+<images/reverseFIB.jpg, id=249, 2268.475pt x 383.4325pt>
+File: images/reverseFIB.jpg Graphic file (type jpg)
+ <use images/reverseFIB.jpg>
+Package pdftex.def Info: images/reverseFIB.jpg used on input line 69.
+(pdftex.def)             Requested size: 364.31117pt x 61.57277pt.
+
+
+LaTeX Warning: Reference `reverseangle' on page 58 undefined on input line 74.
+
+
+LaTeX Warning: Reference `reverseangle' on page 58 undefined on input line 74.
+
+
+LaTeX Warning: Reference `reverseangle' on page 58 undefined on input line 74.
+
+
+LaTeX Warning: Reference `reverseangle' on page 58 undefined on input line 74.
+
+[58] <images/reverseangle.jpg, id=254, 1189.44376pt x 1102.1175pt>
+File: images/reverseangle.jpg Graphic file (type jpg)
+ <use images/reverseangle.jpg>
+Package pdftex.def Info: images/reverseangle.jpg used on input line 78.
+(pdftex.def)             Requested size: 227.62204pt x 210.9012pt.
+
+
+LaTeX Warning: Citation `wesch_effect_2004' on page 59 undefined on input line 83.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59 <C:/Talks and Posters/2015-xx-Diss/Diss/images/reverseFIB.jpg>] [60 <C:/Talks and Posters/2015-xx-Diss/Diss/images/
+reverseangle.jpg>]
+
+LaTeX Warning: Citation `trinkaus_viscoelastic_1995' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `hedler_amorphous_2004' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `hedler_boundary_2005' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `snoeks_colloidal_2000' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `snoeks_colloidal_2001' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `van_dillen_anisotropic_2001' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `dillen_energy-dependent_2001' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `dillen_ion_2003' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `dillen_ion_2004' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `klaumunzer_ion_2004' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `dillen_ion_2003' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `trinkaus_viscoelastic_1995' on page 61 undefined on input line 85.
+
+
+LaTeX Warning: Citation `primetzhofer_inelastic_2012' on page 61 undefined on input line 87.
+
+
+LaTeX Warning: Citation `primetzhofer_local_2013' on page 61 undefined on input line 87.
+
+
+LaTeX Warning: Citation `nordlund_defect_1998' on page 61 undefined on input line 87.
+
+
+LaTeX Warning: Citation `baumer_prediction_2014' on page 61 undefined on input line 87.
+
+
+LaTeX Warning: Citation `trinkaus_viscoelastic_1995' on page 61 undefined on input line 87.
+
+
+LaTeX Warning: Citation `mayr_mechanisms_2003' on page 61 undefined on input line 87.
+
+
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [61]
+<images/deformationmodel.jpg, id=264, 1533.73pt x 1276.77pt>
+File: images/deformationmodel.jpg Graphic file (type jpg)
+ <use images/deformationmodel.jpg>
+Package pdftex.def Info: images/deformationmodel.jpg used on input line 92.
+(pdftex.def)             Requested size: 227.62204pt x 189.48111pt.
+
+
+LaTeX Warning: Reference `deformationmodel' on page 62 undefined on input line 99.
+
+
+LaTeX Warning: Reference `deformationmodel' on page 62 undefined on input line 99.
+
+
+LaTeX Warning: Reference `deformationmodel' on page 62 undefined on input line 99.
+
+
+LaTeX Warning: Citation `dillen_ion_2003' on page 62 undefined on input line 99.
+
+
+LaTeX Warning: Citation `baumer_prediction_2014' on page 62 undefined on input line 99.
+
+
+LaTeX Warning: Citation `volkert_stress_1991' on page 62 undefined on input line 99.
+
+
+LaTeX Warning: Citation `massl_stress_2008' on page 62 undefined on input line 99.
+
+[62] [63 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationmodel.jpg>]
+
+LaTeX Warning: Citation `baumer_prediction_2014' on page 64 undefined on input line 101.
+
+
+LaTeX Warning: Reference `deformationmodel' on page 64 undefined on input line 101.
+
+
+LaTeX Warning: Citation `borschel_ion-solid_2012' on page 64 undefined on input line 101.
+
+
+LaTeX Warning: Citation `greaves_enhanced_2013' on page 64 undefined on input line 101.
+
+
+LaTeX Warning: Citation `anders_sputtering_2015' on page 64 undefined on input line 101.
+
+
+LaTeX Warning: Citation `johannes_ion_2015' on page 64 undefined on input line 101.
+
+
+LaTeX Warning: Citation `snoeks_stress_1997' on page 64 undefined on input line 101.
+
+
+LaTeX Warning: Citation `hu_burrowing_2002' on page 64 undefined on input line 101.
+
+
+LaTeX Warning: Citation `mayr_mechanisms_2003' on page 64 undefined on input line 101.
+
+
+LaTeX Warning: Reference `deformationmodel' on page 64 undefined on input line 101.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64]) [65]
+Chapter 7.
+("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl" [66
+
+] [67
+
+]
+Underfull \hbox (badness 6110) in paragraph at lines 81--89
+[]\OT1/cmr/m/n/10.95 Christian Borschel, Maria E. Mess-ing, Mag-nus T.
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 81--89
+\OT1/cmr/m/n/10.95 tron-ics: Highly Mn-Doped GaAs Nano-wires Re-al-ized
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 81--89
+\OT1/cmr/m/n/10.95 by Ion-Implantation un-der Dy-namic An-neal-ing Con-di-
+ []
+
+[68]
+Underfull \hbox (badness 2326) in paragraph at lines 127--131
+[]\OT1/cmr/m/n/10.95 Omar Bobes, Kun Zhang, and Hans Hofsass.  Ion
+ []
+
+[69]
+Underfull \hbox (badness 1005) in paragraph at lines 152--157
+[]\OT1/cmr/m/n/10.95 B. Q. Cao, J. Zu-niga{Perez, C. Czekalla, H. Hilmer,
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 152--157
+\OT1/cmr/m/n/10.95 J. Lenzner, N. Boukos, A. Trav-los, M. Lorenz, and
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 166--172
+[]\OT1/cmr/m/n/10.95 Gv Ded-kov.  The In-ter-atomic In-ter-ac-tion Po-ten-
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 166--172
+\OT1/cmr/m/n/10.95 tials in Ra-di-a-tion Physics.  \OT1/cmr/m/it/10.95 Phys-ica Sta-tus So-lidi a-
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 199--203
+[]\OT1/cmr/m/n/10.95 T. van Dillen, A. Pol-man, W. Fukarek, and A. van
+ []
+
+[70] [71]
+Underfull \hbox (badness 1152) in paragraph at lines 274--281
+\OT1/cmr/m/n/10.95 Manh-Hung Chu, Jaime Segura-Ruiz, Gema Martnez-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--287
+[]\OT1/cmr/m/n/10.95 R. Glocker and H. Schreiber.  Quan-ti-ta-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--287
+\OT1/cmr/m/n/10.95 Rontgenspektralanalyse mit Kalter-re-gung des Spek-
+ []
+
+[72] [73] [74]
+Underfull \hbox (badness 7851) in paragraph at lines 423--428
+[]\OT1/cmr/m/n/10.95 J. Lind-hard.  On the Prop-er-ties of a Gas of
+ []
+
+[75] [76]
+Underfull \hbox (badness 3343) in paragraph at lines 506--511
+\OT1/cmr/m/n/10.95 Teilchen .1.  \OT1/cmr/m/it/10.95 Zeitschrift Fur Natur-forschung Sec-tion
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 506--511
+\OT1/cmr/m/it/10.95 a-a Jour-nal of Phys-i-cal Sci-ences\OT1/cmr/m/n/10.95 , 2(3):133--145, 1947.
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 513--521
+[]\OT1/cmr/m/n/10.95 J. Mei-jer, T. Vo-gel, B. Bur-chard, I. W. Rangelow,
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 513--521
+\OT1/cmr/m/n/10.95 L. Bischoff, J. Wrachtrup, M. Domhan, F. Jelezko,
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 513--521
+\OT1/cmr/m/n/10.95 Kaler.  Con-cept of de-ter-min-is-tic sin-gle ion dop-ing
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 513--521
+\OT1/cmr/m/n/10.95 with sub-nm spa-tial res-o-lu-tion.  \OT1/cmr/m/it/10.95 Ap-plied Physics a-
+ []
+
+[77] [78] [79]
+Underfull \hbox (badness 1983) in paragraph at lines 658--664
+[]\OT1/cmr/m/n/10.95 Johannes Schin-delin, Ig-na-cio Arganda-Carreras, Er-win
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 658--664
+\OT1/cmr/m/n/10.95 Frise, Ver-ena Kaynig, Mark Lon-gair, To-bias Piet-zsch,
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 701--704
+\OT1/cmr/m/n/10.95 by ion bom-bard-ment.  \OT1/cmr/m/it/10.95 Jour-nal of Ma-te-ri-als Sci-ence\OT1/cmr/m/n/10.95 ,
+ []
+
+[80] [81] [82] [83]) [84] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
 
 LaTeX Warning: There were undefined references.
 
@@ -744,25 +2146,28 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 3846 strings out of 493921
- 57366 string characters out of 3147251
- 161527 words of memory out of 3000000
- 7067 multiletter control sequences out of 15000+200000
- 11377 words of font info for 40 fonts, out of 3000000 for 9000
+ 4077 strings out of 493921
+ 62590 string characters out of 3147251
+ 162639 words of memory out of 3000000
+ 7261 multiletter control sequences out of 15000+200000
+ 13956 words of font info for 49 fonts, out of 3000000 for 9000
  847 hyphenation exceptions out of 8191
- 39i,9n,55p,1748b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Diss.pdf (40 pages, 2522540 bytes).
+ 39i,15n,55p,2572b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmti12.pfb>
+Output written on Diss.pdf (87 pages, 9371897 bytes).
 PDF statistics:
- 204 PDF objects out of 1000 (max. 8388607)
+ 402 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
