@@ -37,9 +37,15 @@ openany
 %\doublespacing
 %\setstretch{1.1}
 
+\usepackage{tocloft}    % tocloft for table of contents style
 
+\setlength{\cftbeforetoctitleskip}{-2cm}
+%\renewcommand{\cftaftertoctitle}{\thispagestyle{plain}}
+%\usepackage[compact]{titlesec}  % titlesec for title section layout
 %\usepackage{titlesec}
 %\titlespacing*{\chapter}{0pt}{-100pt}{40pt}
+
+
 
 \makeindex
 \begin{document}
@@ -48,9 +54,9 @@ openany
 
 \input{title_abstract}
 
-
+\clearpage
 \small{\tableofcontents}
-\addtocontents{toc}{~\vspace{-3\baselineskip}}
+\addtocontents{toc}{\vskip-40pt}
 
 \chapter{Introduction}
 \pagenumbering{arabic}
@@ -58,21 +64,19 @@ openany
 %\let\clearpage\relax
 \onehalfspacing
 
-\input{Introduction}
+%\input{Introduction}
 
 \input{Methods}
 
-\input{Sputtering}
+%\input{Sputtering}
 
 
 
 \input{high}
 
-\input{plastic}
+%\input{plastic}
 
-\chapter{Summary and Outlook}
-
-
+\input{Summary}
 
 
 
