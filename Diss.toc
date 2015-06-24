@@ -1,28 +1,10 @@
 \vskip -40pt
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Background}{2}
-\contentsline {section}{\numberline {2.1}Ion-solid interactions}{2}
-\contentsline {subsubsection}{\nonumberline Electronic Energy loss}{2}
-\contentsline {subsubsection}{\nonumberline Nuclear energy loss}{5}
-\contentsline {subsubsection}{\nonumberline The binary collision approximation}{6}
-\contentsline {subsubsection}{\nonumberline Sigmund theory of sputtering}{7}
-\contentsline {section}{\numberline {2.2}Simulation of ion-solid interaction}{9}
-\contentsline {subsubsection}{\nonumberline Monte-Carlo simulations}{10}
-\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{14}
-\contentsline {subsubsection}{\nonumberline Relevant simulations in literature}{15}
-\contentsline {chapter}{\numberline {3}Experimental Methods}{16}
-\contentsline {section}{\numberline {3.1}Nanowire synthesis}{16}
-\contentsline {section}{\numberline {3.2}Modification}{18}
-\contentsline {subsubsection}{\nonumberline ROMEO}{18}
-\contentsline {subsubsection}{\nonumberline Focused ion beam - FIB}{19}
-\contentsline {section}{\numberline {3.3}Characterization}{20}
-\contentsline {subsubsection}{\nonumberline Scanning Electron Microscope - SEM}{20}
-\contentsline {subsubsection}{\nonumberline Electron Back-Scatter Diffraction - EBSD}{21}
-\contentsline {subsubsection}{\nonumberline nano-XRF}{21}
-\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{23}
-\contentsline {chapter}{\numberline {4}High Doping Concentrations in Nanowires}{25}
-\contentsline {section}{\numberline {4.1}Doping and Sputtering}{25}
-\contentsline {section}{\numberline {4.2}nano-XRF on single nanowires}{26}
-\contentsline {section}{\numberline {4.3}Pseudo-dynamic simulation}{31}
-\contentsline {section}{\numberline {4.4}Summarizing Discussion}{34}
-\contentsline {chapter}{\numberline {5}Conclusions and Outlook}{37}
+\contentsline {chapter}{\numberline {2}Plastic Deformation of Silicon Nanowires}{2}
+\contentsline {section}{\numberline {2.1}Experimental observation of plastic deformation}{2}
+\contentsline {section}{\numberline {2.2}Quantification of the Deformation}{4}
+\contentsline {section}{\numberline {2.3}Knock-on transport of mass}{5}
+\contentsline {section}{\numberline {2.4}Irradiation at large angles of incidence}{8}
+\contentsline {section}{\numberline {2.5}The deformation mechanism}{13}
+\contentsline {subsubsection}{\nonumberline Discussion}{16}
+\contentsline {chapter}{\numberline {3}Conclusions and Outlook}{17}

@@ -18,7 +18,7 @@ Document=Diss.tex
 
 [Frame0_View0,0]
 TopLine=49
-Cursor=1535
+Cursor=1538
 
 [Frame1]
 Flags=0
@@ -71,7 +71,7 @@ Class=LaTeXView
 Document=Methods.tex
 
 [Frame3_View0,0]
-TopLine=210
+TopLine=271
 Cursor=26529
 
 [Frame4]
@@ -89,8 +89,8 @@ Class=LaTeXView
 Document=Sputtering.tex
 
 [Frame4_View0,0]
-TopLine=174
-Cursor=453
+TopLine=0
+Cursor=35
 
 [Frame5]
 Flags=0
@@ -107,8 +107,8 @@ Class=LaTeXView
 Document=high.tex
 
 [Frame5_View0,0]
-TopLine=213
-Cursor=27690
+TopLine=33
+Cursor=1709
 
 [Frame6]
 Flags=0
@@ -125,8 +125,8 @@ Class=LaTeXView
 Document=plastic.tex
 
 [Frame6_View0,0]
-TopLine=0
-Cursor=375
+TopLine=58
+Cursor=7518
 
 [Frame7]
 Flags=0
@@ -144,11 +144,11 @@ Document=Summary.tex
 
 [Frame7_View0,0]
 TopLine=0
-Cursor=5131
+Cursor=5511
 
 [SessionInfo]
 FrameCount=8
-ActiveFrame=7
+ActiveFrame=6
 
 [Bookmarks]
 Methods.tex=34 58 168 122 
