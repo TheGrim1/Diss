@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  24 JUN 2015 17:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  25 JUN 2015 17:55
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -543,154 +543,74 @@ iss\Diss.toc")
 
 ]
 Chapter 1.
-("C:\Talks and Posters\2015-xx-Diss\Diss\plastic.tex" [1
+("C:\Talks and Posters\2015-xx-Diss\Diss\Introduction.tex"
+Underfull \vbox (badness 4859) has occurred while \output is active []
+
+ [1
 
 ]
+Overfull \hbox (2.35838pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/n/10.95 duc-tor nano-wires, which have gained a sig-nif-i-cant amount of in-ter-est [[],
+ []
+
+
+Overfull \hbox (2.98215pt too wide) in paragraph at lines 16--17
+[]\OT1/cmr/m/n/10.95 The defin-ing prop-erty of semi-con-duc-tors is the abil-ity to dra-mat-i-cally change
+ []
+
+[2] [3] [4]) ("C:\Talks and Posters\2015-xx-Diss\Diss\Summary.tex" [5]
 Chapter 2.
-<images/deformSEM.png, id=24, 1268.74pt x 1192.455pt>
-File: images/deformSEM.png Graphic file (type png)
- <use images/deformSEM.png>
-Package pdftex.def Info: images/deformSEM.png used on input line 11.
-(pdftex.def)             Requested size: 165.59393pt x 155.62503pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--14
-\OT1/cmr/m/n/10.95 grown $\OML/cmm/m/it/10.95 Si$\OT1/cmr/m/n/10.95 -nanowires be-fore
- []
-
-
-LaTeX Warning: Reference `sec:sisputtering' on page 2 undefined on input line 16.
-
-
-LaTeX Warning: Reference `sec:sisputtering' on page 2 undefined on input line 16.
-
-[2
-
-] <images/deformationprofileandSEM.jpg, id=30, 2302.6025pt x 908.39375pt>
-File: images/deformationprofileandSEM.jpg Graphic file (type jpg)
- <use images/deformationprofileandSEM.jpg>
-Package pdftex.def Info: images/deformationprofileandSEM.jpg used on input line 20.
-(pdftex.def)             Requested size: 294.39235pt x 116.12708pt.
-
-[3 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformSEM.png> <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformat
-ionprofileandSEM.jpg>] <images/MTRillustration.png, id=39, 870.25125pt x 746.79pt>
-File: images/MTRillustration.png Graphic file (type png)
- <use images/MTRillustration.png>
-Package pdftex.def Info: images/MTRillustration.png used on input line 41.
-(pdftex.def)             Requested size: 110.39783pt x 94.72731pt.
-
-
-LaTeX Warning: Reference `sec:sputter' on page 4 undefined on input line 46.
-
-
-LaTeX Warning: Citation `MTReval' on page 4 undefined on input line 46.
-
-[4 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MTRillustration.png>]
-<images/MTReval.png, id=46, 775.4571pt x 530.2209pt>
-File: images/MTReval.png Graphic file (type png)
- <use images/MTReval.png>
-Package pdftex.def Info: images/MTReval.png used on input line 50.
-(pdftex.def)             Requested size: 183.99452pt x 125.79932pt.
- [5 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MTReval.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6] [7]
-<images/deformationBCA.jpg, id=58, 1316.92pt x 1115.16624pt>
-File: images/deformationBCA.jpg Graphic file (type jpg)
- <use images/deformationBCA.jpg>
-Package pdftex.def Info: images/deformationBCA.jpg used on input line 67.
-(pdftex.def)             Requested size: 331.18788pt x 280.44144pt.
-
-
-LaTeX Warning: Reference `sec:simion' on page 8 undefined on input line 72.
-
-[8
-
-] [9 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationBCA.jpg>]
-<images/reverseFIB.jpg, id=65, 2268.475pt x 383.4325pt>
-File: images/reverseFIB.jpg Graphic file (type jpg)
- <use images/reverseFIB.jpg>
-Package pdftex.def Info: images/reverseFIB.jpg used on input line 80.
-(pdftex.def)             Requested size: 364.31117pt x 61.57277pt.
-
-<images/reverseangle.jpg, id=66, 1189.44376pt x 1102.1175pt>
-File: images/reverseangle.jpg Graphic file (type jpg)
- <use images/reverseangle.jpg>
-Package pdftex.def Info: images/reverseangle.jpg used on input line 89.
-(pdftex.def)             Requested size: 227.62204pt x 210.9012pt.
-
-Underfull \vbox (badness 3179) has occurred while \output is active []
-
- [10 <C:/Talks and Posters/2015-xx-Diss/Diss/images/reverseFIB.jpg>] [11 <C:/Talks and Posters/2015-xx-Diss/Diss/images/
-reverseangle.jpg>]
-Underfull \vbox (badness 1622) has occurred while \output is active []
-
- [12]
-<images/deformationmodel.jpg, id=77, 1533.73pt x 1276.77pt>
-File: images/deformationmodel.jpg Graphic file (type jpg)
- <use images/deformationmodel.jpg>
-Package pdftex.def Info: images/deformationmodel.jpg used on input line 103.
-(pdftex.def)             Requested size: 227.62204pt x 189.48111pt.
- [13] [14 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationmodel.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15])
-("C:\Talks and Posters\2015-xx-Diss\Diss\Summary.tex" [16]
-Chapter 3.
-[17
+[6
 
 ]
 Underfull \vbox (badness 1622) has occurred while \output is active []
 
- [18]) [19]
-("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl" [20] [21
-
-] [22]
-Underfull \hbox (badness 1348) in paragraph at lines 118--123
-[]\OT1/cmr/m/n/10.95 Andreas Jo-hannes, Ste-fan Noack, Werner Wesch, Markus
+ [7]) [8]
+("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl"
+Overfull \hbox (2.35236pt too wide) in paragraph at lines 86--2
+\OT1/cmr/m/it/20.74 Mas-ter The-sis Noack, Ogrisek, Con-fer-ence
  []
 
-[23] [24]
-Underfull \hbox (badness 2245) in paragraph at lines 210--217
-\OT1/cmr/m/n/10.95 fred Helm, De-nis Re-ichel, Lars Re-bohle, Marcin Turek,
+[9]
+Overfull \hbox (124.24055pt too wide) in paragraph at lines 12--16
+[]\OT1/cmr/m/n/10.95 Advanced Func-tional Ma-te-ri-als.  \OT1/cmr/m/it/10.95 http://onlinelibrary.wiley.com/journal/10.1
+002/(ISSN)1616-
  []
 
+[10
 
-Underfull \hbox (badness 1436) in paragraph at lines 210--217
-\OT1/cmr/m/n/10.95 Jerzy Zuk, and Wolf-gang Sko-rupa.  III-V semi-con-duc-tor
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 230--234
+] [11] [12] [13] [14]
+Underfull \hbox (badness 4024) in paragraph at lines 336--340
 []\OT1/cmr/m/n/10.95 J. Roth.  Sput-ter-ing of Lim-iter and Di-ver-tor Ma-te-ri-als.
  []
 
-[25] [26]) [27] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
 
-LaTeX Warning: There were undefined references.
+Underfull \hbox (badness 2460) in paragraph at lines 336--340
+\OT1/cmr/m/it/10.95 Jour-nal of Nu-clear Ma-te-ri-als\OT1/cmr/m/n/10.95 , 176:132--141, De-cem-ber 1990.
+ []
 
- ) 
+[15] [16]) [17] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux") ) 
 Here is how much of TeX's memory you used:
- 4083 strings out of 493921
- 60898 string characters out of 3147251
- 167852 words of memory out of 3000000
- 7291 multiletter control sequences out of 15000+200000
+ 4039 strings out of 493921
+ 60334 string characters out of 3147251
+ 164933 words of memory out of 3000000
+ 7258 multiletter control sequences out of 15000+200000
  14334 words of font info for 50 fonts, out of 3000000 for 9000
  847 hyphenation exceptions out of 8191
- 39i,15n,55p,2572b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl1
-2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pf
-b>
-Output written on Diss.pdf (30 pages, 4000101 bytes).
+ 39i,8n,55p,1616b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Diss.pdf (20 pages, 242757 bytes).
 PDF statistics:
- 178 PDF objects out of 1000 (max. 8388607)
+ 131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

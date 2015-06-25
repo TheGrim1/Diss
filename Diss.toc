@@ -1,10 +1,3 @@
 \vskip -40pt
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Plastic Deformation of Silicon Nanowires}{2}
-\contentsline {section}{\numberline {2.1}Experimental observation of plastic deformation}{2}
-\contentsline {section}{\numberline {2.2}Quantification of the Deformation}{4}
-\contentsline {section}{\numberline {2.3}Knock-on transport of mass}{5}
-\contentsline {section}{\numberline {2.4}Irradiation at large angles of incidence}{8}
-\contentsline {section}{\numberline {2.5}The deformation mechanism}{13}
-\contentsline {subsubsection}{\nonumberline Discussion}{16}
-\contentsline {chapter}{\numberline {3}Conclusions and Outlook}{17}
+\contentsline {chapter}{\numberline {2}Conclusions and Outlook}{6}
