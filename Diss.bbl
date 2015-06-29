@@ -1,5 +1,5 @@
 \newcommand{\etalchar}[1]{$^{#1}$}
-\begin{thebibliography}{SvBvD{\etalchar{+}}01}
+\begin{thebibliography}{{Adv}15b}
 
 \bibitem[ABU15]{anders_sputtering_2015}
 Christian Anders, Eduardo~M. Bringa, and Herbert~M. Urbassek.
@@ -8,6 +8,17 @@ Christian Anders, Eduardo~M. Bringa, and Herbert~M. Urbassek.
   Beam Interactions with Materials and Atoms}, 342:234--239, January 2015.
 \newblock 00000.
 
+\bibitem[{Adv}15a]{advanced_functional_materials_http://onlinelibrary.wiley.com/journal/10.1002/issn1616-3028_2015}
+{Advanced Functional Materials}.
+\newblock {\em
+  http://onlinelibrary.wiley.com/journal/10.1002/({ISSN})1616-3028}.
+\newblock June 2015.
+
+\bibitem[{Adv}15b]{advanced_materials_http://www.advmat./_2015}
+{Advanced Materials}.
+\newblock {\em http://www.advmat.de/}.
+\newblock June 2015.
+
 \bibitem[And86]{andersen_computer_1986}
 Hans~Henrik Andersen.
 \newblock Computer simulations of atomic collisions in solids with special
@@ -15,23 +26,33 @@ Hans~Henrik Andersen.
 \newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
   Beam Interactions with Materials and Atoms}, 18(1-6):321--343, January 1986.
 
-\bibitem[BD14]{baumer_prediction_2014}
-Richard~E. Baumer and Michael~J. Demkowicz.
-\newblock Prediction of {Spontaneous} {Plastic} {Deformation} of {Irradiated}
-  {Metallic} {Glasses} due to {Thermal} {Spike}-{Induced} {Plasticity}.
-\newblock {\em Materials Research Letters}, 2(4):221--226, October 2014.
-
 \bibitem[BH88]{bradley_theory_1988}
 R.~Mark Bradley and James M.~E. Harper.
 \newblock Theory of ripple topography induced by ion bombardment.
 \newblock {\em Journal of Vacuum Science \& Technology A}, 6(4):2390--2395,
   July 1988.
 
+\bibitem[BHK{\etalchar{+}}10]{babinec_diamond_2010}
+Thomas~M. Babinec, Birgit J.~M. Hausmann, Mughees Khan, Yinan Zhang,
+  Jeronimo~R. Maze, Philip~R. Hemmer, and Marko Lončar.
+\newblock A diamond nanowire single-photon source.
+\newblock {\em Nature Nanotechnology}, 5(3):195--199, March 2010.
+
 \bibitem[Bie87]{biersack_computer_1987}
 J.~P. Biersack.
 \newblock Computer simulations of sputtering.
 \newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
   Beam Interactions with Materials and Atoms}, 27(1):21--36, June 1987.
+
+\bibitem[BMB{\etalchar{+}}11]{borschel_new_2011}
+Christian Borschel, Maria~E. Messing, Magnus~T. Borgstrom, Waldomiro Paschoal,
+  Jesper Wallentin, Sandeep Kumar, Kilian Mergenthaler, Knut Deppert, Carlo~M.
+  Canali, Hakan Pettersson, Lars Samuelson, and Carsten Ronning.
+\newblock A {New} {Route} toward {Semiconductor} {Nanospintronics}: {Highly}
+  {Mn}-{Doped} {GaAs} {Nanowires} {Realized} by {Ion}-{Implantation} under
+  {Dynamic} {Annealing} {Conditions}.
+\newblock {\em Nano Letters}, 11(9):3935--3940, September 2011.
+\newblock WOS:000294790200073.
 
 \bibitem[Bor12]{borschel_ion-solid_2012}
 Christian Borschel.
@@ -60,29 +81,35 @@ Ajuan Cui, J.~C. Fenton, Wuxia Li, Tiehan~H. Shen, Zhe Liu, Qiang Luo, and
   importance of the substrate material and charging.
 \newblock {\em Applied Physics Letters}, 102(21):213112, May 2013.
 
-\bibitem[CW65]{corbett_production_1965}
-J.~W. Corbett and G.~D. Watkins.
-\newblock Production of {Divacancies} and {Vacancies} by {Electron}
-  {Irradiation} of {Silicon}.
-\newblock {\em Physical Review}, 138(2A):A555--A560, April 1965.
+\bibitem[CWPL01]{cui_nanowire_2001}
+Y.~Cui, Q.~Q. Wei, H.~K. Park, and C.~M. Lieber.
+\newblock Nanowire nanosensors for highly sensitive and selective detection of
+  biological and chemical species.
+\newblock {\em Science}, 293(5533):1289--1292, August 2001.
+\newblock WOS:000170492600031.
 
-\bibitem[DDP{\etalchar{+}}04]{dillen_ion_2004}
-T.~van Dillen, M.~J. A.~de Dood, J.~J. Penninkhof, A.~Polman, S.~Roorda, and
-  A.~M. Vredenberg.
-\newblock Ion beam-induced anisotropic plastic deformation of silicon
-  microstructures.
-\newblock {\em Applied Physics Letters}, 84(18):3591--3593, May 2004.
+\bibitem[DHC{\etalchar{+}}01]{duan_indium_2001}
+X.~F. Duan, Y.~Huang, Y.~Cui, J.~F. Wang, and C.~M. Lieber.
+\newblock Indium phosphide nanowires as building blocks for nanoscale
+  electronic and optoelectronic devices.
+\newblock {\em Nature}, 409(6816):66--69, January 2001.
+\newblock WOS:000166175600038.
 
-\bibitem[DPFB01]{dillen_energy-dependent_2001}
-T.~van Dillen, A.~Polman, W.~Fukarek, and A.~van Blaaderen.
-\newblock Energy-dependent anisotropic deformation of colloidal silica
-  particles under {MeV} {Au} irradiation.
-\newblock {\em Applied Physics Letters}, 78(7):910--912, February 2001.
+\bibitem[DO06]{dietl_engineering_2006}
+Tomasz Dietl and Hideo Ohno.
+\newblock Engineering magnetism in semiconductors.
+\newblock {\em Materials Today}, 9(11):18--26, November 2006.
 
-\bibitem[DPKB03]{dillen_ion_2003}
-T.~van Dillen, A.~Polman, C.~M.~van Kats, and A.~van Blaaderen.
-\newblock Ion beam-induced anisotropic plastic deformation at 300 {keV}.
-\newblock {\em Applied Physics Letters}, 83(21):4315--4317, November 2003.
+\bibitem[Eck91]{eckstein_computer_1991}
+Wolfgang Eckstein.
+\newblock {\em Computer {Simulation} of {Ion}-{Solid} {Interactions}}.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 1991.
+
+\bibitem[Eck00]{eckstein_oscillations_2000}
+W~Eckstein.
+\newblock Oscillations of sputtering yield.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms}, 171(4):435--442, December 2000.
 
 \bibitem[GHB{\etalchar{+}}13]{greaves_enhanced_2013}
 G.~Greaves, J.~A. Hinks, P.~Busby, N.~J. Mellors, A.~Ilinov, A.~Kuronen,
@@ -110,6 +137,11 @@ Xiaoyuan Hu, David~G. Cahill, and Robert~S. Averback.
   irradiation.
 \newblock {\em Journal of Applied Physics}, 92(7):3995--4000, October 2002.
 
+\bibitem[HH12]{hamm_industrial_2012}
+Robert~W. Hamm and Marianne~E. Hamm, editors.
+\newblock {\em Industrial {Accelerators} and {Their} {Applications}}.
+\newblock World Scientific Publishing Company, Hackensack, NJ, August 2012.
+
 \bibitem[HKW04]{hedler_amorphous_2004}
 A~Hedler, Siegfried~Ludwig Klaumünzer, and Werner Wesch.
 \newblock Amorphous silicon exhibits a glass transition.
@@ -120,6 +152,13 @@ A.~Hedler, S.~Klaumünzer, and W.~Wesch.
 \newblock Boundary effects on the plastic flow of amorphous layers during
   high-energy heavy-ion irradiation.
 \newblock {\em Physical Review B}, 72(5):054108, August 2005.
+
+\bibitem[HMF{\etalchar{+}}01]{huang_room-temperature_2001}
+M.~H. Huang, S.~Mao, H.~Feick, H.~Q. Yan, Y.~Y. Wu, H.~Kind, E.~Weber,
+  R.~Russo, and P.~D. Yang.
+\newblock Room-temperature ultraviolet nanowire nanolasers.
+\newblock {\em Science}, 292(5523):1897--1899, June 2001.
+\newblock WOS:000169200700044.
 
 \bibitem[HZM14]{hofsass_simulation_2014}
 H.~Hofsäss, K.~Zhang, and A.~Mutzke.
@@ -141,6 +180,15 @@ Andreas Johannes, Henry Holland-Moritz, and Carsten Ronning.
   incorporation, and dynamic annealing.
 \newblock {\em Semiconductor Science and Technology}, 30(3):033001, March 2015.
 
+\bibitem[JNP{\etalchar{+}}14]{johannes_enhanced_2014}
+A.~Johannes, S.~Noack, W.~Paschoal, S.~Kumar, D.~Jacobsson, H.~Pettersson,
+  L.~Samuelson, K.~A. Dick, G.~Martinez-Criado, M.~Burghammer, and C.~Ronning.
+\newblock Enhanced sputtering and incorporation of {Mn} in implanted {GaAs} and
+  {ZnO} nanowires.
+\newblock {\em Journal of Physics D-Applied Physics}, 47(39):394003, October
+  2014.
+\newblock WOS:000341772000005.
+
 \bibitem[JNW{\etalchar{+}}15]{johannes_anomalous_2015}
 Andreas Johannes, Stefan Noack, Werner Wesch, Markus Glaser, Alois Lugstein,
   and Carsten Ronning.
@@ -159,12 +207,12 @@ Roger Kelly.
 \newblock {\em Nuclear Instruments and Methods}, 149(1–3):553--558, March
   1978.
 
-\bibitem[Kla04]{klaumunzer_ion_2004}
-S.~Klaumünzer.
-\newblock Ion hammering of silica colloids.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
-  Beam Interactions with Materials and Atoms}, 215(3–4):345--352, February
-  2004.
+\bibitem[KFM{\etalchar{+}}01]{kranz_integrating_2001}
+Christine Kranz, Gernot Friedbacher, Boris Mizaikoff, Alois Lugstein, Jürgen
+  Smoliner, and Emmerich Bertagnolli.
+\newblock Integrating an {Ultramicroelectrode} in an {AFM} {Cantilever},
+  {Combined} {Technology} for {Enhanced} {Information}.
+\newblock {\em Analytical Chemistry}, 73(11):2491--2500, June 2001.
 
 \bibitem[KOW11]{kenmotsu_effect_2011}
 T.~Kenmotsu, T.~Ono, and M.~Wada.
@@ -173,12 +221,33 @@ T.~Kenmotsu, T.~Ono, and M.~Wada.
 \newblock {\em Journal of Nuclear Materials}, 415(1, Supplement):S108--S111,
   August 2011.
 
+\bibitem[KPJ{\etalchar{+}}13]{kumar_magnetic_2013}
+Sandeep Kumar, Waldomiro Paschoal, Andreas Johannes, Daniel Jacobsson,
+  Christian Borschel, Anna Pertsova, Chih-Han Wang, Maw-Kuen Wu, Carlo~M.
+  Canali, Carsten Ronning, Lars Samuelson, and Håkan Pettersson.
+\newblock Magnetic {Polarons} and {Large} {Negative} {Magnetoresistance} in
+  {GaAs} {Nanowires} {Implanted} with {Mn} {Ions}.
+\newblock {\em Nano Letters}, 13(11):5079--5084, 2013.
+
 \bibitem[KRG14]{kramczynski_wavelength-dependent_2014}
 Detlef Kramczynski, Bernhard Reuscher, and Hubert Gnaser.
 \newblock Wavelength-dependent ripple propagation on ion-irradiated
   prepatterned surfaces driven by viscous flow corroborates two-field continuum
   model.
 \newblock {\em Physical Review B}, 89(20):205422, May 2014.
+
+\bibitem[KZB{\etalchar{+}}09]{klimmer_size-dependent_2009}
+A.~Klimmer, P.~Ziemann, J.~Biskupek, U.~Kaiser, and M.~Flesch.
+\newblock Size-dependent effect of ion bombardment on {Au} nanoparticles on top
+  of various substrates: {Thermodynamically} dominated capillary forces versus
+  sputtering.
+\newblock {\em Physical Review B}, 79(15), April 2009.
+
+\bibitem[LW07]{lieber_functional_2007}
+Charles~M. Lieber and Zhong~Lin Wang.
+\newblock Functional nanowires.
+\newblock {\em Mrs Bulletin}, 32(2):99--108, February 2007.
+\newblock WOS:000244600800011.
 
 \bibitem[Mö14]{moller_tri3dyn_2014}
 Wolfhard Möller.
@@ -188,16 +257,16 @@ Wolfhard Möller.
   Beam Interactions with Materials and Atoms}, 322:23--33, March 2014.
 \newblock 00001.
 
-\bibitem[MA03]{mayr_effect_2003}
-S.~G. Mayr and R.~S. Averback.
-\newblock Effect of ion bombardment on stress in thin metal films.
-\newblock {\em Physical Review B}, 68(21):214105, December 2003.
+\bibitem[map15]{map_http://www.itrs.net/_2015}
+ITRS~road map.
+\newblock {\em http://www.itrs.net/}.
+\newblock April 2015.
 
-\bibitem[MAAA03]{mayr_mechanisms_2003}
-S.~G. Mayr, Y.~Ashkenazy, K.~Albe, and R.~S. Averback.
-\newblock Mechanisms of {Radiation}-{Induced} {Viscous} {Flow}: {Role} of
-  {Point} {Defects}.
-\newblock {\em Physical Review Letters}, 90(5):055505, February 2003.
+\bibitem[Mar96]{martin_membrane-based_1996}
+C.~R. Martin.
+\newblock Membrane-based synthesis of nanomaterials.
+\newblock {\em Chemistry of Materials}, 8(8):1739--1746, August 1996.
+\newblock WOS:A1996VC73200021.
 
 \bibitem[ME84]{moller_tridyn_1984}
 W.~Möller and W.~Eckstein.
@@ -213,18 +282,52 @@ W.~Möller, W.~Eckstein, and J.~P. Biersack.
 \newblock {\em Computer Physics Communications}, 51(3):355--368, November 1988.
 \newblock 00441.
 
-\bibitem[MKKP08]{massl_stress_2008}
-S.~Massl, H.~Köstenbauer, J.~Keckes, and R.~Pippan.
-\newblock Stress measurement in thin films with the ion beam layer removal
-  method: {Influence} of experimental errors and parameters.
-\newblock {\em Thin Solid Films}, 516(23):8655--8662, October 2008.
+\bibitem[MIS{\etalchar{+}}91]{miyagawa_computer_1991}
+Y.~Miyagawa, M.~Ikeyama, K.~Saito, G.~Massouras, and S.~Miyagawa.
+\newblock Computer simulation of dose effects on composition profiles under ion
+  implantation.
+\newblock {\em Journal of Applied Physics}, 70(12):7289, 1991.
 
-\bibitem[NGA{\etalchar{+}}98]{nordlund_defect_1998}
-K.~Nordlund, M.~Ghaly, R.~S. Averback, M.~Caturla, T.~Diaz de~la Rubia, and
-  J.~Tarus.
-\newblock Defect production in collision cascades in elemental semiconductors
-  and fcc metals.
-\newblock {\em Physical Review B}, 57(13):7556--7570, April 1998.
+\bibitem[MVB{\etalchar{+}}06]{meijer_concept_2006}
+J.~Meijer, T.~Vogel, B.~Burchard, I.~W. Rangelow, L.~Bischoff, J.~Wrachtrup,
+  M.~Domhan, F.~Jelezko, W.~Schnitzler, S.~A. Schulz, K.~Singer, and
+  F.~Schmidt-Kaler.
+\newblock Concept of deterministic single ion doping with sub-nm spatial
+  resolution.
+\newblock {\em Applied Physics a-Materials Science \& Processing},
+  83(2):321--327, May 2006.
+\newblock WOS:000236641800028.
+
+\bibitem[Nan15a]{acs_nano_http://pubs.acs.org/journal/ancac3_2015}
+ACS Nano.
+\newblock {\em http://pubs.acs.org/journal/ancac3}.
+\newblock June 2015.
+
+\bibitem[{Nan}15b]{nano_letters_http://pubs.acs.org/journal/nalefd_2015}
+{Nano Letters}.
+\newblock {\em http://pubs.acs.org/journal/nalefd}.
+\newblock June 2015.
+
+\bibitem[{Nan}15c]{nano_today_http://journals.elsevier.com/17480132/nano-today/_2015}
+{Nano Today}.
+\newblock {\em http://journals.elsevier.com/17480132/nano-today/}.
+\newblock June 2015.
+
+\bibitem[Nan15d]{nanotoxicology_http://www.informahealthcare.com/nan_2015}
+Nanotoxicology.
+\newblock {\em http://www.informahealthcare.com/nan}.
+\newblock June 2015.
+
+\bibitem[{Nas}08]{nastasi/mayer/hirvonen_ion-solid_2008}
+{Nastasi/Mayer/Hirvonen}.
+\newblock {\em Ion-{Solid} {Interactions}: {Fundamentals} and {Applications}}.
+\newblock Cambridge University Press, Cambridge ; New York, auflage: revised.
+  edition, January 2008.
+
+\bibitem[{Nat}15]{nature_nanotechnology_http://www.nature.com/nnano_2015}
+{Nature Nanotechnology}.
+\newblock {\em http://www.nature.com/nnano}.
+\newblock June 2015.
 
 \bibitem[Noa14]{noack_sputter_2014}
 Stefan Noack.
@@ -243,13 +346,11 @@ Maureen~L. Nietiadi, Luis Sandoval, Herbert~M. Urbassek, and Wolfhard Möller.
 \newblock Sputtering of {Si} nanospheres.
 \newblock {\em Physical Review B}, 90(4):045417, July 2014.
 
-\bibitem[PGB13]{primetzhofer_local_2013}
-D.~Primetzhofer, D.~Goebl, and P.~Bauer.
-\newblock Local vs. non-local energy loss of low energy ions: {Influence} of
-  charge exchange processes in close collisions.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
-  Beam Interactions with Materials and Atoms}, 317, Part A:8--12, December
-  2013.
+\bibitem[Ohd08]{ohdomari_single-ion_2008}
+Iwao Ohdomari.
+\newblock Single-ion irradiation: physics, technology and applications.
+\newblock {\em Journal of Physics D: Applied Physics}, 41(4):043001, February
+  2008.
 
 \bibitem[PGL{\etalchar{+}}14]{prucnal_iii-v_2014}
 Slawomir Prucnal, Markus Glaser, Alois Lugstein, Emmerich Bertagnolli, Michael
@@ -260,16 +361,19 @@ Slawomir Prucnal, Markus Glaser, Alois Lugstein, Emmerich Bertagnolli, Michael
 \newblock {\em Nano Research}, 7(12):1769--1776, December 2014.
 \newblock WOS:000346641400006.
 
-\bibitem[PMB04]{pelaz_ion-beam-induced_2004}
-Lourdes Pelaz, Luis~A. Marqués, and Juan Barbolla.
-\newblock Ion-beam-induced amorphization and recrystallization in silicon.
-\newblock {\em Journal of Applied Physics}, 96(11):5947--5976, December 2004.
+\bibitem[PKB{\etalchar{+}}12]{paschoal_hopping_2012}
+Waldomiro Paschoal, Sandeep Kumar, Christian Borschel, Phillip Wu, Carlo~M.
+  Canali, Carsten Ronning, Lars Samuelson, and Hakan Pettersson.
+\newblock Hopping {Conduction} in {Mn} {Ion}-{Implanted} {GaAs} {Nanowires}.
+\newblock {\em Nano Letters}, 12(9):4838--4842, September 2012.
+\newblock WOS:000308576000069.
 
-\bibitem[Pri12]{primetzhofer_inelastic_2012}
-D.~Primetzhofer.
-\newblock Inelastic energy loss of medium energy {H} and {He} ions in {Au} and
-  {Pt}: {Deviations} from velocity proportionality.
-\newblock {\em Physical Review B}, 86(9):094102, September 2012.
+\bibitem[PKJ{\etalchar{+}}14]{paschoal_magnetoresistance_2014}
+W.~Paschoal, Sandeep Kumar, D.~Jacobsson, A.~Johannes, V.~Jain, C.~M. Canali,
+  A.~Pertsova, C.~Ronning, K.~A. Dick, L.~Samuelson, and H.~Pettersson.
+\newblock Magnetoresistance in {Mn} ion-implanted {GaAs}:{Zn} nanowires.
+\newblock {\em Applied Physics Letters}, 104(15):153112, April 2014.
+\newblock WOS:000335145200060.
 
 \bibitem[Rot90]{roth_sputtering_1990}
 J.~Roth.
@@ -277,10 +381,20 @@ J.~Roth.
 \newblock {\em Journal of Nuclear Materials}, 176:132--141, December 1990.
 \newblock WOS:A1990FC48200014.
 
-\bibitem[SBB97]{snoeks_stress_1997}
-E.~Snoeks, K.~S. Boutros, and J.~Barone.
-\newblock Stress relaxation in tungsten films by ion irradiation.
-\newblock {\em Applied Physics Letters}, 71(2):267--269, July 1997.
+\bibitem[Sch12]{schmidt_ion_2012}
+Bernd Schmidt.
+\newblock {\em Ion beams in materials processing and analysis}.
+\newblock Springer, New York, 2012.
+
+\bibitem[Sma15]{small_http://www.small-journal.com/_2015}
+Small.
+\newblock {\em http://www.small-journal.com/}.
+\newblock June 2015.
+
+\bibitem[SN06]{sze_physics_2006}
+Simon~M. Sze and Kwok~K. Ng.
+\newblock {\em Physics of {Semiconductor} {Devices}}.
+\newblock Wiley-Interscience, Hoboken, N.J, 3 edition edition, October 2006.
 
 \bibitem[SO93]{sigmund_alloy_1993}
 Peter Sigmund and Antonino Oliva.
@@ -289,18 +403,11 @@ Peter Sigmund and Antonino Oliva.
 \newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
   Beam Interactions with Materials and Atoms}, 82(2):269--282, July 1993.
 
-\bibitem[SvBvD{\etalchar{+}}00]{snoeks_colloidal_2000}
-E.~Snoeks, A.~van Blaaderen, T.~van Dillen, C.~M. van Kats, M.~L. Brongersma,
-  and A.~Polman.
-\newblock Colloidal {Ellipsoids} with {Continuously} {Variable} {Shape}.
-\newblock {\em Advanced Materials}, 12(20):1511--1514, October 2000.
-
-\bibitem[SvBvD{\etalchar{+}}01]{snoeks_colloidal_2001}
-E~Snoeks, A~van Blaaderen, T~van Dillen, C.~M van Kats, K~Velikov, M.~L
-  Brongersma, and A~Polman.
-\newblock Colloidal assemblies modified by ion irradiation.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
-  Beam Interactions with Materials and Atoms}, 178(1–4):62--68, May 2001.
+\bibitem[SSK{\etalchar{+}}11]{sadowski_gaasmnas_2011}
+Janusz Sadowski, Aloyzas Siusys, Andras Kovacs, Takeshi Kasama, Rafal~E.
+  Dunin-Borkowski, Tomasz Wojciechowski, Anna Reszka, and Bogdan Kowalski.
+\newblock {GaAs}–{MnAs} nanowires.
+\newblock {\em physica status solidi (b)}, 248(7):1576--1580, July 2011.
 
 \bibitem[TR95]{trinkaus_viscoelastic_1995}
 H.~Trinkaus and A.~I. Ryazanov.
@@ -314,14 +421,6 @@ Herbert~M. Urbassek, R.~Mark Bradley, Maureen~L. Nietiadi, and Wolfhard
 \newblock Sputter yield of curved surfaces.
 \newblock {\em Physical Review B}, 91(16):165418, April 2015.
 
-\bibitem[vDSF{\etalchar{+}}01]{van_dillen_anisotropic_2001}
-T~van Dillen, E~Snoeks, W~Fukarek, C.~M van Kats, K.~P Velikov, A~van
-  Blaaderen, and A~Polman.
-\newblock Anisotropic deformation of colloidal particles under {MeV} ion
-  irradiation.
-\newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
-  Beam Interactions with Materials and Atoms}, 175–177:350--356, April 2001.
-
 \bibitem[Vol91]{volkert_stress_1991}
 C.~A. Volkert.
 \newblock Stress and plastic flow in silicon during amorphization by ion
@@ -334,19 +433,26 @@ C.~Verdeil, T.~Wirtz, H.~N. Migeon, and H.~Scherrer.
   oblique incidence.
 \newblock {\em Applied Surface Science}, 255(4):870--873, December 2008.
 
-\bibitem[WKW04]{wesch_effect_2004}
-W.~Wesch, A.~Kamarou, and E.~Wendler.
-\newblock Effect of high electronic energy deposition in semiconductors.
-\newblock {\em Nuclear Instruments \& Methods in Physics Research Section
-  B-Beam Interactions with Materials and Atoms}, 225(1-2):111--128, August
-  2004.
-\newblock WOS:000223792600010.
-
 \bibitem[WM08]{wirtz_storing_2008}
 T.~Wirtz and H.~N. Migeon.
 \newblock Storing {Matter}: {A} new quantitative and sensitive analytical
   technique.
 \newblock {\em Applied Surface Science}, 255(4):1498--1500, December 2008.
+
+\bibitem[XYS{\etalchar{+}}03]{xia_one-dimensional_2003}
+Y.~Xia, P.~Yang, Y.~Sun, Y.~Wu, B.~Mayers, B.~Gates, Y.~Yin, F.~Kim, and
+  H.~Yan.
+\newblock One-{Dimensional} {Nanostructures}: {Synthesis}, {Characterization},
+  and {Applications}.
+\newblock {\em Advanced Materials}, 15(5):353--389, March 2003.
+
+\bibitem[ZLB85]{ziegler_stopping_1985}
+J.~F. (James F.~) Ziegler, U.~Littmark, and J.~P. Biersack.
+\newblock {\em The stopping and range of ions in solids / {J}.{F}. {Ziegler},
+  {J}.{P}. {Biersack}, {U}. {Littmark}}.
+\newblock The {Stopping} and ranges of ions in matter ; v. 1. Pergamon, New
+  York, 1985.
+\newblock Includes index. Bibliography: p. 308-315.
 
 \bibitem[ZS95]{zaporozchenko_preferential_1995}
 Vladimir~I. Zaporozchenko and Maria~G. Stepanova.

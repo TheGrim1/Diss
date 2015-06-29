@@ -11,14 +11,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1362
-NormalPos.bottom=492
+NormalPos.right=1676
+NormalPos.bottom=774
 Class=LaTeXView
 Document=Diss.tex
 
 [Frame0_View0,0]
-TopLine=66
-Cursor=1607
+TopLine=46
+Cursor=1695
 
 [Frame1]
 Flags=0
@@ -29,14 +29,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1362
-NormalPos.bottom=492
+NormalPos.right=1676
+NormalPos.bottom=774
 Class=LaTeXView
 Document=title_abstract.tex
 
 [Frame1_View0,0]
 TopLine=0
-Cursor=288
+Cursor=212
 
 [Frame2]
 Flags=0
@@ -47,14 +47,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1362
-NormalPos.bottom=492
+NormalPos.right=1676
+NormalPos.bottom=774
 Class=LaTeXView
 Document=Introduction.tex
 
 [Frame2_View0,0]
 TopLine=51
-Cursor=6359
+Cursor=10783
 
 [Frame3]
 Flags=0
@@ -65,14 +65,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1362
-NormalPos.bottom=492
+NormalPos.right=1676
+NormalPos.bottom=774
 Class=LaTeXView
 Document=Methods.tex
 
 [Frame3_View0,0]
-TopLine=516
-Cursor=51377
+TopLine=364
+Cursor=33783
 
 [Frame4]
 Flags=0
@@ -83,14 +83,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1362
-NormalPos.bottom=492
+NormalPos.right=1676
+NormalPos.bottom=774
 Class=LaTeXView
-Document=Sputtering.tex
+Document=high.tex
 
 [Frame4_View0,0]
-TopLine=217
-Cursor=12846
+TopLine=0
+Cursor=48
 
 [Frame5]
 Flags=0
@@ -101,14 +101,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1362
-NormalPos.bottom=492
+NormalPos.right=1676
+NormalPos.bottom=774
 Class=LaTeXView
-Document=high.tex
+Document=Sputtering.tex
 
 [Frame5_View0,0]
-TopLine=220
-Cursor=22274
+TopLine=0
+Cursor=32
 
 [Frame6]
 Flags=0
@@ -119,14 +119,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1362
-NormalPos.bottom=492
+NormalPos.right=1676
+NormalPos.bottom=774
 Class=LaTeXView
 Document=plastic.tex
 
 [Frame6_View0,0]
-TopLine=280
-Cursor=20427
+TopLine=0
+Cursor=49
 
 [Frame7]
 Flags=0
@@ -137,17 +137,35 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1362
-NormalPos.bottom=492
+NormalPos.right=1676
+NormalPos.bottom=774
 Class=LaTeXView
 Document=Summary.tex
 
 [Frame7_View0,0]
 TopLine=0
-Cursor=2034
+Cursor=9
+
+[Frame8]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=26
+NormalPos.right=1676
+NormalPos.bottom=774
+Class=LaTeXView
+Document=Theses\Thesen.tex
+
+[Frame8_View0,0]
+TopLine=3
+Cursor=2061
 
 [SessionInfo]
-FrameCount=8
+FrameCount=9
 ActiveFrame=2
 
 [Bookmarks]
