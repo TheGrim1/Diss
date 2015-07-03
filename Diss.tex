@@ -11,7 +11,7 @@ openany
 
 \include{PDFAstuff}
 
-\hyphenation{nano-wires nano-wire nano-structures nano-struc-tured TRI-DYN COS-IPO dia-me-ter}
+\hyphenation{nano-wires nano-wire nano-structures nano-structure nano-struc-tured TRI-DYN COS-IPO dia-me-ter theo-re-ti-cal}
 \usepackage[utf8]{inputenc}
 \usepackage{color}
 \usepackage{graphicx}
@@ -49,12 +49,15 @@ openany
 
 \makeindex
 \begin{document}
-
+\pagenumbering{roman}
 
 
 \input{title_abstract}
 
+
 \clearpage
+\setcounter{page}{1}
+\pagenumbering{arabic}
 \small{\tableofcontents}
 %\addtocontents{toc}{\vskip-40pt}
 
@@ -66,14 +69,7 @@ openany
 
 \input{Introduction}
 
-\clearpage
-\section{Nur FYI:}
-\section{Background}
-\section{Experimental Methods}
-\section{Sputtering of Nanowires}
-\section{High Doping Concentrations in Nanowires}
-\section{Plastic Deformation of Silicon Nanowires}
-\section{und dann:}
+
 %\input{Methods}
 
 %\input{Sputtering}

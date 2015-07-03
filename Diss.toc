@@ -1,9 +1,2 @@
-\contentsline {chapter}{\numberline {1}Introduction}{3}
-\contentsline {section}{\numberline {1.1}Nur FYI:}{8}
-\contentsline {section}{\numberline {1.2}Background}{8}
-\contentsline {section}{\numberline {1.3}Experimental Methods}{8}
-\contentsline {section}{\numberline {1.4}Sputtering of Nanowires}{8}
-\contentsline {section}{\numberline {1.5}High Doping Concentrations in Nanowires}{8}
-\contentsline {section}{\numberline {1.6}Plastic Deformation of Silicon Nanowires}{8}
-\contentsline {section}{\numberline {1.7}und dann:}{8}
-\contentsline {chapter}{\numberline {2}Conclusions and Outlook}{9}
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {chapter}{\numberline {2}Conclusions and Outlook}{8}

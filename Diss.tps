@@ -12,13 +12,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.bottom=775
 Class=LaTeXView
 Document=Diss.tex
 
 [Frame0_View0,0]
-TopLine=46
-Cursor=1695
+TopLine=48
+Cursor=1613
 
 [Frame1]
 Flags=0
@@ -30,13 +30,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.bottom=775
 Class=LaTeXView
 Document=title_abstract.tex
 
 [Frame1_View0,0]
 TopLine=0
-Cursor=212
+Cursor=365
 
 [Frame2]
 Flags=0
@@ -48,13 +48,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.bottom=775
 Class=LaTeXView
 Document=Introduction.tex
 
 [Frame2_View0,0]
-TopLine=51
-Cursor=10783
+TopLine=31
+Cursor=8752
 
 [Frame3]
 Flags=0
@@ -66,13 +66,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.bottom=775
 Class=LaTeXView
 Document=Methods.tex
 
 [Frame3_View0,0]
-TopLine=364
-Cursor=33783
+TopLine=248
+Cursor=32541
 
 [Frame4]
 Flags=0
@@ -84,13 +84,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.bottom=775
 Class=LaTeXView
 Document=high.tex
 
 [Frame4_View0,0]
 TopLine=0
-Cursor=48
+Cursor=3299
 
 [Frame5]
 Flags=0
@@ -102,13 +102,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.bottom=775
 Class=LaTeXView
 Document=Sputtering.tex
 
 [Frame5_View0,0]
-TopLine=0
-Cursor=32
+TopLine=198
+Cursor=22483
 
 [Frame6]
 Flags=0
@@ -120,13 +120,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.bottom=775
 Class=LaTeXView
 Document=plastic.tex
 
 [Frame6_View0,0]
-TopLine=0
-Cursor=49
+TopLine=285
+Cursor=37841
 
 [Frame7]
 Flags=0
@@ -138,13 +138,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.bottom=775
 Class=LaTeXView
 Document=Summary.tex
 
 [Frame7_View0,0]
 TopLine=0
-Cursor=9
+Cursor=4779
 
 [Frame8]
 Flags=0
@@ -156,13 +156,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1676
-NormalPos.bottom=774
+NormalPos.bottom=775
 Class=LaTeXView
 Document=Theses\Thesen.tex
 
 [Frame8_View0,0]
 TopLine=3
-Cursor=2061
+Cursor=208
 
 [SessionInfo]
 FrameCount=9

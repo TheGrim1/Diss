@@ -26,6 +26,19 @@ Hans~Henrik Andersen.
 \newblock {\em Nuclear Instruments and Methods in Physics Research Section B:
   Beam Interactions with Materials and Atoms}, 18(1-6):321--343, January 1986.
 
+\bibitem[BBF{\etalchar{+}}88]{baibich_giant_1988}
+M.~N. Baibich, J.~M. Broto, A.~Fert, F.~Nguyen Van~Dau, F.~Petroff, P.~Etienne,
+  G.~Creuzet, A.~Friederich, and J.~Chazelas.
+\newblock Giant {Magnetoresistance} of (001){Fe}/(001){Cr} {Magnetic}
+  {Superlattices}.
+\newblock {\em Physical Review Letters}, 61(21):2472--2475, November 1988.
+
+\bibitem[BGSZ89]{binasch_enhanced_1989}
+G.~Binasch, P.~Grünberg, F.~Saurenbach, and W.~Zinn.
+\newblock Enhanced magnetoresistance in layered magnetic structures with
+  antiferromagnetic interlayer exchange.
+\newblock {\em Physical Review B}, 39(7):4828--4830, March 1989.
+
 \bibitem[BH88]{bradley_theory_1988}
 R.~Mark Bradley and James M.~E. Harper.
 \newblock Theory of ripple topography induced by ion bombardment.
@@ -87,6 +100,13 @@ Y.~Cui, Q.~Q. Wei, H.~K. Park, and C.~M. Lieber.
   biological and chemical species.
 \newblock {\em Science}, 293(5533):1289--1292, August 2001.
 \newblock WOS:000170492600031.
+
+\bibitem[CZP{\etalchar{+}}12]{christesen_design_2012}
+Joseph~D. Christesen, Xing Zhang, Christopher~W. Pinion, Thomas~A. Celano,
+  Cory~J. Flynn, and James~F. Cahoon.
+\newblock Design {Principles} for {Photovoltaic} {Devices} {Based} on {Si}
+  {Nanowires} with {Axial} or {Radial} p–n {Junctions}.
+\newblock {\em Nano Letters}, 12(11):6024--6029, November 2012.
 
 \bibitem[DHC{\etalchar{+}}01]{duan_indium_2001}
 X.~F. Duan, Y.~Huang, Y.~Cui, J.~F. Wang, and C.~M. Lieber.
@@ -180,6 +200,11 @@ Andreas Johannes, Henry Holland-Moritz, and Carsten Ronning.
   incorporation, and dynamic annealing.
 \newblock {\em Semiconductor Science and Technology}, 30(3):033001, March 2015.
 
+\bibitem[JNGR11]{johannes_persistent_2011}
+Andreas Johannes, Raphael Niepelt, Martin Gnauck, and Carsten Ronning.
+\newblock Persistent ion beam induced conductivity in zinc oxide nanowires.
+\newblock {\em Applied Physics Letters}, 99(25):252105, 2011.
+
 \bibitem[JNP{\etalchar{+}}14]{johannes_enhanced_2014}
 A.~Johannes, S.~Noack, W.~Paschoal, S.~Kumar, D.~Jacobsson, H.~Pettersson,
   L.~Samuelson, K.~A. Dick, G.~Martinez-Criado, M.~Burghammer, and C.~Ronning.
@@ -236,6 +261,13 @@ Detlef Kramczynski, Bernhard Reuscher, and Hubert Gnaser.
   model.
 \newblock {\em Physical Review B}, 89(20):205422, May 2014.
 
+\bibitem[KTK{\etalchar{+}}08]{kempa_single_2008}
+Thomas~J. Kempa, Bozhi Tian, Dong~Rip Kim, Jinsong Hu, Xiaolin Zheng, and
+  Charles~M. Lieber.
+\newblock Single and {Tandem} {Axial} \textit{p-i-n} {Nanowire} {Photovoltaic}
+  {Devices}.
+\newblock {\em Nano Letters}, 8(10):3456--3460, October 2008.
+
 \bibitem[KZB{\etalchar{+}}09]{klimmer_size-dependent_2009}
 A.~Klimmer, P.~Ziemann, J.~Biskupek, U.~Kaiser, and M.~Flesch.
 \newblock Size-dependent effect of ion bombardment on {Au} nanoparticles on top
@@ -288,6 +320,12 @@ Y.~Miyagawa, M.~Ikeyama, K.~Saito, G.~Massouras, and S.~Miyagawa.
   implantation.
 \newblock {\em Journal of Applied Physics}, 70(12):7289, 1991.
 
+\bibitem[MME13]{micheloni_inside_2013}
+Rino Micheloni, Alessia Marelli, and Kam Eshghi, editors.
+\newblock {\em Inside solid state drives ({SSDs})}.
+\newblock Number~37 in Springer series in advanced microelectronics. Springer,
+  Dordrecht, 2013.
+
 \bibitem[MVB{\etalchar{+}}06]{meijer_concept_2006}
 J.~Meijer, T.~Vogel, B.~Burchard, I.~W. Rangelow, L.~Bischoff, J.~Wrachtrup,
   M.~Domhan, F.~Jelezko, W.~Schnitzler, S.~A. Schulz, K.~Singer, and
@@ -298,23 +336,18 @@ J.~Meijer, T.~Vogel, B.~Burchard, I.~W. Rangelow, L.~Bischoff, J.~Wrachtrup,
   83(2):321--327, May 2006.
 \newblock WOS:000236641800028.
 
-\bibitem[Nan15a]{acs_nano_http://pubs.acs.org/journal/ancac3_2015}
-ACS Nano.
-\newblock {\em http://pubs.acs.org/journal/ancac3}.
-\newblock June 2015.
-
-\bibitem[{Nan}15b]{nano_letters_http://pubs.acs.org/journal/nalefd_2015}
+\bibitem[{Nan}15a]{nano_letters_http://pubs.acs.org/journal/nalefd_2015}
 {Nano Letters}.
 \newblock {\em http://pubs.acs.org/journal/nalefd}.
 \newblock June 2015.
 
-\bibitem[{Nan}15c]{nano_today_http://journals.elsevier.com/17480132/nano-today/_2015}
+\bibitem[{Nan}15b]{nano_today_http://journals.elsevier.com/17480132/nano-today/_2015}
 {Nano Today}.
 \newblock {\em http://journals.elsevier.com/17480132/nano-today/}.
 \newblock June 2015.
 
-\bibitem[Nan15d]{nanotoxicology_http://www.informahealthcare.com/nan_2015}
-Nanotoxicology.
+\bibitem[{Nan}15c]{nanotoxicology_http://www.informahealthcare.com/nan_2015}
+{Nanotoxicology}.
 \newblock {\em http://www.informahealthcare.com/nan}.
 \newblock June 2015.
 
@@ -328,6 +361,12 @@ Nanotoxicology.
 {Nature Nanotechnology}.
 \newblock {\em http://www.nature.com/nnano}.
 \newblock June 2015.
+
+\bibitem[ND08]{nordlund_interatomic_2008}
+Kai Nordlund and Sergei~L. Dudarev.
+\newblock Interatomic potentials for simulating radiation damage effects in
+  metals.
+\newblock {\em Comptes Rendus Physique}, 9(3–4):343--352, April 2008.
 
 \bibitem[Noa14]{noack_sputter_2014}
 Stefan Noack.
@@ -375,6 +414,12 @@ W.~Paschoal, Sandeep Kumar, D.~Jacobsson, A.~Johannes, V.~Jain, C.~M. Canali,
 \newblock {\em Applied Physics Letters}, 104(15):153112, April 2014.
 \newblock WOS:000335145200060.
 
+\bibitem[PZH{\etalchar{+}}04]{patolsky_electrical_2004}
+F.~Patolsky, G.~Zheng, O.~Hayden, M.~Lakadamyali, X.~Zhuang, and C.~M. Lieber.
+\newblock Electrical detection of single viruses.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  101(39):14017--14022, September 2004.
+
 \bibitem[Rot90]{roth_sputtering_1990}
 J.~Roth.
 \newblock Sputtering of {Limiter} and {Divertor} {Materials}.
@@ -386,8 +431,20 @@ Bernd Schmidt.
 \newblock {\em Ion beams in materials processing and analysis}.
 \newblock Springer, New York, 2012.
 
-\bibitem[Sma15]{small_http://www.small-journal.com/_2015}
-Small.
+\bibitem[Sch14]{schierning_silicon_2014}
+Gabi Schierning.
+\newblock Silicon nanostructures for thermoelectric devices: {A} review of the
+  current state of the art: {Silicon} nanostructures for thermoelectric
+  devices.
+\newblock {\em physica status solidi (a)}, 211(6):1235--1249, June 2014.
+
+\bibitem[SCRZ09]{shen_devices_2009}
+Guozhen Shen, Po-Chiang Chen, Koungmin Ryu, and Chongwu Zhou.
+\newblock Devices and chemical sensing applications of metal oxide nanowires.
+\newblock {\em J. Mater. Chem.}, 19(7):828--839, 2009.
+
+\bibitem[{Sma}15]{small_http://www.small-journal.com/_2015}
+{Small}.
 \newblock {\em http://www.small-journal.com/}.
 \newblock June 2015.
 

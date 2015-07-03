@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  29 JUN 2015 21:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  3 JUL 2015 17:31
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -530,100 +530,150 @@ LaTeX Info: Redefining \selectfont on input line 126.
 \RaggedLeftParindent=\skip99
 \RaggedRightParindent=\skip100
 \JustifyingParindent=\skip101
-) ("C:\Talks and Posters\2015-xx-Diss\Diss\title_abstract.tex" [1
+) ("C:\Talks and Posters\2015-xx-Diss\Diss\title_abstract.tex"
+Overfull \hbox (58.38432pt too wide) in paragraph at lines 16--16
+ [][] 
+ []
+
+[1
 
 
 
 
 
-{C:/Users/default.Worklap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) ("C:\Talks and Posters\2015-xx-Diss\Diss\
-Diss.toc")
+{C:/Users/default.Worklap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+) [2
+
+] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.toc")
 \tf@toc=\write4
- [2
+ [1
 
 ]
 Chapter 1.
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Introduction.tex"
-Underfull \vbox (badness 4859) has occurred while \output is active []
 
- [3
+LaTeX Warning: Citation `acs_nano_http://pubs.acs.org/journal/ancac3_2015' on page 2 undefined on input line 8.
+
+[2
 
 ]
 Overfull \hbox (18.7834pt too wide) in paragraph at lines 10--11
 \OT1/cmr/m/n/10.95 con-duc-tor nano-wires, which have gained a sig-nif-i-cant amount of in-ter-est [[],
  []
 
+[3] [4]
 
-Overfull \hbox (2.98215pt too wide) in paragraph at lines 14--15
-[]\OT1/cmr/m/n/10.95 The defin-ing prop-erty of semi-con-duc-tors is the abil-ity to dra-mat-i-cally change
- []
+LaTeX Warning: Reference `sec:ionsolid' on page 5 undefined on input line 32.
 
-[4] [5] [6]) [7] ("C:\Talks and Posters\2015-xx-Diss\Diss\Summary.tex" [8
 
-]
+LaTeX Warning: Reference `sec:experimental' on page 5 undefined on input line 32.
+
+[5]
+
+LaTeX Warning: Reference `sec:sputter' on page 6 undefined on input line 35.
+
+
+LaTeX Warning: Reference `sec:sputter' on page 6 undefined on input line 36.
+
+
+LaTeX Warning: Reference `sec:high' on page 6 undefined on input line 37.
+
+
+LaTeX Warning: Reference `sec:sputter' on page 6 undefined on input line 38.
+
+
+LaTeX Warning: Reference `sec:plastic' on page 6 undefined on input line 39.
+
+
+LaTeX Warning: Reference `sec:plastic' on page 6 undefined on input line 40.
+
+[6]) ("C:\Talks and Posters\2015-xx-Diss\Diss\Summary.tex" [7]
 Chapter 2.
-[9
+[8
 
 ]
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [9]
 Underfull \vbox (badness 1622) has occurred while \output is active []
 
  [10]
 Underfull \vbox (badness 1622) has occurred while \output is active []
 
- [11]
-Underfull \vbox (badness 1622) has occurred while \output is active []
-
- [12]) [13]
+ [11]) [12]
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.bbl"
 Overfull \hbox (124.24055pt too wide) in paragraph at lines 12--16
 []\OT1/cmr/m/n/10.95 Advanced Func-tional Ma-te-ri-als.  \OT1/cmr/m/it/10.95 http://onlinelibrary.wiley.com/journal/10.1
 002/(ISSN)1616-
  []
 
-[14
+[13
 
-] [15] [16] [17]
-Underfull \hbox (badness 3386) in paragraph at lines 266--270
+]
+Underfull \hbox (badness 1342) in paragraph at lines 105--110
+[]\OT1/cmr/m/n/10.95 Joseph D. Chris-te-sen, Xing Zhang, Christo-pher W. Pin-ion,
+ []
+
+[14] [15] [16] [17]
+Underfull \hbox (badness 3386) in paragraph at lines 298--302
 []\OT1/cmr/m/n/10.95 C. R. Mar-tin.  Membrane-based syn-the-sis of nano-ma-te-ri-
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 266--270
+Underfull \hbox (badness 1748) in paragraph at lines 298--302
 \OT1/cmr/m/n/10.95 als.  \OT1/cmr/m/it/10.95 Chem-istry of Ma-te-ri-als\OT1/cmr/m/n/10.95 , 8(8):1739--1746, Au-gust 199
 6.
  []
 
 [18] [19]
-Underfull \hbox (badness 4024) in paragraph at lines 379--383
+Underfull \hbox (badness 4024) in paragraph at lines 424--428
 []\OT1/cmr/m/n/10.95 J. Roth.  Sput-ter-ing of Lim-iter and Di-ver-tor Ma-te-ri-als.
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 379--383
+Underfull \hbox (badness 2460) in paragraph at lines 424--428
 \OT1/cmr/m/it/10.95 Jour-nal of Nu-clear Ma-te-ri-als\OT1/cmr/m/n/10.95 , 176:132--141, De-cem-ber 1990.
  []
 
-[20] [21]) [22] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux") ) 
+[20] [21]) [22] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux")
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4042 strings out of 493921
- 60441 string characters out of 3147251
- 164992 words of memory out of 3000000
- 7261 multiletter control sequences out of 15000+200000
- 13341 words of font info for 47 fonts, out of 3000000 for 9000
- 848 hyphenation exceptions out of 8191
- 39i,9n,55p,1968b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Diss.pdf (22 pages, 219669 bytes).
+ 4059 strings out of 493921
+ 60765 string characters out of 3147251
+ 165096 words of memory out of 3000000
+ 7276 multiletter control sequences out of 15000+200000
+ 13354 words of font info for 47 fonts, out of 3000000 for 9000
+ 850 hyphenation exceptions out of 8191
+ 39i,8n,55p,1994b,264s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmti10.pfb>
+Output written on Diss.pdf (24 pages, 229288 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
+ 135 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
