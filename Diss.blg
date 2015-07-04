@@ -2,6 +2,7 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: Diss.aux
 The style file: alpha.bst
 Database file #1: DissBib.bib
 Warning--I didn't find a database entry for "acs_nano_http://pubs.acs.org/journal/ancac3_2015"
+Warning--I didn't find a database entry for "MTReval"
 Warning--empty publisher in advanced_functional_materials_http://onlinelibrary.wiley.com/journal/10.1002/issn1616-3028_2015
 Warning--empty publisher in advanced_materials_http://www.advmat./_2015
 Warning--empty publisher in map_http://www.itrs.net/_2015
@@ -10,4 +11,6 @@ Warning--empty publisher in nano_today_http://journals.elsevier.com/17480132/nan
 Warning--empty publisher in nanotoxicology_http://www.informahealthcare.com/nan_2015
 Warning--empty publisher in nature_nanotechnology_http://www.nature.com/nnano_2015
 Warning--empty publisher in small_http://www.small-journal.com/_2015
-(There were 9 warnings)
+Warning--empty booktitle in sage_imagej_2012
+Warning--empty publisher in ziegler_srim_2012
+(There were 12 warnings)

@@ -1,2 +1,39 @@
 \contentsline {chapter}{\numberline {1}Introduction}{2}
-\contentsline {chapter}{\numberline {2}Conclusions and Outlook}{8}
+\contentsline {chapter}{\numberline {2}Background}{8}
+\contentsline {section}{\numberline {2.1}Ion-solid interactions}{8}
+\contentsline {subsubsection}{\nonumberline Electronic Energy loss}{8}
+\contentsline {subsubsection}{\nonumberline Nuclear energy loss}{10}
+\contentsline {subsubsection}{\nonumberline The binary collision approximation}{12}
+\contentsline {subsubsection}{\nonumberline Sigmund theory of sputtering}{13}
+\contentsline {section}{\numberline {2.2}Simulation of ion-solid interaction}{16}
+\contentsline {subsubsection}{\nonumberline Monte-Carlo simulations}{16}
+\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{21}
+\contentsline {subsubsection}{\nonumberline Relevant simulations in literature}{21}
+\contentsline {chapter}{\numberline {3}Experimental Methods}{23}
+\contentsline {section}{\numberline {3.1}Nanowire synthesis}{23}
+\contentsline {section}{\numberline {3.2}Modification}{25}
+\contentsline {subsubsection}{\nonumberline ROMEO}{25}
+\contentsline {subsubsection}{\nonumberline Focused ion beam - FIB}{27}
+\contentsline {section}{\numberline {3.3}Characterization}{28}
+\contentsline {subsubsection}{\nonumberline Scanning Electron Microscope - SEM}{28}
+\contentsline {subsubsection}{\nonumberline Electron Back-Scatter Diffraction - EBSD}{29}
+\contentsline {subsubsection}{\nonumberline nano-XRF}{29}
+\contentsline {subsubsection}{\nonumberline nano-XRF quantification}{30}
+\contentsline {chapter}{\numberline {4}Sputtering of Nanowires}{32}
+\contentsline {section}{\numberline {4.1}Simulation of the sputter yield}{32}
+\contentsline {section}{\numberline {4.2}Redeposition}{35}
+\contentsline {section}{\numberline {4.3}Si nanowire sputtering by Ar$^+$ irradiation}{38}
+\contentsline {section}{\numberline {4.4}Summarizing discussion}{41}
+\contentsline {chapter}{\numberline {5}High Doping Concentrations in Nanowires}{43}
+\contentsline {section}{\numberline {5.1}Doping and Sputtering}{43}
+\contentsline {section}{\numberline {5.2}nano-XRF on single nanowires}{44}
+\contentsline {section}{\numberline {5.3}Pseudo-dynamic simulation}{49}
+\contentsline {section}{\numberline {5.4}Summarizing Discussion}{54}
+\contentsline {chapter}{\numberline {6}Plastic Deformation of Silicon Nanowires}{57}
+\contentsline {section}{\numberline {6.1}Experimental observation of plastic deformation}{57}
+\contentsline {section}{\numberline {6.2}Quantification of the Deformation}{59}
+\contentsline {section}{\numberline {6.3}Knock-on transport of mass}{61}
+\contentsline {section}{\numberline {6.4}Ion irradiation at large angles of incidence}{66}
+\contentsline {section}{\numberline {6.5}The proposed deformation mechanism}{67}
+\contentsline {section}{\numberline {6.6}Summarizing Discussion}{75}
+\contentsline {chapter}{\numberline {7}Conclusions and Outlook}{77}
