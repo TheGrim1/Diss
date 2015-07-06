@@ -16,7 +16,7 @@ openany
 \usepackage{color}
 \usepackage{graphicx}
 \setcapindent{1em}
-%\setkomafont{caption}{\small}
+\setkomafont{caption}{\small}
 %\usepackage{wrapfig}
 \usepackage{sidecap}
 \usepackage{amsmath}
@@ -33,9 +33,9 @@ openany
 
 \usepackage{setspace}
 %\singlespacing
-\onehalfspacing
+%\onehalfspacing
 %\doublespacing
-%\setstretch{1.1}
+%\setstretch{1.5}
 
 \usepackage{tocloft}    % tocloft for table of contents style
 
@@ -46,18 +46,22 @@ openany
 %\titlespacing*{\chapter}{0pt}{-100pt}{40pt}
 
 
+\usepackage[toc,page]{appendix}
+
 
 \makeindex
 \begin{document}
+
 \pagenumbering{roman}
-
-
+%\setstretch{1.3}
+\raggedbottom
 \input{title_abstract}
 
 
 \clearpage
 \setcounter{page}{1}
 \pagenumbering{arabic}
+\setstretch{1.2}
 \small{\tableofcontents}
 %\addtocontents{toc}{\vskip-40pt}
 
@@ -66,6 +70,7 @@ openany
 %\setcounter{page}{1}
 %\let\clearpage\relax
 \onehalfspacing
+\setstretch{1.35}
 
 \input{Introduction}
 
@@ -87,7 +92,11 @@ openany
 
 
 %\TODO{sputter yield units check, Thus, Here,: Master Thesis Noack, Ogrisek, Conference proceding D. Sage, Rutherford, Nordlund; books, including www's}
+
+\addcontentsline{toc}{chapter}{Bibliography}
 \bibliography{DissBib}
 
+
+\input{apendix}
 
 \end{document}
