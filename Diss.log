@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  6 JUL 2015 21:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.10.22)  7 JUL 2015 19:18
 entering extended mode
 **Diss.tex
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.tex"
@@ -548,17 +548,17 @@ Overfull \hbox (58.38432pt too wide) in paragraph at lines 16--16
 
 
 {C:/Users/default.Worklap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--31
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
  []
 
@@ -609,33 +609,22 @@ File: images/radiussigmund.jpg Graphic file (type jpg)
  <use images/radiussigmund.jpg>
 Package pdftex.def Info: images/radiussigmund.jpg used on input line 91.
 (pdftex.def)             Requested size: 165.59393pt x 174.22028pt.
- [18 <C:/Talks and Posters/2015-xx-Diss/Diss/images/radiussigmund.jpg>] [19] [20] [21] [22] <images/voxel.jpg, id=99, 11
-48.29pt x 645.41125pt>
+ [18 <C:/Talks and Posters/2015-xx-Diss/Diss/images/radiussigmund.jpg>] [19] [20] [21] [22] <images/voxel.jpg, id=99, 12
+93.83376pt x 1264.725pt>
 File: images/voxel.jpg Graphic file (type jpg)
 
 <use images/voxel.jpg>
 Package pdftex.def Info: images/voxel.jpg used on input line 124.
-(pdftex.def)             Requested size: 183.99452pt x 103.41563pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
-[] []|[]\OT1/cmr/m/it/20.74 add im-age
- []
+(pdftex.def)             Requested size: 183.99452pt x 179.83922pt.
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 127--127
-\OT1/cmr/m/it/20.74 with vox-els []\OT1/cmr/m/n/10.95 Typ-i-cal
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \hbox (badness 2181) in paragraph at lines 127--127
-\OT1/cmr/m/n/10.95 The $\OML/cmm/m/it/10.95 z$\OT1/cmr/m/n/10.95 -direction is pe-ri-od-i-cally
- []
-
-[23 <C:/Talks and Posters/2015-xx-Diss/Diss/images/voxel.jpg>] [24] [25]
+[23] [24 <C:/Talks and Posters/2015-xx-Diss/Diss/images/voxel.jpg>] [25]
 Chapter 3.
 [26
 
-] <images/ZnOnanowires.jpg, id=114, 612.2875pt x 332.24126pt>
+] <images/ZnOnanowires.jpg, id=113, 612.2875pt x 332.24126pt>
 File: images/ZnOnanowires.jpg Graphic file (type jpg)
  <use images/ZnOnanowires.jpg>
 Package pdftex.def Info: images/ZnOnanowires.jpg used on input line 159.
@@ -646,7 +635,7 @@ Underfull \hbox (badness 1215) in paragraph at lines 162--162
  []
 
 [27 <C:/Talks and Posters/2015-xx-Diss/Diss/images/ZnOnanowires.jpg>]
-<images/SEMarray.jpg, id=118, 1280.785pt x 738.76pt>
+<images/SEMarray.jpg, id=117, 1280.785pt x 738.76pt>
 File: images/SEMarray.jpg Graphic file (type jpg)
  <use images/SEMarray.jpg>
 Package pdftex.def Info: images/SEMarray.jpg used on input line 168.
@@ -667,7 +656,7 @@ Underfull \hbox (badness 1675) in paragraph at lines 171--171
  []
 
 [28 <C:/Talks and Posters/2015-xx-Diss/Diss/images/SEMarray.jpg>]
-<images/RHTfotoscematic.png, id=122, 1177.39874pt x 604.2575pt>
+<images/RHTfotoscematic.png, id=121, 1177.39874pt x 604.2575pt>
 File: images/RHTfotoscematic.png Graphic file (type png)
  <use images/RHTfotoscematic.png>
 Package pdftex.def Info: images/RHTfotoscematic.png used on input line 190.
@@ -675,7 +664,7 @@ Package pdftex.def Info: images/RHTfotoscematic.png used on input line 190.
  [29] [30 <C:/Talks and Posters/2015-xx-Diss/Diss/images/RHTfotoscematic.png>] [31] [32] [33])
 ("C:\Talks and Posters\2015-xx-Diss\Diss\Sputtering.tex" [34]
 Chapter 4.
-<images/sputtering_diameter_energy.png, id=143, 1468.48625pt x 1018.80624pt>
+<images/sputtering_diameter_energy.png, id=142, 1468.48625pt x 1018.80624pt>
 File: images/sputtering_diameter_energy.png Graphic file (type png)
 
 <use images/sputtering_diameter_energy.png>
@@ -683,13 +672,13 @@ Package pdftex.def Info: images/sputtering_diameter_energy.png used on input lin
 (pdftex.def)             Requested size: 331.18788pt x 229.76561pt.
  [35
 
-] [36 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputtering_diameter_energy.png>] [37] <images/redeposit.jpg, id=155
+] [36 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputtering_diameter_energy.png>] [37] <images/redeposit.jpg, id=154
 , 788.9475pt x 782.925pt>
 File: images/redeposit.jpg Graphic file (type jpg)
  <use images/redeposit.jpg>
 Package pdftex.def Info: images/redeposit.jpg used on input line 38.
 (pdftex.def)             Requested size: 165.59393pt x 164.32353pt.
- [38 <C:/Talks and Posters/2015-xx-Diss/Diss/images/redeposit.jpg>] <images/anglesredeposition.jpg, id=159, 1187.43625pt
+ [38 <C:/Talks and Posters/2015-xx-Diss/Diss/images/redeposit.jpg>] <images/anglesredeposition.jpg, id=158, 1187.43625pt
  x 512.91624pt>
 File: images/anglesredeposition.jpg Graphic file (type jpg)
 
@@ -697,12 +686,12 @@ File: images/anglesredeposition.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/anglesredeposition.jpg used on input line 66.
 (pdftex.def)             Requested size: 257.5912pt x 111.2688pt.
  [39] [40 <C:/Talks and Posters/2015-xx-Diss/Diss/images/anglesredeposition.jpg>]
-<images/sputter_exp.png, id=166, 1579.9025pt x 807.015pt>
+<images/sputter_exp.png, id=165, 1579.9025pt x 807.015pt>
 File: images/sputter_exp.png Graphic file (type png)
  <use images/sputter_exp.png>
 Package pdftex.def Info: images/sputter_exp.png used on input line 108.
 (pdftex.def)             Requested size: 349.58846pt x 178.5659pt.
- [41] [42 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputter_exp.png>] [43] <images/EBSD.jpg, id=178, 933.4875pt x 1
+ [41] [42 <C:/Talks and Posters/2015-xx-Diss/Diss/images/sputter_exp.png>] [43] <images/EBSD.jpg, id=177, 933.4875pt x 1
 069.9975pt>
 File: images/EBSD.jpg Graphic file (type jpg)
  <use images/EBSD.jpg>
@@ -718,12 +707,12 @@ Underfull \hbox (badness 3612) in paragraph at lines 126--126
 Chapter 5.
 [47
 
-] <images/iradinacrosssection.png, id=192, 1423.3175pt x 738.76pt>
+] <images/iradinacrosssection.png, id=191, 1423.3175pt x 738.76pt>
 File: images/iradinacrosssection.png Graphic file (type png)
  <use images/iradinacrosssection.png>
 Package pdftex.def Info: images/iradinacrosssection.png used on input line 12.
 (pdftex.def)             Requested size: 294.39235pt x 152.79948pt.
- [48 <C:/Talks and Posters/2015-xx-Diss/Diss/images/iradinacrosssection.png>] <images/XRFSEM.jpg, id=197, 1561.835pt x 6
+ [48 <C:/Talks and Posters/2015-xx-Diss/Diss/images/iradinacrosssection.png>] <images/XRFSEM.jpg, id=196, 1561.835pt x 6
 04.2575pt>
 File: images/XRFSEM.jpg Graphic file (type jpg)
 
@@ -731,7 +720,7 @@ File: images/XRFSEM.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/XRFSEM.jpg used on input line 29.
 (pdftex.def)             Requested size: 294.39235pt x 113.89731pt.
  [49 <C:/Talks and Posters/2015-xx-Diss/Diss/images/XRFSEM.jpg>]
-<images/MnZn1.png, id=201, 1515.6625pt x 794.97pt>
+<images/MnZn1.png, id=200, 1515.6625pt x 794.97pt>
 File: images/MnZn1.png Graphic file (type png)
  <use images/MnZn1.png>
 Package pdftex.def Info: images/MnZn1.png used on input line 43.
@@ -740,12 +729,12 @@ Package pdftex.def Info: images/MnZn1.png used on input line 43.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[50] <images/MnZn2.png, id=205, 1423.3175pt x 736.7525pt>
+[50] <images/MnZn2.png, id=204, 1423.3175pt x 736.7525pt>
 File: images/MnZn2.png Graphic file (type png)
  <use images/MnZn2.png>
 Package pdftex.def Info: images/MnZn2.png used on input line 53.
 (pdftex.def)             Requested size: 312.79292pt x 161.90617pt.
- [51 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MnZn1.png>] <images/SEMbreak2.jpg, id=210, 1106.1325pt x 401.5pt>
+ [51 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MnZn1.png>] <images/SEMbreak2.jpg, id=209, 1106.1325pt x 401.5pt>
 File: images/SEMbreak2.jpg Graphic file (type jpg)
  <use images/SEMbreak2.jpg>
 Package pdftex.def Info: images/SEMbreak2.jpg used on input line 66.
@@ -755,7 +744,7 @@ Package pdftex.def Info: images/SEMbreak2.jpg used on input line 66.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [52 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MnZn2.png>] [53 <C:/Talks and Posters/2015-xx-Diss/Diss/images/SEMbre
-ak2.jpg>] <images/staticsputteryield.png, id=219, 792.8019pt x 539.8569pt>
+ak2.jpg>] <images/staticsputteryield.png, id=218, 792.8019pt x 539.8569pt>
 File: images/staticsputteryield.png Graphic file (type png)
  <use images/staticsputteryield.png>
 Package pdftex.def Info: images/staticsputteryield.png used on input line 89.
@@ -764,13 +753,13 @@ Package pdftex.def Info: images/staticsputteryield.png used on input line 89.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[54] <images/sputterincorporate.png, id=223, 1430.34375pt x 872.25874pt>
+[54] <images/sputterincorporate.png, id=222, 1430.34375pt x 872.25874pt>
 File: images/sputterincorporate.png Graphic file (type png)
  <use images/sputterincorporate.png>
 Package pdftex.def Info: images/sputterincorporate.png used on input line 100.
 (pdftex.def)             Requested size: 294.39235pt x 179.5196pt.
  [55 <C:/Talks and Posters/2015-xx-Diss/Diss/images/staticsputteryield.png>] [56 <C:/Talks and Posters/2015-xx-Diss/Diss
-/images/sputterincorporate.png>] <images/pseudodynamic.png, id=232, 793.5246pt x 542.5068pt>
+/images/sputterincorporate.png>] <images/pseudodynamic.png, id=231, 793.5246pt x 542.5068pt>
 File: images/pseudodynamic.png Graphic file (type png)
  <use images/pseudodynamic.png>
 Package pdftex.def Info: images/pseudodynamic.png used on input line 111.
@@ -778,7 +767,7 @@ Package pdftex.def Info: images/pseudodynamic.png used on input line 111.
  [57 <C:/Talks and Posters/2015-xx-Diss/Diss/images/pseudodynamic.png>] [58] [59] [60])
 ("C:\Talks and Posters\2015-xx-Diss\Diss\plastic.tex" [61]
 Chapter 6.
-<images/deformSEM.png, id=250, 1268.74pt x 1192.455pt>
+<images/deformSEM.png, id=249, 1268.74pt x 1192.455pt>
 File: images/deformSEM.png Graphic file (type png)
  <use images/deformSEM.png>
 Package pdftex.def Info: images/deformSEM.png used on input line 13.
@@ -795,26 +784,26 @@ Underfull \hbox (badness 6708) in paragraph at lines 16--16
 
 [62
 
-] <images/deformationprofileandSEM.jpg, id=254, 2302.6025pt x 908.39375pt>
+] <images/deformationprofileandSEM.jpg, id=253, 2302.6025pt x 908.39375pt>
 File: images/deformationprofileandSEM.jpg Graphic file (type jpg)
  <use images/deformationprofileandSEM.jpg>
 Package pdftex.def Info: images/deformationprofileandSEM.jpg used on input line 23.
 (pdftex.def)             Requested size: 364.31117pt x 143.71037pt.
 
 [63 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformSEM.png>] [64 <C:/Talks and Posters/2015-xx-Diss/Diss/images/de
-formationprofileandSEM.jpg>] <images/MTRillustration.png, id=262, 870.25125pt x 746.79pt>
+formationprofileandSEM.jpg>] <images/MTRillustration.png, id=261, 870.25125pt x 746.79pt>
 File: images/MTRillustration.png Graphic file (type png)
 
 <use images/MTRillustration.png>
 Package pdftex.def Info: images/MTRillustration.png used on input line 48.
 (pdftex.def)             Requested size: 110.39783pt x 94.72731pt.
  [65 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MTRillustration.png>]
-<images/MTReval.png, id=268, 775.4571pt x 530.2209pt>
+<images/MTReval.png, id=267, 775.4571pt x 530.2209pt>
 File: images/MTReval.png Graphic file (type png)
  <use images/MTReval.png>
 Package pdftex.def Info: images/MTReval.png used on input line 57.
 (pdftex.def)             Requested size: 183.99452pt x 125.79932pt.
- [66 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MTReval.png>] [67] <images/deformationBCA.jpg, id=276, 1316.92pt x 1
+ [66 <C:/Talks and Posters/2015-xx-Diss/Diss/images/MTReval.png>] [67] <images/deformationBCA.jpg, id=275, 1316.92pt x 1
 115.16624pt>
 File: images/deformationBCA.jpg Graphic file (type jpg)
 
@@ -826,7 +815,7 @@ Package pdftex.def Info: images/deformationBCA.jpg used on input line 73.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [68] [69] [70 <C:/Talks and Posters/2015-xx-Diss/Diss/images/deformationBCA.jpg>]
-<images/reverseFIB.jpg, id=286, 2268.475pt x 383.4325pt>
+<images/reverseFIB.jpg, id=285, 2268.475pt x 383.4325pt>
 File: images/reverseFIB.jpg Graphic file (type jpg)
  <use images/reverseFIB.jpg>
 Package pdftex.def Info: images/reverseFIB.jpg used on input line 89.
@@ -834,14 +823,14 @@ Package pdftex.def Info: images/reverseFIB.jpg used on input line 89.
  [71
 
 ]
-<images/reverseangle.jpg, id=291, 1189.44376pt x 1102.1175pt>
+<images/reverseangle.jpg, id=290, 1189.44376pt x 1102.1175pt>
 File: images/reverseangle.jpg Graphic file (type jpg)
  <use images/reverseangle.jpg>
 Package pdftex.def Info: images/reverseangle.jpg used on input line 98.
 (pdftex.def)             Requested size: 364.31117pt x 337.54956pt.
  [72 <C:/Talks and Posters/2015-xx-Diss/Diss/images/reverseFIB.jpg>] [73 <C:/Talks and Posters/2015-xx-Diss/Diss/images/
 reverseangle.jpg>] [74]
-[75] <images/deformationmodel.jpg, id=304, 1533.73pt x 1276.77pt>
+[75] <images/deformationmodel.jpg, id=303, 1533.73pt x 1276.77pt>
 File: images/deformationmodel.jpg Graphic file (type jpg)
  <use images/deformationmodel.jpg>
 Package pdftex.def Info: images/deformationmodel.jpg used on input line 114.
@@ -988,35 +977,91 @@ Underfull \hbox (badness 1701) in paragraph at lines 899--902
 \OT1/cmr/m/n/10.95 by ion bom-bard-ment.  \OT1/cmr/m/it/10.95 Jour-nal of Ma-te-ri-als Sci-ence\OT1/cmr/m/n/10.95 ,
  []
 
-[108] [109] [110] [111]) ("C:\Talks and Posters\2015-xx-Diss\Diss\apendix.tex" [112] [113
+[108] [109] [110] [111]) ("C:\Talks and Posters\2015-xx-Diss\Diss\apendix.tex" [112] [113] [114
 
 
 ]
 Appendix A.
-) [114
 
-] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux") ) 
+Overfull \hbox (0.29643pt too wide) in paragraph at lines 16--19
+\OT1/cmr/m/n/10.95 Anomalous Plas-tic De-for-ma-tion and Sput-ter-ing of Ion Ir-ra-di-ated Sil-i-con Nano-
+ []
+
+[115
+
+]
+Overfull \hbox (9.5938pt too wide) in paragraph at lines 46--49
+[]\OT1/cmr/m/n/10.95 Atomic-scale struc-ture, cation dis-tri-bu-tion, and bandgap bow-ing in Cu(In,Ga)S$[]$
+ []
+
+[116]
+Appendix B.
+[117
+
+] [118]
+Appendix C.
+
+Overfull \hbox (20.10379pt too wide) in paragraph at lines 101--102
+[]\OT1/cmr/m/n/10.95 Die Vorge-hensweise bei der PyMCA Auswer-tung wurde von Gema Martinez-
+ []
+
+[119
+
+] [120]
+Appendix D.
+
+Overfull \hbox (4.20613pt too wide) in paragraph at lines 123--133
+[] 
+ []
+
+[121
+
+]
+Appendix E.
+
+Overfull \hbox (1.6246pt too wide) in paragraph at lines 145--146
+\OT1/cmr/m/n/10.95 meines Aufen-thalts im ``Roten Haus'' un-terstutzt haben. Ange-fan-gen naturlich
+ []
+
+
+Overfull \hbox (4.433pt too wide) in paragraph at lines 145--146
+\OT1/cmr/m/n/10.95 bei Carsten Ron-ning: Du hast meinen Wis-senschaftliche Werde-gang tatsachlich
+ []
+
+
+Overfull \hbox (0.23965pt too wide) in paragraph at lines 147--148
+[]\OT1/cmr/m/n/10.95 At this point many thanks to Gema Martinez-Criado and Man-fred Burgham-
+ []
+
+[122
+
+] [123]
+Overfull \hbox (4.52429pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10.95 eine auergewohnliche Schul-bil-dung und ein Studium nach Be-lieben ermoglicht,
+ []
+
+) [124] ("C:\Talks and Posters\2015-xx-Diss\Diss\Diss.aux") ) 
 Here is how much of TeX's memory you used:
  4486 strings out of 493921
- 69591 string characters out of 3147251
- 170938 words of memory out of 3000000
- 7652 multiletter control sequences out of 15000+200000
- 14828 words of font info for 52 fonts, out of 3000000 for 9000
- 850 hyphenation exceptions out of 8191
- 39i,15n,55p,2235b,420s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Diss.pdf (116 pages, 10712664 bytes).
+ 69585 string characters out of 3147251
+ 170945 words of memory out of 3000000
+ 7650 multiletter control sequences out of 15000+200000
+ 14182 words of font info for 50 fonts, out of 3000000 for 9000
+ 853 hyphenation exceptions out of 8191
+ 39i,15n,55p,2235b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Diss.pdf (126 pages, 10895014 bytes).
 PDF statistics:
- 483 PDF objects out of 1000 (max. 8388607)
+ 510 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  146 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -7,7 +7,7 @@
 \contentsline {subsubsection}{\nonumberline Sigmund theory of sputtering}{16}
 \contentsline {section}{\numberline {2.2}Simulation of the ion-solid interaction}{19}
 \contentsline {subsubsection}{\nonumberline Monte-Carlo simulations}{19}
-\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{24}
+\contentsline {subsubsection}{\nonumberline Molecular dynamic simulations}{23}
 \contentsline {subsubsection}{\nonumberline Relevant simulations in literature}{24}
 \contentsline {chapter}{\numberline {3}Experimental Methods}{26}
 \contentsline {section}{\numberline {3.1}Nanowire synthesis}{26}
@@ -38,5 +38,9 @@
 \contentsline {section}{\numberline {6.6}Summarizing Discussion}{80}
 \contentsline {chapter}{\numberline {7}Conclusions and Outlook}{82}
 \contentsline {chapter}{Bibliography}{88}
-\contentsline {chapter}{Appendices}{113}
-\contentsline {chapter}{\numberline {A}Some Appendix}{114}
+\contentsline {chapter}{Appendices}{114}
+\contentsline {chapter}{\numberline {A}List of Publications}{115}
+\contentsline {chapter}{\numberline {B}List of oral and poster presentations}{117}
+\contentsline {chapter}{\numberline {C}Ehrenw\IeC {\"o}rtliche Erkl\IeC {\"a}rung}{119}
+\contentsline {chapter}{\numberline {D}Lebenslauf}{121}
+\contentsline {chapter}{\numberline {E}Danksagung}{122}
